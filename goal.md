@@ -24,7 +24,7 @@
 mostly because as we _age_ extreme temperatures make bones ache!
 
 
-## **Learning Centre** Requirements
+## **Learning Center** Requirements
 
 + Quiet + Well-lit and temperature controlled rooms
   + Electricity (_for information technology learning_)
