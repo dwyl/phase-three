@@ -7,18 +7,28 @@ this repo is for you!
 
 ### Our Goal/Mission
 
-> Help people understand and achieve their potential, particularly those who have less access to this help.
+> Help people understand and achieve their potential through technology.
 
 So what does this encompass? Any number of things that will need to be split out into measurable goals:
 + Living a happy life
 + Financial sustainability https://github.com/dwyl/phase-two/issues/42
 + Life-long learning
-+ Understanding how to be deal with today's constant distraction and information overload
 + Health https://github.com/dwyl/health
 + Sustainable living https://github.com/dwyl/aquaponics
 + Living with purpose and ethics https://github.com/dwyl/hq/issues/155
++ Understanding how to be deal with today's constant distraction and information overload
 + And many more!
 
+### What is important to us?
+Our [manifesto]() does a good job of transmitting our beliefs (although a [tidy-up is needed](https://github.com/dwyl/start-here/issues/80)!) so a quick re-iteration of the key points:
++ People- and user-centric
++ Life-long learning community
++ Open source
++ [Hyper-transparency](https://github.com/dwyl/hq/issues/140), building dwyl 'out in the open'
++ Accessibility (to all of our offerings)
++ Socially impactful
++ Sustainability
++ Data driven & data *privacy* driven
 
 
 
