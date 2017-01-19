@@ -36,10 +36,6 @@ out once reviewed from its rough draft form. We'll need a way to navigate!
 
 
 ## Context
-Since April 2015, we have been running dwyl with two people at the 'helm' (setting
-the direction of the organisation) with an [awesome team](http://www.dwyl.io) and community
-contributing to everything we do.
-
 2017 is the year of **formalising the various types of work we do into their
 own, neat groupings of activities**, which for now we'll call 'verticals' (but that's
 awful and we need a better word!).
@@ -55,6 +51,25 @@ on a _services_ project and also film a introductory video tutorial for a new te
 ## Verticals
 
 ### Product
+
+#### Why?
+When we first started dwyl in April 2015, our intention has always been to be a 'products company'. Why? For so many reasons!
+
+The most significant for us are:
++ Being people-centred has always been at the core of our philosophies and
+working on products that **solve real problems** and that we believe in are the best way to reach the *most* people
+  + Working with different clients has [exposed us to problems](https://github.com/SafeLives) that we may never have delved into ourselves
+  but has also limited our reach
++ To follow the process from an idea to scale without constraint
++ To create something that goes far beyond the linear limitations of how much
+time we can put into a project
++ To scratch our own itch, building tools that make *our* lives easier and more
+productive but may not already exist
+
+#### What?
+Our first products will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
+Built with a modular architecture, this application will be a cross between a
+to-do list and a time tracking application.
 
 ### Services
 
