@@ -64,16 +64,59 @@ working on products that **solve real problems** and that we believe in are the 
 + To create something that goes far beyond the linear limitations of how much
 time we can put into a project
 + To scratch our own itch, building tools that make *our* lives easier and more
-productive but may not already exist
+effective as an organisation but may not already exist
 
 #### What?
 Our first products will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
 Built with a modular architecture, this application will be a cross between a
 to-do list and a time tracking application.
++ Still love the strapline: 'Getting through your must-dos to get to your want-tos', though I'm not sure this accurately reflects the aims anymore
++ Key aims:
+  + Effective time management (understand where it is going & how to improve)
+  + Improved team communication
+  + Improved focussed time
+  + Deliver work
++ Focus on the individual's potential/productivity first
++ Ability to share with the team built in from the beginning so people know
+ when they would be interrupting ("I'm on fire" one-click warning to others
+:wink:) - key is to do a lot of research around what people _want_ to share
+ and what they want to be shared _with them_
+ + Minimum friction wherever possible, e.g. one-click start of timers,
+ recognition of a github URL & data filled in automatically
+ + We want our products to benefit from a positive [network effect](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8#.6w6z2hjew) where increased usage of the product leads to it being a more valuable product for everyone (plays into open source)
+
++ CRM - so many thoughts to write out on this
 
 ### Services
++ Split into two sections: consulting and development
+  + Consulting again split in two:
+    + Identification and solution of problems
+    + Effective implementation and use (including user testing)
+    of our products for organisations
++ _Everything_ we build must have a social impact or reusable open source components
++ Focus:
+  + Delighting our existing clients
+  + Building sales & running of projects into _extremely solid_ processes that
+  can be scaleable with a relatively small amount of support
+    + Freelance model will be required whilst we build our pipeline and
+    solidify our processes
+      + Product will need a **strong foundation** before we can have people
+      jumping around between services and product or it'll be too difficult to
+      manage and the switching costs will unavoidably drain funds
+
 
 ### Training
++ Workshops
+  + HTML/CSS for designers
+  + New stack (Phoenix)
+  + User testing
+  + Testing
+  + Agile development
++ Building content around our business
++ Focus on video tutorials
+  + Purpose of this is two-fold: establish a new channel of learning for our
+  community (especially for visual learners), continue to enhance our reputation
+  for educating and creating in-bound links
 
 ### Co-working
 
