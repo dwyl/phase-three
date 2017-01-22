@@ -49,6 +49,14 @@ For example, a developer working mostly on product could spend some time doing Q
 on a _services_ project and also film a introductory video tutorial for a new technology they've learned.
 
 ## Verticals
+All verticals **must contribute to our fixed overheads** (aside from Product
+which we will need to invest in in the short term) and/or contribute to our
+credibility as experts in a given field.
+
+Each vertical will have **its own set of goals**, derived from [dwyl's guiding principles](github.com/dwyl/phase-two#guiding-principles)
+which will be refined over time to serve as it's _decision making framework_.
+
+> There is overlap across all of our verticals - they all present multiple opportunities to feed into each other.
 
 ### Product
 
@@ -65,6 +73,13 @@ working on products that **solve real problems** and that we believe in are the 
 time we can put into a project
 + To scratch our own itch, building tools that make *our* lives easier and more
 effective as an organisation but may not already exist
+
+#### Goals
+Initially centred on:
++ Date for MVP
++ Number of _active_ users by the end of the calendar year (based on repeated interaction with the app, [not time spent on it](https://github.com/dwyl/hq/issues/149#issuecomment-269154087))
++ Break-even date
++ Targets on quantitative feedback from people using the application
 
 #### What?
 Our first products will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
@@ -87,6 +102,10 @@ to-do list and a time tracking application.
 
 + CRM - so many thoughts to write out on this
 
+There are many 'small' enhancements we will be making to increase the effectiveness
+of our own workflow. Each should be evaluated as a potential product.
+
+
 ### Services
 + Split into two sections: consulting and development
   + Consulting again split in two:
@@ -103,7 +122,14 @@ to-do list and a time tracking application.
       + Product will need a **strong foundation** before we can have people
       jumping around between services and product or it'll be too difficult to
       manage and the switching costs will unavoidably drain funds
++ One of our strongest channels for reaching many different organisations
+  and helping them learn about dwyl
 
+#### Goals
+Initially centred on:
++ Social impact metric of some description
++ Cost of new client acquisition
++ Net promoter score (NPS)
 
 ### Training
 + Workshops
@@ -114,9 +140,10 @@ to-do list and a time tracking application.
   + Agile development
 + Building content around our business
 + Focus on video tutorials
-  + Purpose of this is two-fold: establish a new channel of learning for our
-  community (especially for visual learners), continue to enhance our reputation
-  for educating and creating in-bound links
+  + Purpose of this is multi-fold: establish a new channel of learning for our
+  community (especially for visual learners), continue to enhance our
+  reputation for educating and creating in-bound links
+  + We use our own products as the subject of our beginner videos (I'm particularly excited about the user testing one)
 
 ### Co-working
 

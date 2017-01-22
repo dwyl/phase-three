@@ -20,7 +20,7 @@ So what does this encompass? Any number of things that will need to be split out
 + Understanding how to be deal with today's constant distraction and information overload
 + And many more!
 
-### What is important to us?
+### Guiding Principles
 Our [manifesto]() does a good job of transmitting our beliefs (although a [tidy-up is needed](https://github.com/dwyl/start-here/issues/80)!) so a quick re-iteration of the key points:
 + People- and user-centric
 + Life-long learning community
@@ -32,7 +32,9 @@ Our [manifesto]() does a good job of transmitting our beliefs (although a [tidy-
 + Data driven & data *privacy* driven
 
 ### How will we achieve this?
-[The Plan](/plan.md) [WiP - read at your own peril :wink:].
+[The Plan](/plan.md) [WiP - read at your own peril :wink:]. For now this
+focuses on 'Phase 1.5', what we will need to **get from where we are now to a
+place where we can start investing in longer-term sustainable living and wellbeing**.
 
 
 
