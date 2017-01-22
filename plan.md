@@ -115,7 +115,7 @@ of our own workflow. Each should be evaluated as a potential product.
 Our Services arm is how we help other organisations serve _their_ communities and achieve their social goals.
 
 
-+ Split into two sections: consulting and development
++ Split into two sections: consulting (overlap with training)and development
   + Consulting again split in two:
     + Identification and solution of problems
     + Effective implementation and use (including user testing)
@@ -142,20 +142,55 @@ Initially centred on:
 
 Training is how we share our knowledge with individuals and organisations in our team and community, building them up.
 
-+ Workshops
-  + HTML/CSS for designers
-  + New stack (Phoenix)
-  + User testing
-  + Testing
-  + Agile development
-+ Building content around our business
-+ Focus on video tutorials
-  + Purpose of this is multi-fold: establish a new channel of learning for our
-  community (especially for visual learners), continue to enhance our
-  reputation for educating and creating in-bound links
-  + We use our own products as the subject of our beginner videos (I'm particularly excited about the user testing one)
+#### Why?
+**Internally**, we want to ensure dwylers continue to learn and grow; facilitating
+that process by fostering the sharing of knowledge is essential to us as an
+organisation and the learning culture we want to encourage.
+
+**Externally**, we have identified a clear need for user-centric technical training
+both based on requests from our immediately local community (particularly in the
+social good sector) and the engagement with our [existing online tutorials](https://github.com/dwyl/the-book/issues/69) and
+as evidenced by the number of training platforms and companies appearing weekly.
+
+#### How?
+
+We will use **our own products** across all of our training, demonstrating that
+we have successfully implemented what we are teaching consistently.
+
+##### Workshops
+Workshops will be run *internally* in QuietSpace to share our knowledge with our
+team and with [QuietSpace](#co-working) members as well as for our [services
+clients](#services).
+
+They will be captured on video and edited so they can be shared with our remote
+community.
+
+Current workshop topics:
++ HTML/CSS for designers
++ User testing
++ [New stack](https://github.com/dwyl/technology-stack)
++ Automated testing
++ Pragmatic Agile development
+
+> Each workshop will have a defined structure and proposed audience.
 
 
+##### Video
+Whilst text-based tutorials have been our current way of disseminating knowledge,
+these are not great for visual learners and limit our audience to people who are
+comfortable using and navigating GitHub, which a lot of beginners are not.
+
+Expanding into video content will allow us to:
++ Establish a new channel of learning for our community (especially for visual learners)
++ Uphold our values of creating a learning community
++ Enhance our credibility as subject experts
++ Create in-bound links to our other content, products and services, in turn
+improving their SEO and exposure
+
+##### Metrics to track
++ Number of hours spent creating content
++ Number of click-throughs to other dwyl content
++ Number of click-throughs to dwyl websites
 
 
 ### Co-working
@@ -163,6 +198,8 @@ Training is how we share our knowledge with individuals and organisations in our
 Running our own co-working space is how we create the best working environment
 for our London-based team members and for London-based organisations looking
 for a productive and creative workspace.
+
+> Currently, this is set up and known as QuietSpace.
 
 ##### Why?
 Having full ownership of the place where we work means that we can feel like
