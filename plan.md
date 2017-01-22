@@ -49,8 +49,7 @@ For example, a developer working mostly on product could spend some time doing Q
 on a _services_ project and also film a introductory video tutorial for a new technology they've learned.
 
 ## Verticals
-All verticals **must contribute to our fixed overheads** (aside from Product
-which we will need to invest in in the short term) and/or contribute to our
+All verticals **must contribute to our fixed overheads** and/or contribute to our
 credibility as experts in a given field.
 
 Each vertical will have **its own set of goals**, derived from [dwyl's guiding principles](github.com/dwyl/phase-two#guiding-principles)
@@ -59,9 +58,12 @@ which will be refined over time to serve as it's _decision making framework_.
 > There is overlap across all of our verticals - they all present multiple opportunities to feed into each other.
 
 ### Product
+Building products is how we serve the _most_ people.
 
 #### Why?
-When we first started dwyl in April 2015, our intention has always been to be a 'products company'. Why? For so many reasons!
+Since we first started dwyl, our intention has always been to be a 'products company'. Why? For so many reasons!
+
+//TODO Cut this next section down, too wordy.
 
 The most significant for us are:
 + Being people-centred has always been at the core of our philosophies and
@@ -75,31 +77,31 @@ time we can put into a project
 effective as an organisation but may not already exist
 
 #### Goals
-Initially centred on:
-+ Date for MVP
-+ Number of _active_ users by the end of the calendar year (based on repeated interaction with the app, [not time spent on it](https://github.com/dwyl/hq/issues/149#issuecomment-269154087))
-+ Break-even date
-+ Targets on quantitative feedback from people using the application
++ Do we use the product _every day_?
++ Further goals to be set:
+  + Date for MVP
+  + Number of _active_ people by the end of the calendar year (based on repeated interaction with the app, [not time spent on it](https://github.com/dwyl/hq/issues/149#issuecomment-269154087))
 
 #### What?
-Our first products will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
+Our **first products** will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
 Built with a modular architecture, this application will be a cross between a
 to-do list and a time tracking application.
-+ Still love the strapline: 'Getting through your must-dos to get to your want-tos', though I'm not sure this accurately reflects the aims anymore
-+ Key aims:
-  + Effective time management (understand where it is going & how to improve)
-  + Improved team communication
-  + Improved focussed time
-  + Deliver work
+
+Our products will benefit from a positive [network effect](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8#.6w6z2hjew) where increased usage of the product leads to it being a more valuable product for everyone (plays into open source).
+
+#### Key aims:
++ Effortlessness (e.g. one-click timer start)
++ Minimum friction (e.g. If a GitHub URL is added as a task, all of the data is pulled from GitHub and filled in automatically)
++ Improved focussed time
++ Effective time management (understand where your time is going & how to improve)
++ Improved team communication
 + Focus on the individual's potential/productivity first
 + Ability to share with the team built in from the beginning so people know
- when they would be interrupting ("I'm on fire" one-click warning to others
+when they would be interrupting ("I'm on fire" one-click warning to others
 :wink:) - key is to do a lot of research around what people _want_ to share
- and what they want to be shared _with them_
- + Minimum friction wherever possible, e.g. one-click start of timers,
- recognition of a github URL & data filled in automatically
- + We want our products to benefit from a positive [network effect](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8#.6w6z2hjew) where increased usage of the product leads to it being a more valuable product for everyone (plays into open source)
+and what they want to be shared _with them_
 
+//TODO fill out CRM section
 + CRM - so many thoughts to write out on this
 
 There are many 'small' enhancements we will be making to increase the effectiveness
@@ -107,6 +109,10 @@ of our own workflow. Each should be evaluated as a potential product.
 
 
 ### Services
+
+Our Services arm is how we help other organisations serve _their_ communities and achieve their social goals.
+
+
 + Split into two sections: consulting and development
   + Consulting again split in two:
     + Identification and solution of problems
@@ -122,8 +128,7 @@ of our own workflow. Each should be evaluated as a potential product.
       + Product will need a **strong foundation** before we can have people
       jumping around between services and product or it'll be too difficult to
       manage and the switching costs will unavoidably drain funds
-+ One of our strongest channels for reaching many different organisations
-  and helping them learn about dwyl
+
 
 #### Goals
 Initially centred on:
@@ -132,6 +137,9 @@ Initially centred on:
 + Net promoter score (NPS)
 
 ### Training
+
+Training is how we share our knowledge with individuals and organisations in our team and community, building them up.
+
 + Workshops
   + HTML/CSS for designers
   + New stack (Phoenix)
@@ -145,6 +153,40 @@ Initially centred on:
   reputation for educating and creating in-bound links
   + We use our own products as the subject of our beginner videos (I'm particularly excited about the user testing one)
 
+
+
+
 ### Co-working
 
+Running our own co-working space is how we create the best working environment
+for our London-based team members and for London-based organisations looking
+for a productive and creative workspace.
+
+##### Why?
+Having full ownership of the place where we work means that we can feel like
+it embodies our values, we can dictate the conditions in which we want to work
+and we have a space which we can adapt to our goals and objectives.
+
+#### What do we gain from running this ourselves?
++ Set our own rules to ensure a productive but fun workspace, mixing focussed
+time with camaraderie
++ Surround ourselves with a community of like-minded people, not limited to our
+own team's views and skillset
++ Prototype our remote-first mindset by creating a space that is perfect for
+digital nomads (which we can learn from to help others unlock their potential in
+[Phase Two](../phase-two-goal.md))
++ Ability to transform our office to fit any one of our endeavours, particularly
+[running workshops, filming training videos](#training) and improving the wellbeing
+of our team
++ Having a space which we can provide to social impact organisations in need of
+a place to hold events
++ Take the unnecessary financial burden off [Founders & Coders'](http://www.foundersandcoders.com/) hands
+ (prototype of our remote-first working culture, offering a space ).
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 More to come, but these are the most immediate!

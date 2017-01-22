@@ -7,7 +7,7 @@ this repo is for you!
 
 ### Our Goal/Mission
 
-> Help people unlock their potential through technology.
+> Empower people to sustainably unlock their potential.
 
 So what does this encompass? Any number of things that will need to be split out into measurable goals:
 + Living a happy life
