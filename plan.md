@@ -28,7 +28,7 @@ dwyl wears and how they _work together_.
 For the time being, we are putting everything into this one .md file, to be split
 out once reviewed from its rough draft form. We'll need a way to navigate!
 + [Context](#context)
-+ [Verticals](#verticals)
++ [Branches](#branches)
   + [Product](#product)
   + [Services](#services)
   + [Training](#training)
@@ -36,26 +36,28 @@ out once reviewed from its rough draft form. We'll need a way to navigate!
 
 
 ## Context
-2017 is the year of **formalising the various types of work we do into their
-own, neat groupings of activities**, which for now we'll call 'verticals' (but that's
-awful and we need a better word!).
 
-> Each vertical will have it's own mission, detailed goals and timelines,
+![tree-branches-image](http://www.m-a.org.uk/features/big/branches_main.jpg)
+
+2017 is the year of **formalising the various types of work we do into their
+own, neat groupings of activities**, the various _branches_ of dwyl.
+
+> Each **branch** will have it's own mission, detailed goals and timelines,
 feeding directly into dwyl's overall goal.
 
-dwylers will work within one vertical for at least 50% of their time, but _will
+dwylers will work within one branch for at least 50% of their time, but _will
 contribute to more than one_ depending on personal preferences and dwyl's needs.
 For example, a developer working mostly on product could spend some time doing QA
 on a _services_ project and also film a introductory video tutorial for a new technology they've learned.
 
-## Verticals
-All verticals **must contribute to our fixed overheads** and/or contribute to our
+## Branches
+All branches **must contribute to our fixed overheads** and/or contribute to our
 credibility as experts in a given field.
 
-Each vertical will have **its own set of goals**, derived from [dwyl's guiding principles](github.com/dwyl/phase-two#guiding-principles)
+Each branch will have **its own set of goals**, derived from [dwyl's guiding principles](github.com/dwyl/phase-two#guiding-principles)
 which will be refined over time to serve as it's _decision making framework_.
 
-> There is overlap across all of our verticals - they all present multiple opportunities to feed into each other.
+> There is overlap across all of our branches - they all present multiple opportunities to feed into each other.
 
 ### Product
 Building products is how we serve the _most_ people.
