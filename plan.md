@@ -85,7 +85,10 @@ effective as an organisation but may not already exist
   + Number of _active_ people by the end of the calendar year (based on repeated interaction with the app, [not time spent on it](https://github.com/dwyl/hq/issues/149#issuecomment-269154087))
 
 #### What?
-Our **first products** will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
+
+#### First products
+> Our **first products** will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
+
 Built with a modular architecture, this application will be a cross between a
 to-do list and a time tracking application.
 
@@ -103,11 +106,27 @@ when they would be interrupting ("I'm on fire" one-click warning to others
 :wink:) - key is to do a lot of research around what people _want_ to share
 and what they want to be shared _with them_
 
-//TODO fill out CRM section
-+ CRM - so many thoughts to write out on this
+#### CRM
+We have outgrown our 'spreadsheet' customer relationship management (CRM) system
+and need a place where we can **securely and accessibly** store all our client
+communications so that the *whole team* can see and contribute to these.
 
-There are many 'small' enhancements we will be making to increase the effectiveness
-of our own workflow. Each should be evaluated as a potential product.
+Our CRM *code* will be **fully open source**, following our [guiding principles](https://github.com/dwyl/phase-two#guiding-principles) and
+removing as many barriers to entry/use as possible for small businesses with a
+social impact. The data however, will not be accessible to anyone outside of the
+organisation or sold to 3rd parties (a la [LinkedIn](https://www.forbes.com/sites/georgeanders/2012/06/27/how-linkedin-strategy/#c4e2c1fdf82c)).
+
+Value lies in:
++ Linking all of the branches of our business together
++ Excellent low risk learning project for learning our new stack
++ Modular architecture which is easy to extend *without* becoming super patchy
+  + Modules re-used across multiple products and services projects
++ Transparency on business development for all of our team
++ Central location where data can easily be entered as our business development
+efforts expand with [Services](#services) and [Training](#training) offerings
+
+> There are many 'small' enhancements we will be making to increase the effectiveness
+of our own workflow. **Each should be evaluated as a potential product.**
 
 
 ### Services
@@ -133,10 +152,10 @@ Our Services arm is how we help other organisations serve _their_ communities an
 
 
 #### Goals
-Initially centred on:
-+ Social impact metric of some description
++ Social impact metric TBD
 + Cost of new client acquisition
-+ Net promoter score (NPS)
++ Delivery on time
++ Delivery on budget
 
 ### Training
 
@@ -186,6 +205,7 @@ Expanding into video content will allow us to:
 + Enhance our credibility as subject experts
 + Create in-bound links to our other content, products and services, in turn
 improving their SEO and exposure
+
 
 ##### Metrics to track
 + Number of hours spent creating content
