@@ -176,6 +176,9 @@ as evidenced by the number of training platforms and companies appearing weekly.
 We will use **our own products** across all of our training, demonstrating that
 we have successfully implemented what we are teaching consistently.
 
+As we do now, we will continue to evaluate each part our product and services
+cycle as a potential candidate for a learning resource and workshop.
+
 ##### Workshops
 Workshops will be run *internally* in QuietSpace to share our knowledge with our
 team and with [QuietSpace](#co-working) members as well as for our [services
@@ -193,6 +196,10 @@ Current workshop topics:
 
 > Each workshop will have a defined structure and proposed audience.
 
+Initial incarnations of the 'HTML/CSS for designers', 'Pragmatic Agile
+Development' and 'Automated Testing' workshops have already been held and will
+be reviewed and iterated on.
+
 
 ##### Video
 Whilst text-based tutorials have been our current way of disseminating knowledge,
@@ -206,6 +213,10 @@ Expanding into video content will allow us to:
 + Create in-bound links to our other content, products and services, in turn
 improving their SEO and exposure
 
+The **first step** is to create a **five minute introductory** video to each of
+our [learn tutorials](https://github.com/dwyl/video/issues/17#issuecomment-275573939)
+so that we can determine _what people are interested in learning more of_ and
+define which subjects to invest our time in developing content for.
 
 ##### Metrics to track
 + Number of hours spent creating content
@@ -234,13 +245,16 @@ own team's views and skillset
 + Prototype our remote-first mindset by creating a space that is perfect for
 digital nomads (which we can learn from to help others unlock their potential in
 [Phase Two](../phase-two-goal.md))
-+ Ability to transform our office to fit any one of our endeavours, particularly
++ Freedom to transform our office to fit any one of our endeavours, particularly
 [running workshops, filming training videos](#training) and improving the wellbeing
 of our team
 + Having a space which we can provide to social impact organisations in need of
 a place to hold events
 + Take the unnecessary financial burden off [Founders & Coders'](http://www.foundersandcoders.com/) hands
- (prototype of our remote-first working culture, offering a space ).
+ (prototype of our remote-first working culture, offering a space).
+
+ #### How?
+ https://github.com/dwyl/quietspace/pull/26
 
 
 
