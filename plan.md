@@ -62,6 +62,9 @@ which will be refined over time to serve as it's _decision making framework_.
 ### Product
 Building products is how we serve the _most_ people.
 
+Market research will be carried out and a business case will be put together for
+the creation of each of our products before work on these begins.
+
 #### Why?
 Since we first started dwyl, our intention has always been to be a 'products company'. Why? For so many reasons!
 
