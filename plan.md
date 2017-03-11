@@ -62,27 +62,16 @@ which will be refined over time to serve as it's _decision making framework_.
 ### Product
 Building products is how we serve the _most_ people.
 
+Our intention has always been to be a 'products company'.  
+Building tools that make *our* lives easier and more effective as an
+organisation means that we will be start by solving a problem we not only already
+intimately familiar with, but are passionate about solving.
+
 Market research will be carried out and a business case will be put together for
-the creation of each of our products before work on these begins.
-
-#### Why?
-Since we first started dwyl, our intention has always been to be a 'products company'. Why? For so many reasons!
-
-//TODO Cut this next section down, too wordy.
-
-The most significant for us are:
-+ Being people-centred has always been at the core of our philosophies and
-working on products that **solve real problems** and that we believe in are the best way to reach the *most* people
-  + Working with different clients has [exposed us to problems](https://github.com/SafeLives) that we may never have delved into ourselves
-  but has also limited our reach
-+ To follow the process from an idea to scale without constraint
-+ To create something that goes far beyond the linear limitations of how much
-time we can put into a project
-+ To scratch our own itch, building tools that make *our* lives easier and more
-effective as an organisation but may not already exist
+the creation of each of our products.
 
 #### Goals
-+ Do we use the product _every day_?
++ Do we use/reach for the product _every day_?
 + Further goals to be set:
   + Date for MVP
   + Number of _active_ people by the end of the calendar year (based on repeated interaction with the app, [not time spent on it](https://github.com/dwyl/hq/issues/149#issuecomment-269154087))
@@ -127,6 +116,9 @@ Value lies in:
 + Transparency on business development for all of our team
 + Central location where data can easily be entered as our business development
 efforts expand with [Services](#services) and [Training](#training) offerings
++ 50% of all charitable organisations we have spoken to have told us that their
+current CRM is not fit for purpose, we could easily begin to provide a solution
+to this problem if we desired
 
 > There are many 'small' enhancements we will be making to increase the effectiveness
 of our own workflow. **Each should be evaluated as a potential product.**
@@ -136,29 +128,51 @@ of our own workflow. **Each should be evaluated as a potential product.**
 
 Our Services arm is how we help other organisations serve _their_ communities and achieve their social goals.
 
+We *already* do far more than just 'web development' for our services clients
+and this should be formalised into our offering.
 
-+ Split into two sections: consulting (overlap with training)and development
-  + Consulting again split in two:
-    + Identification and solution of problems
-    + Effective implementation and use (including user testing)
-    of our products for organisations
-+ _Everything_ we build must have a social impact or reusable open source components
-+ Focus:
-  + Delighting our existing clients
-  + Building sales & running of projects into _extremely solid_ processes that
-  can be scaleable with a relatively small amount of support
-    + Freelance model will be required whilst we build our pipeline and
-    solidify our processes
-      + Product will need a **strong foundation** before we can have people
-      jumping around between services and product or it'll be too difficult to
-      manage and the switching costs will unavoidably drain funds
+#### ATM Workshops  
+Deeply understanding the problem and helping organisations to arrive at a
+solution with actionable metrics is where dwyl adds the most value.
+
+Our 1 to 5 day workshops will be the cornerstone of the Services offering,
+providing clients with:
++ Understanding the "success drivers" i.e. "ATMs"
++ Proposed technical path forward - what technology can the client use to be more effective at reaching their organisational goals
++ Simple prototype
++ Effective [agile collaboration and user testing training](#training)
+
+These workshops will be our largest 'per man hour' contributor to fixed overheads
+from our Services branch by the end of 2017.
+
+#### Product Development
+_Everything_ we build must have a social impact or reusable open source components.
+
+Our [processes](https://github.com/dwyl/contributing) for the delivery of product
+development and [working with services clients](https://github.com/dwyl/ateam-master-reference) are already highly
+developed. These will remain in flux and be [continuously improved]((https://github.com/dwyl/dwylbot)
+as we build our own [products](#product).
+
+#### Focus
++ Delighting our existing customers
++ Writing out the structure for our ATM workshops
++ Building sales through delivering great work and sharing "success stories" (case studies)
++ Creating a simple way for people to share our services
 
 
-#### Goals
-+ Social impact metric TBD
+#### Metrics to Track in Services
+
++ Did we get a good case study quote from the client/project?
++ Quantitative feedback from clients (particularly if they would work with us again)
++ Sources of new leads (using Google Analytics and conversations, recording
+  this in our CRM)
+  + Number of new leads from recommendations of existing clients
++ Effectiveness of and time spent on individual marketing channels
+(particularly social media)
 + Cost of new client acquisition
-+ Delivery on time
-+ Delivery on budget
++ Net promoter score (NPS)
+
+
 
 ### Training
 

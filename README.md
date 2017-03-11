@@ -7,7 +7,7 @@ this repo is for you!
 
 ### Our Goal/Mission
 
-> Empower people to sustainably unlock their potential.
+> Empower people to sustainably unlock their potential and pursue their passion through technology.
 
 So what does this encompass? Any number of things that will need to be split out into measurable goals:
 + Living a happy life
@@ -36,6 +36,8 @@ Our [manifesto]() does a good job of transmitting our beliefs (although a [tidy-
 focuses on 'Phase 1.5', what we will need to **get from where we are now to a
 place where we can start investing in longer-term sustainable living and wellbeing**.
 
+### Our Vision
+Creating sustainable products, services, experiences and environments that enrich lives.
 
 
 We _very much_ want to hear your thoughts on this so if you have _time_
