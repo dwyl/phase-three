@@ -3,7 +3,8 @@
 If you are the kind of person who likes thinking _long-term_ and _high-impact_
 this repo is for you!
 
-**D**o **W**hat **Y**ou **L**ove is _not_ a stepping-stone project, we're in it for the long-haul. And after a year and a half, we're making sure that the direction we're heading in is clear to everyone who wants to know.
+**D**o **W**hat **Y**ou **L**ove is _not_ a stepping-stone project, we're in it for the long-haul. <br />
+We are making sure that the direction we're heading in is clear to everyone who wants to know.
 
 ### Our Goal/Mission
 
@@ -21,7 +22,7 @@ So what does this encompass? Any number of things that will need to be split out
 + And many more!
 
 ### Guiding Principles
-Our [manifesto]() does a good job of transmitting our beliefs (although a [tidy-up is needed](https://github.com/dwyl/start-here/issues/80)!) so a quick re-iteration of the key points:
+Our [manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md) does a good job of transmitting our beliefs (although a [tidy-up is needed](https://github.com/dwyl/start-here/issues/80)!) so a quick re-iteration of the key points:
 + People- and user-centric
 + Life-long learning community
 + Open source
