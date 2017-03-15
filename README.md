@@ -8,7 +8,7 @@ We are making sure that the direction we're heading in is clear to everyone who 
 
 ### Our Goal/Mission
 
-> Empower people to sustainably unlock their potential and pursue their passion through technology.
+> Empower people to sustainably unlock their potential and pursue their passion.
 
 So what does this encompass? Any number of things that will need to be split out into measurable goals:
 + Living a happy life
