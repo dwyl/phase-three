@@ -77,13 +77,16 @@ the creation of each of our products.
 
 #### What?
 
-#### First products
-> Our **first products** will be [time](github.com/dwyl/time) (name TBC!) and [tudo](github.com/dwyl/tudo).
+#### First product
+
+> Our **first product** will be [time](github.com/dwyl/time) 
+
+To _support_ this and help our people know what to prioritise we are building [tudo](github.com/dwyl/tudo) and CRM.
 
 Built with a modular architecture, this application will be a cross between a
 to-do list and a time tracking application.
 
-Our products will benefit from a positive [network effect](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8#.6w6z2hjew) where increased usage of the product leads to it being a more valuable product for everyone (plays into open source).
+Time will benefit from a positive [network effect](https://medium.com/evergreen-business-weekly/the-power-of-network-effects-why-they-make-such-valuable-companies-and-how-to-harness-them-5d3fbc3659f8#.6w6z2hjew) where increased usage of the product leads to it being a more valuable product for everyone (plays into open source).
 
 #### Key aims:
 + Effortlessness (e.g. one-click timer start)
