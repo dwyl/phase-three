@@ -57,7 +57,6 @@ credibility as experts in a given field.
 Each branch will have **its own set of goals**, derived from [dwyl's guiding principles](github.com/dwyl/phase-two#guiding-principles)
 which will be refined over time to serve as it's _decision making framework_.
 
-> There is overlap across all of our branches - they all present multiple opportunities to feed into each other.
 
 ### Product
 Building products is how we serve the _most_ people.
