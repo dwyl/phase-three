@@ -18,7 +18,7 @@ So what does this encompass? Any number of things that will need to be split out
 + Health https://github.com/dwyl/health
 + Sustainable living https://github.com/dwyl/aquaponics
 + Living with purpose and ethics https://github.com/dwyl/hq/issues/155
-+ Understanding how to be deal with today's constant distraction and information overload
++ Deal with today's constant distraction and information overload
 + And many more!
 
 ### Guiding Principles
