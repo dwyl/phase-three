@@ -3,7 +3,7 @@
 If you are the kind of person who likes thinking _long-term_ and _high-impact_
 this repo is for you!
 
-**D**o **W**hat **Y**ou **L**ove is _not_ a stepping-stone project, we're in it for the long-haul. <br />
+**D**o **W**hat **Y**ou **L**ove is _not_ a stepping-stone, we're in it for the long-haul. <br />
 We are making sure that the direction we're heading in is clear to everyone who wants to know.
 
 ### Our Goal/Mission
