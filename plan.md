@@ -28,7 +28,7 @@ dwyl wears and how they _work together_.
 For the time being, we are putting everything into this one .md file, to be split
 out once reviewed from its rough draft form. We'll need a way to navigate!
 + [Context](#context)
-+ [Branches](#branches)
++ [Branches](#branches) > discuss naming: https://github.com/dwyl/phase-two/issues/51
   + [Product](#product)
   + [Services](#services)
   + [Training](#training)
