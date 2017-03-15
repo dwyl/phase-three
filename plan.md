@@ -18,7 +18,7 @@ It didn't start out like this.
 We began with [a product MVP](https://github.com/dwyl/time),
 then in order to support [Founders & Coders](foundersandcoders.com) and ensure the lights
 could be kept on at this organisation that dwyl's co-founders were heavily involved
-in building, we [started to take on client projects](https://github.com/dwyl/ateam-proposal)(again)
+in building, we [started to take on client projects](https://github.com/dwyl/ateam-proposal) (again)
 whilst building our learning community by sharing the knowledge as we went.
 
 This plan lays out **how dwyl aims to achieve its goals**, _clarifying_ the many hats
