@@ -252,7 +252,7 @@ for a productive and creative workspace.
 > Currently, this is set up and known as QuietSpace.
 
 ##### Why?
-Having full ownership of the place where we work means that we can feel like
+Having influence over the decision making in the place where we work means that we can feel like
 it embodies our values, we can dictate the conditions in which we want to work
 and we have a space which we can adapt to our goals and objectives.
 
