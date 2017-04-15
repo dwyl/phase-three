@@ -1,6 +1,8 @@
 > I don't know if this is the "_right_" place/repository
 to include this idea/plan, so please feel free to _move it_
 to somewhere more appropriate. (_I won't be offended!_)
+please discuss in the issue `before` moving:
+https://github.com/dwyl/phase-two/issues/54
 
 ## Why?
 
@@ -10,7 +12,9 @@ but which turn out to be _exceptionally_ "_enlightened_" in retrospect.
 
 ## What?
 
-A center for learning, creative technology and sustainable living.
+### Creative Technology Resource & Learning Workspace (`CTRL+W`)
+
+`CTRL+W` is a **hub** for creative technology learning and sustainable living.
 
 Braga is not (_yet_) on the "Digital Map" the way Lisbon or Porto are.
 There are _several_ factors that make it a good candidate:
@@ -21,9 +25,10 @@ than bigger European cities; fewer tourists means great food is still cheap!
 + Good (_modern_) hospital and other medical
 facilities e.g: dentists and eye specialists (_we recently updated our glasses
   and paid around a third of London prices! so much for "specsavers"!_)
-+ Generally high eduction levels and low crime rate.
++ Generally high education levels and low crime rate.
 + Excellent transport links (_Bus/Train to the rest of Portugal_)
   > To investigate: is there a _direct_ bus to Porto Airport?
+
 
 # How?
 
@@ -37,11 +42,11 @@ The house is comprised of 3 floors:
     + Projector
     + Beanbags
     + Yoga Mats
-  + 2 Medium Sized ("double") rooms
-    + Multi-media recording/editing studio for video/podcast production
-    + Laundry, utilities and storage room
+  + 2 Medium Sized ("double") rooms:
+    + **Multi-media recording/editing studio** for video/podcast production
+    + "**Art Room**" for design, crafts & other arts.
   + 1 Small ("single") room (_was previously used as a study_)
-    Laundry, utilities and storage room.
+    we intend to use this as our Laundry, utilities and linen room.
   + Bathroom w/ Shower (_big enough for an accessible/wheelchair facility
     or multiple showers_)
 + **First Floor**
@@ -49,6 +54,7 @@ The house is comprised of 3 floors:
   space. It can easily fit desks for
   + Dining Room fits 8 People
   + Kitchen (large enough for double appliances and "American" fridges)
+  + Walk-in Pantry perfect for storing food and kitchen appliances.
   + Office/Study - this will be our library and resource room (_printing etc_)
   + Bathroom
 + **Second Floor**
@@ -85,7 +91,6 @@ but once we are up-and-running
 we will have an ***application process*** for people joining.
 
 
-
 ### What is a "Digital Nomad" ("_DiNo_")?
 
 A "Digital Nomad" (_or_ "_DiNo_" _for short_)
@@ -103,9 +108,9 @@ We @dwyl have _embraced_ remote working from the beginning because we know
 that as long as people have a quite place to focus on their work,
 it can be done from _anywhere_.
 
-Quite a few of the dwyl team members have worked remotely over the past
+Quite a few (_existing_) dwyl team members have worked remotely over the past
 couple of years from interesting places such as Bali, Japan, Mexico, Columbia,
-Spain, France, Belgium, Scotland, Portugal, USA, Canada, New Zealand etc
+Spain, France, Scotland, Portugal, USA, Canada, Jamaica, New Zealand etc
 (_the list goes on!_).
 But until now we haven't been able to _provide_ the destination for people
 to go and live & work remotely.
@@ -118,37 +123,104 @@ make it attractive to DiNos.
 
 There is space for 48 beds (24 Bunks) in the house if we were to _maximise_ it,
 but our purpose is to make it _comfortable_ for everyone
-so our plan is to `limit` it to 24 bunk beds (12 bunks); 4 bunks per large room.
+so our plan is to `limit` it to **24 bunk beds** (12 bunks);
+4 bunks per large room.
+
+
+### Lights Out Sleep Time: 22:00
+
+No more tech after Ten PM.
+We expect people to sleep from 23:00 - 07:00 (8hrs)
+Some of us will sleep 22:00 - 05:00 because we need to be up early to
+go to the fruit+veg market.
+
 
 ### Hostel Requirements and Considerations
 
 + Firstly we need to _enquire_ about ***licensing/regulations***
 to operate a "Bed and Breakfast" or "Youth Hostel"
 in the area and specifically that location.
-+ **_Secure_ bicycle parking**. (_off street_) - how many spaces?
 + **Solar panels** - what is the pay-back period (_financial_)
 and can we _justify_ investing in panels immediately?
 (_can we use the bank loan to finance them_?)
++ **_Secure_ bicycle parking**. (_off street_) - how many spaces?
++ **_Secure_ Building Access** membership card and/or NFC-enabled mobile phone.
+  all exterior doors will have security cameras for the safety of members.
 + **Bunk Beds** - are there already _great_ quality beds we can use
 or do we need to spec/design and order our own from scratch.
++ Investigate fruit & veg (_wholesale_) market
+
+
 
 ## 2. Workspace
 
-Our plan is to have **24 sit/stand desks**
-available to the 24 people staying with us.
-The desks will be primarily in the "Main Office" 18 desks.
+Our plan is to create _ideal_ ("***deep***") working conditions
+for the **24 people** staying with us.
+
+Considering that we currently have 26+ people
+working in the **140m**<sup>2</sup> at Palmer's road,
+we expect people to be a **lot more _comfortable_**
+with **300m**<sup>2</sup>
+
+### Desks
+
+We will make **24 sit/stand desks** available for people to use.
+The desks will be primarily in the "Main Office" which will have 18 desks.
 Each desk will measure 100 x 70cm
-
-We will encourage people to work in the "Main Room"
-from 08:00 - 16:00
-
+and have a vertical range of between 65cm and 125cm
+(_this **exceeds** the range of motion of an IKEA Bekant sit/stand desk_)
 
 
-## 3. Creative Technology Learning Center
+### Well-defined Work Day: 08:00 - 16:00
+
+We will _encourage_ people to work have _consistent_ working hours
+from 08:00 - 16:00. The "Main Room" is available for
+co-working during these hours.
+ people should take a break for lunch,
+go for a walks (_outside_) and take naps (_upstairs_) as required.
+
+If people prefer to work earlier or later than this
+that is fine! We will simply ask that they do so from a _different_ room
+
+### No Working in the Kitchen Dining Room
+
+No laptops are allowed in the Kitchen/Dining room;
+these are areas for conversations not "_anti-social_" working.
+
+Tablets/phones are permitted to _demo_ work as part of discussions
+and for checking recipes in the kitchen.
+
+### Day Visitors
+
+Once we are _well established_ we will encourage other people
+to visit during the day to learn & collaborate with us.
+
+Similar to "Google Campus" where _anyone_ can show up and work.
+People who are _members_ of dwyl can come and work in the house/gardens
+and use free WiFi
+
+## 3. Creative Technology Resource & Learning Workshops (`CTRL+W`)
+
+The purpose of `CTRL+W` is to develop and share creative/technology knowledge.
+
+Between **16:00 - 19:00** we will hold _**daily**
+Creative Technology **Workshops** for **dwyl members**_.
+
+We intend to share our learning _material_ both in written form
+(_the way we have since the start of dwyl_) and as video recordings.
+
+dwyl's purpose is _not_ to "_make money_" from education,
+however we feel that the learning materials, online and in-person community
+of creative technology professionals offers _significant_ value to our members.
+In order to make Learning/Training a _sustainable independent_ "_arm_"
+of dwyl we need to charge a _small_ monthly membership fee.
+
+We will maintain ***100% Transparency*** in the "dwyl NetWork"
+it will be _clear_ to all members _exactly_ where their membership fee
+is being spent (_mostly content creation, infrastructure/servers and admin_).
 
 
 
 
-
-The purpose of Braga is not to _live_ in Braga "_for ever_"
-in the same way that the purposes of MDC was to live in SE5 for ever.
+The purpose of Braga is ***not*** to _live_ in Braga "_for ever_"
+in the same way that the purposes of **MDC** was to live in SE5 for _ever_!
