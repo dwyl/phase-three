@@ -12,22 +12,22 @@ but which turn out to be _exceptionally_ "_enlightened_" in retrospect.
 
 ## What?
 
-### Creative Technology Resource & Learning Workspace (`CTRL+W`)
+### Creative Technology Rapid Learning Workspace (`CTRL+W`)
 
 `CTRL+W` is a **hub** for creative technology learning and sustainable living.
 
 Braga is not (_yet_) on the "Digital Map" the way Lisbon or Porto are.
 There are _several_ factors that make it a good candidate:
-+ General availability of high-speed internet.
++ General availability of high-speed internet
 + Considerably cheaper living costs and far less crowded
 than bigger European cities; fewer tourists means great food is still cheap!
-+ All major super markets, clothing stores and facilities are available.
++ All major supermarkets, clothing stores and facilities are available
 + Good (_modern_) hospital and other medical
 facilities e.g: dentists and eye specialists (_we recently updated our glasses
   and paid around a third of London prices! so much for "specsavers"!_)
-+ Generally high education levels and low crime rate.
-+ Excellent transport links (_Bus/Train to the rest of Portugal_)
-  > To investigate: is there a _direct_ bus to Porto Airport?
++ Comparitively high education levels and low crime rate
++ Excellent transport links (_Buses/Trains to the rest of Portugal_)
+  > _Direct_ bus to Porto Airport available [GetBus](http://www.getbus.eu)
 
 
 # How?
@@ -37,8 +37,8 @@ facilities e.g: dentists and eye specialists (_we recently updated our glasses
 
 The house is comprised of 3 floors:
 + **Basement**
-  + Large (4 car) Garage with street door and ramp to the public road - we will
-  be using the garage as our multi-purpose in-door communal/community area.
+  + Large Garage with street door and ramp to the public road - we will
+  be using the garage as our multi-purpose indoor communal/community area.
     + Projector
     + Beanbags
     + Yoga Mats
@@ -50,33 +50,33 @@ The house is comprised of 3 floors:
   + Bathroom w/ Shower (_big enough for an accessible/wheelchair facility
     or multiple showers_)
 + **First Floor**
-  + Extra-Large Living room (8 x 4m) - to be used as our main co-working
-  space. It can easily fit desks for
+  + Extra-Large Living room (9.4 x 4.3m) - to be used as our main co-working
+  space. It can easily fit desks for 20 people (1m wide - see below)
   + Dining Room fits 8 People
   + Kitchen (large enough for double appliances and "American" fridges)
   + Walk-in Pantry perfect for storing food and kitchen appliances.
   + Office/Study - this will be our library and resource room (_printing etc_)
   + Bathroom
 + **Second Floor**
-  + 3 Large bedrooms - the plan is to use these 3 large rooms as "Dorm" rooms
+  + 4 Large bedrooms - the plan is to use these 3 large rooms as "Dorm" rooms
     with bunk beds. Each room can comfortably fit 5 bunk beds with
     storage space, however we are going to _initially_ limit each room to 4
     (_double_) bunks (_see below for details_)
-  + 1 Medium bedroom (_was used as a "TV Room"_)
-  this will be the bedroom for Ines & Nelson
+  + 1 Medium bedroom this will be the bedroom for Ines & Nelson
   or who ever is the "_house master_" once it's set up
   and ready to run _independently_ of us.
-  + Bathroom w/ bath - this will be converted into 3 individual showers.
+  + Bathroom w/ shower - this will be converted into 2 individual showers.
+  + Bathroom w/ bath - this will be converted into additional toilet cubicles.
 + **Outdoors / Garden**
-  + 2.5 - 4m around the house (_currently the garden is neglected
+  + 2.5 - 4m around the house (_currently the garden is very neglected
     so requires some attention/landscaping_) we are considering the following:
-    + Out-door table Tennis (_covered_)
-    + Out-door Table Football ("_fuseball_")
+    + Outdoor table Tennis (_covered_)
+    + Outdoor Table Football ("_fussball_")
     + Hot tub (_we need to gauge demand for it
       and cost it including annual maintenance_)
   + Bird House (_disused_) - the plan is to convert it into something _useful_
   like a sauna/steam room (_which is great for detox/letting off steam..._)
-  + Glass Cube for outdoor meditation, reading and isolated creative work.
+  + Glass Cube for outdoor meditation, quiet reading and isolated creative work.
 
 ## 1. Hostel
 
@@ -95,27 +95,27 @@ we will have an ***application process*** for people joining.
 
 A "Digital Nomad" (_or_ "_DiNo_" _for short_)
 is a person who is "***location-independent***".
-A DiNo's does not require visiting a traditional "_office_"
-they can ***work from anywhere***
+A DiNo's does not require visiting a traditional "_office_".
+They can ***work from anywhere***
 with nothing more than a **Laptop Computer & Internet Connection**.
 
 Much of the "**Knowledge Economy**" work can be done _remotely_.
 This lowers the costs to the person doing the work
-because they don't have to pay _exorbitant_ "_Metropolis_" rents/prices
+because they don't have to pay _exhorbitant_ "_Metropolis_" rents/prices
 (_e.g. London, New York, San Jose, Oslo, Tokyo, etc._)
 
 We @dwyl have _embraced_ remote working from the beginning because we know
-that as long as people have a quite place to focus on their work,
+that as long as people have a quiet place to focus on their work,
 it can be done from _anywhere_.
 
 Quite a few (_existing_) dwyl team members have worked remotely over the past
 couple of years from interesting places such as Bali, Japan, Mexico, Columbia,
-Spain, France, Scotland, Portugal, USA, Canada, Jamaica, New Zealand etc
+Spain, France, Scotland, Portugal, USA, Canada, Jamaica, New Zealand, etc
 (_the list goes on!_).
 But until now we haven't been able to _provide_ the destination for people
 to go and live & work remotely.
 And while "Braga" might not be a "beach in Thailand" it does have
-certain _other_ advantages which are detailed below which will
+certain _other_ advantages (detailed below) which will
 make it attractive to DiNos.
 
 
@@ -134,6 +134,13 @@ We expect people to sleep from 23:00 - 07:00 (8hrs)
 Some of us will sleep 22:00 - 05:00 because we need to be up early to
 go to the fruit+veg market.
 
+### Weekends
+
+Everyone is free to relax and do what they want on weekends.
+People who observe a specific faith should make this known
+to others after joining so everyone `else` can respect
+their days/times of worship.
+
 
 ### Hostel Requirements and Considerations
 
@@ -148,8 +155,14 @@ and can we _justify_ investing in panels immediately?
   all exterior doors will have security cameras for the safety of members.
 + **Bunk Beds** - are there already _great_ quality beds we can use
 or do we need to spec/design and order our own from scratch.
-+ Investigate fruit & veg (_wholesale_) market
-
++ Investigate fresh produce (_wholesale_) market for sourcing fruit & veg
+with a bulk discount.
++ Should we make all fruit & veg "free" for members?
++ A clear code-of-conduct must be drawn up using dwyl's existing one.
+It _must_ be _clear_ to all what constitutes acceptable behaviour
+and what the grounds are for membership (_and the revocation thereof_)
+e.g: knowingly breaking any local law will lead to membership termination
+because each member is an ambassador/representative of the entire org/team.
 
 
 ## 2. Workspace
@@ -160,15 +173,36 @@ for the **24 people** staying with us.
 Considering that we currently have 26+ people
 working in the **140m**<sup>2</sup> at Palmer's road,
 we expect people to be a **lot more _comfortable_**
-with **300m**<sup>2</sup>
+with **300m**<sup>2</sup>.
+
+People will be able to work their choice of creative/technology projects.
+We will give preferential residence/access to people who work with/for dwyl.
+
+
+
 
 ### Desks
 
 We will make **24 sit/stand desks** available for people to use.
-The desks will be primarily in the "Main Office" which will have 18 desks.
+The desks will be primarily in the "**Main Office**"
+which will have **20 desks**.
+
+### Dimensions
+
 Each desk will measure 100 x 70cm
-and have a vertical range of between 65cm and 125cm
+(_this is **compact** but adequate for **ample** for a Laptop,
+  Gas-lift mounted Screen, notepad and other personal afects_)
+
+### Sit/Stand
+
+Desks can be  have a vertical range of between 65cm and 125cm
 (_this **exceeds** the range of motion of an IKEA Bekant sit/stand desk_)
+
+Desks will be on castors and can be moved into different layouts.
+We can easily switch between
+"classroom" format (_everyone facing the projector screen_)
+and "deep work" (_everyone facing the walls to avoid distraction_)
+or "team work" (_where desks are clustered to promote collaboration_).
 
 
 ### Well-defined Work Day: 08:00 - 16:00
@@ -180,24 +214,30 @@ co-working during these hours.
 go for a walks (_outside_) and take naps (_upstairs_) as required.
 
 If people prefer to work earlier or later than this
-that is fine! We will simply ask that they do so from a _different_ room
-
-### No Working in the Kitchen Dining Room
-
-No laptops are allowed in the Kitchen/Dining room;
-these are areas for conversations not "_anti-social_" working.
-
-Tablets/phones are permitted to _demo_ work as part of discussions
-and for checking recipes in the kitchen.
+that is fine! We will simply ask that they do so from a _different_ room.
 
 ### Day Visitors
 
 Once we are _well established_ we will encourage other people
 to visit during the day to learn & collaborate with us.
 
+The "main room" will be reserved for focussed work
+as visitors will inevitably distract others.
+
 Similar to "Google Campus" where _anyone_ can show up and work.
 People who are _members_ of dwyl can come and work in the house/gardens
-and use free WiFi
+and use free WiFi.
+
+### No Working in the Kitchen Dining Room
+
+No laptops are allowed in the Kitchen/Dining room;
+these are areas for eating and casual conversations, not staring at screens.
+
+Tablets/phones are permitted to _demo_ work
+as part of informal discussions
+and for checking recipes in the kitchen
+but people should not sit at the table messaging or watching videos.
+
 
 ## 3. Creative Technology Resource & Learning Workshops (`CTRL+W`)
 
@@ -215,12 +255,58 @@ of creative technology professionals offers _significant_ value to our members.
 In order to make Learning/Training a _sustainable independent_ "_arm_"
 of dwyl we need to charge a _small_ monthly membership fee.
 
-We will maintain ***100% Transparency*** in the "dwyl NetWork"
-it will be _clear_ to all members _exactly_ where their membership fee
-is being spent (_mostly content creation, infrastructure/servers and admin_).
+For more detail on the dwyl NetWork see: [/NetWork.md](/NetWork.md)
+
+<br /><br /><br /><br />
+
+# The Plan
+
+Hopefully the above has given some insight into what we intend to
+do with the Braga House. (_if you have questions, please ask in issues(s)_!)
+
+## Financials
+
+### The House
+
+Buying the house will cost **€280k** (_+ Taxes TBD_). <br />
+This figure may sound like a "_bargain_" by "_big city_" standards ...
+a **7 bedroom**, 3 bathroom, 2 office/study house with a generous kitchen,
+separate dining room, a garden and garage for
+_**less than** a **studio flat** in **London**_!
+
+> We think this is an "_unmissable_" opportunity because the total cost
+of living is less than **1/3** of **London** which means
+that _all_ our members can achieve "***financial freedom***" much earlier!
+
+### Renovations
+
+_One_ of the reasons why the house is so "_cheap_" is that it requires a _lot_ of renovation ... it's been _empty_ for the past 2 years and needs
+quite a lot of work to be "_nice_" again).
+
+The total projected renovation cost is €230k including project management.
+Please see spreadsheet for complete breakdown.
+> _insert screenshots from spreadsheet_
+
+### Monthly Running Costs
+
+We estimate total monthly running costs of €2,000
+Please see spreadsheet for detailed breakdown.
+> _insert screenshots from spreadsheet_
+
+### Revenue
+
+For the purposes of this plan we are assuming that "The Braga House"
+is a independent entity with a single source of Revenue.
+
+In reality the revenue will be higher because we expect to have
+membership of 200+ people  @ €6/month in Braga who will
+attend Weekend Creative/Technology Workshops.
+
+The "dwyl network" membership will cost €6/month if we have 200 members.
 
 
 
+<br /><br />
 
 The purpose of Braga is ***not*** to _live_ in Braga "_for ever_"
 in the same way that the purposes of **MDC** was to live in SE5 for _ever_!
