@@ -6,7 +6,7 @@ with a socially beneficial outcome.
 
 ## _Why_?
 
-There is no shortage of "professional networks"
+There is no shortage of "professional networks",
 LinkedIn being the most prominent one.
 On LinkedIn people _pay_ for "Premium"
 which is $10/month and allows ...
@@ -14,13 +14,13 @@ which is $10/month and allows ...
 
 LinkedIn could do a _whole_ lot more with the community,
 but because they have steady revenues they have all but stopped innovating
-(_we don't count occasional UI changes as "innovation"..._)
+(_we don't count occasional UI changes as "innovation"..._).
 
-> _See below for "**The Problem with LinkedIn**"_
+> _See below for "**The Problem with LinkedIn**"_.
 
 ## _What_?
 
-The Creative Technology Learning Community.
+The Creative Technology Rapid Learning Community.
 Connect and learn with people who are experienced/knowledgeable
 in the field you are interested in.
 
@@ -93,6 +93,15 @@ from the _content_ (_learning materials_)
 regardless of their ability to pay.
 But to avoid "_spam_" and "_noise_"
 the "real-time" community features should be invite-only and paid.
+
+
+### Hyper Transparency
+
+We will maintain ***100% Transparency*** in the "dwyl NetWork"
+it will be _clear_ to all members _exactly_ where their membership fee
+is being spent (_mostly content creation, infrastructure/servers and admin_).
+
+
 
 
 <br /> <br /> <br /> <br />

@@ -6,9 +6,47 @@ https://github.com/dwyl/phase-two/issues/54
 
 ## Why?
 
-Sometimes in life we make decisions
-that _may_ not appear _completely_ logical on the _surface_
-but which turn out to be _exceptionally_ "_enlightened_" in retrospect.
+One of the ***biggest*** "***challenges***" we faced in **London**
+with **Founders & Coders** was finding ***premises***. <br />
+We have been paying (_burning money on_) "_commercial rates_"
+**£3600/month** including "business rates" for **140m<sup>2</sup>** <br />
+@ **14 Palmers Road** for the past 27 months.
+see:
+[Fixed Overhead Breakdown](https://github.com/dwyl/quietspace/tree/58eb654e522b9974c1f83f12b5e79925d0132f3b#fixed-overheads-costs-we-have-to-cover) <br />
+> The amount we pay for 14 Palmers Road is actually _quite reasonable_
+for London commercial property _especially_<br />
+ when compared to a _desk space_
+at "WeWork" or "SecondHome" start at £350/month for **4m<sup>2</sup>** of space!
+
+Even if (_when_) Founders & Coders (London) _eventually_ gets "_free_"
+premises based on its' charitable status everyone _attending_ will
+still need to pay London rents, transport and living expenses.
+
+### Cost of Living in London
+
+The rent for premises in London is the tip of the cost iceberg!
+By _far_ the biggest "_space_" cost is the ***cumulative rent***
+all the people _attending_ Founders & Coders pay.
+The average **rent** for a _room_ in London
+is **£600/month** (_including bills_),
+for those who use _public transport_
+a **travel pass** costs a ***minimum*** of
+[**£100/month**](http://content.tfl.gov.uk/adult-fares-2017.pdf)
+If people eat _frugally_ by prepare meals in bulk
+and limit alcohol intake / eating out
+they can survive on £4/day for **food** so ***£150/month***.
+
+The _bare minimum_ total for living in London is ***£750/month***. <br />
+This does not factor the wasted _time_ people have commuting
+to-from mile end each day (_average 1.5h each day!_)
+
+### Saving _Everyone_ Time and Money so they can dwyl
+
+By setting up **Braga House** we can cut down on London living expenses
+by ***Two Thirds*** and give everyone more time to learn, create and live!
+
+
+
 
 ## What?
 
@@ -27,8 +65,12 @@ facilities e.g: dentists and eye specialists (_we recently updated our glasses
   and paid around a third of London prices! so much for "specsavers"!_)
 + Comparitively high education levels and low crime rate
 + Excellent transport links (_Buses/Trains to the rest of Portugal_)
-  > _Direct_ bus to Porto Airport available [GetBus](http://www.getbus.eu)
+  > _Direct_ Bus to Porto Airport is **€8** and takes **50 mins**
+  via [GetBus](http://www.getbus.eu)
++ Considerably better **Air Quality** than any major European City
++ Parks, Out-door Gyms, Mountain Biking Trails
 
+[Braga House Street View](https://www.google.pt/maps/@41.547696,-8.4145142,3a,75y,90h,90t/data=!3m6!1e1!3m4!1s1nlC6YYTE91Q2njoTZhVmg!2e0!7i13312!8i6656)
 
 # How?
 
@@ -78,17 +120,29 @@ The house is comprised of 3 floors:
   like a sauna/steam room (_which is great for detox/letting off steam..._)
   + Glass Cube for outdoor meditation, quiet reading and isolated creative work.
 
-## 1. Hostel
+## 1. A House for _Creative Technologists_
+
+The Braga House is a place for people to live, learn & work
+with _Creative Technologies_.
+
+
+
 
 Our plan is to create a _haven_
 for people who are _already_
-"Digital Nomads" and/or those who _want_
-to _learn_ how to be tech/creative innovators.
+"***Digital Nomads***" and/or those who _want_
+to _learn_ how to be ***Creative Technologists***.
 
-Initially the hostel will be "_invite-only_"
+Initially the house will be "_invite-only_"
 (_for reasons we will expand on below_)
 but once we are up-and-running
 we will have an ***application process*** for people joining.
+
+
+### What is a _Creative Technologist_ ?
+
+
+
 
 
 ### What is a "Digital Nomad" ("_DiNo_")?
@@ -119,13 +173,19 @@ certain _other_ advantages (detailed below) which will
 make it attractive to DiNos.
 
 
+
 ### How Many Beds?
 
 There is space for 48 beds (24 Bunks) in the house if we were to _maximise_ it,
 but our purpose is to make it _comfortable_ for everyone
-so our plan is to `limit` it to **24 bunk beds** (12 bunks);
+so our plan is to `limit` it to **32 bunk beds** (16 bunks);
 4 bunks per large room.
 
+
+### A Well-Defined Weekly Schedule
+
+We have tried "_self-organising_" (_AKA "chaos"_)
+and while the _end result_
 
 ### Lights Out Sleep Time: 22:00
 
@@ -190,7 +250,7 @@ which will have **20 desks**.
 ### Dimensions
 
 Each desk will measure 100 x 70cm
-(_this is **compact** but adequate for **ample** for a Laptop,
+(_this is **compact** but **comfortable** for a Laptop,
   Gas-lift mounted Screen, notepad and other personal afects_)
 
 ### Sit/Stand
