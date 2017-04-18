@@ -33,7 +33,11 @@ to dominate and live off the labour of the financially illiterate.
 I _personally_ don't think there is any "_nafarious_" _reason_
 that financial literacy is not taught in (_most_) schools;
 there just isn't enough time to cover the _existing_ curriculum as it is!
-
+Also, it doesn't _help_ that most teachers are "_wage slaves_"
+(_apologies if that's "offensive" to anyone,
+but it's an **accurate** description_)
+so they don't know the _first_ thing about finance
+so cannot _possibly_ teach it to their students!
 
 
 > http://www.richdad.com/Resources/Rich-Dad-Financial-Education-Blog/January-2012/what-is-financial-freedom.aspx
@@ -49,12 +53,22 @@ Let's address each of these in turn:
 
 ### 1. Increasing Cashflow
 
-As an _individual_
+As an _individual_ in creasing your cashflow can be done in _several_ ways.
+
+### 2. Lowering Expenses
+
+Expenses are _usually_ the easiest thing to control for an _individual_,
+but often people focus _too_ much on their expenses instead of
+simply making more money ...
 
 
-### 1. Lowering Expenses
+### Critical (_Personal_) Questions
 
-
+There a few questions you have to ask/answer yourself:
++ Do I earn more than minimum wage?
++ Can I earn incremental income if I work more hours?
++ Can I pay someone else (_less than what I am paid_)
+to do work I don't want to do?
 
 
 ## Further Reading
