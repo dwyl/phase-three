@@ -4,12 +4,15 @@ to somewhere more appropriate. (_I won't be offended!_)
 please discuss in the issue `before` moving:
 https://github.com/dwyl/phase-two/issues/54
 
+![green-seedling-growing](https://cloud.githubusercontent.com/assets/194400/25162588/cca26648-24bb-11e7-8323-42ab19f68be0.jpg)
+
+
 ## Why?
 
 One of the ***biggest*** "***challenges***" we faced in **London**
 with **Founders & Coders** was finding ***premises***. <br />
 We have been paying (_burning money on_) "_commercial rates_"
-**£3600/month** including "business rates" for **140m<sup>2</sup>** <br />
+**£3600/month** (_including "business rates"_) for **140m<sup>2</sup>** <br />
 @ **14 Palmers Road** for the past 27 months.
 see:
 [Fixed Overhead Breakdown](https://github.com/dwyl/quietspace/tree/58eb654e522b9974c1f83f12b5e79925d0132f3b#fixed-overheads-costs-we-have-to-cover) <br />
@@ -28,54 +31,69 @@ The rent for premises in London is the tip of the cost iceberg!
 By _far_ the biggest "_space_" cost is the ***cumulative rent***
 all the people _attending_ Founders & Coders pay.
 The average **rent** for a _room_ in London
-is **£600/month** (_including bills_),
+is **£620/month** (_including bills_),
 for those who use _public transport_
 a **travel pass** costs a ***minimum*** of
 [**£100/month**](http://content.tfl.gov.uk/adult-fares-2017.pdf)
 If people eat _frugally_ by prepare meals in bulk
 and limit alcohol intake / eating out
-they can survive on £4/day for **food** so ***£150/month***.
+they can survive on £5/day for **food** so ***£150/month***.
 
-The _bare minimum_ total for living in London is ***£750/month***. <br />
+The _bare minimum_ total for living in London is ***£770/month***. <br />
 This does not factor the wasted _time_ people have commuting
 to-from mile end each day (_average 1.5h each day!_)
 
-### Saving _Everyone_ Time and Money so they can dwyl
+### Saving _Everyone_ Money/Time
 
-By setting up **Braga House** we can cut down on London living expenses
+By setting up `Braga House` we can cut down on London living expenses
 by ***Two Thirds*** and give everyone more time to learn, create and live!
 
-
-
+> Insert **Cost of Living Questionnaire** Data/Summary here ...
 
 ## What?
 
-### Creative Technology Rapid Learning Workspace (`CTRL+W`)
+`Braga House` is a **hub** for creative technology learning,
+healthy and sustainable living.
 
-`CTRL+W` is a **hub** for creative technology learning and sustainable living.
+While Braga is not (_yet_) on the "Digital Map" the way Lisbon or Porto are,
+there are _several_ factors that make it a good candidate for development:
 
-Braga is not (_yet_) on the "Digital Map" the way Lisbon or Porto are.
-There are _several_ factors that make it a good candidate:
-+ General availability of high-speed internet
-+ Considerably cheaper living costs and far less crowded
++ General availability of ***high-speed internet***
++ Considerably ***cheaper living costs*** and **_far_ less crowded**
 than bigger European cities; fewer tourists means great food is still cheap!
 + All major supermarkets, clothing stores and facilities are available
 + Good (_modern_) hospital and other medical
 facilities e.g: dentists and eye specialists (_we recently updated our glasses
   and paid around a third of London prices! so much for "specsavers"!_)
-+ Comparitively high education levels and low crime rate
++ Comparatively ***high education levels*** and low crime rate
++ Considerably better **air quality** than most major European Cities
++ Parks, Out-door Gyms, Mountain Biking Trails
 + Excellent transport links (_Buses/Trains to the rest of Portugal_)
   > _Direct_ Bus to Porto Airport is **€8** and takes **50 mins**
-  via [GetBus](http://www.getbus.eu)
-+ Considerably better **Air Quality** than any major European City
-+ Parks, Out-door Gyms, Mountain Biking Trails
+  via [GetBus](http://www.getbus.eu) <br />
+  > Bus stop _in front_ of the house: [Braga House Street View](https://www.google.pt/maps/@41.547696,-8.4145142,3a,75y,90h,90t/data=!3m6!1e1!3m4!1s1nlC6YYTE91Q2njoTZhVmg!2e0!7i13312!8i6656)
 
-[Braga House Street View](https://www.google.pt/maps/@41.547696,-8.4145142,3a,75y,90h,90t/data=!3m6!1e1!3m4!1s1nlC6YYTE91Q2njoTZhVmg!2e0!7i13312!8i6656)
+## _Who?_
+
+We will give preferential residence/access to people who work with/for dwyl.
+People will be able to work their choice of creative/technology projects.
+
+Two groups of people:
+
+### Residents
+
+### Guests
+
+Guests are people who are staying with us temporarily.
+We _love_ having guests because they bring new ideas/perspective
+and tell us how we can improve.
+
+
 
 # How?
 
 
-## The House (_of dwyl?_ ;-)
+## The House
 
 The house is comprised of 3 floors:
 + **Basement**
@@ -110,69 +128,31 @@ The house is comprised of 3 floors:
   + Bathroom w/ shower - this will be converted into 2 individual showers.
   + Bathroom w/ bath - this will be converted into additional toilet cubicles.
 + **Outdoors / Garden**
-  + 2.5 - 4m around the house (_currently the garden is very neglected
+  + 3.5 - 4.5m around the house (_currently the garden is very neglected
     so requires some attention/landscaping_) we are considering the following:
-    + Outdoor table Tennis (_covered_)
-    + Outdoor Table Football ("_fussball_")
+    + Outdoor table Tennis (_covered between use_)
+    + Outdoor Table Football ("_fussball_" _also covered between use_)
     + Hot tub (_we need to gauge demand for it
       and cost it including annual maintenance_)
   + Bird House (_disused_) - the plan is to convert it into something _useful_
   like a sauna/steam room (_which is great for detox/letting off steam..._)
   + Glass Cube for outdoor meditation, quiet reading and isolated creative work.
 
-## 1. A House for _Creative Technologists_
+## 1. The House for _Creative Technologists_
 
-The Braga House is a place for people to live, learn & work
-with _Creative Technologies_.
-
+![creative](https://cloud.githubusercontent.com/assets/194400/25162731/eb808bb6-24bc-11e7-9346-9cdbe128d3f7.png)
 
 
+`Braga House` is a place for people to live, learn and work
+with _Creative Technology_.
 
-Our plan is to create a _haven_
-for people who are _already_
-"***Digital Nomads***" and/or those who _want_
-to _learn_ how to be ***Creative Technologists***.
+A _haven_ for people who _already_ consider themselves a "***Digital Nomad***"
+and/or those who _want_ to _learn_ how to be ***Creative Technologists***.
 
 Initially the house will be "_invite-only_"
-(_for reasons we will expand on below_)
+(_because we want to be **selective** to establish the culture_)
 but once we are up-and-running
 we will have an ***application process*** for people joining.
-
-
-### What is a _Creative Technologist_ ?
-
-
-
-
-
-### What is a "Digital Nomad" ("_DiNo_")?
-
-A "Digital Nomad" (_or_ "_DiNo_" _for short_)
-is a person who is "***location-independent***".
-A DiNo's does not require visiting a traditional "_office_".
-They can ***work from anywhere***
-with nothing more than a **Laptop Computer & Internet Connection**.
-
-Much of the "**Knowledge Economy**" work can be done _remotely_.
-This lowers the costs to the person doing the work
-because they don't have to pay _exhorbitant_ "_Metropolis_" rents/prices
-(_e.g. London, New York, San Jose, Oslo, Tokyo, etc._)
-
-We @dwyl have _embraced_ remote working from the beginning because we know
-that as long as people have a quiet place to focus on their work,
-it can be done from _anywhere_.
-
-Quite a few (_existing_) dwyl team members have worked remotely over the past
-couple of years from interesting places such as Bali, Japan, Mexico, Columbia,
-Spain, France, Scotland, Portugal, USA, Canada, Jamaica, New Zealand, etc
-(_the list goes on!_).
-But until now we haven't been able to _provide_ the destination for people
-to go and live & work remotely.
-And while "Braga" might not be a "beach in Thailand" it does have
-certain _other_ advantages (detailed below) which will
-make it attractive to DiNos.
-
-
 
 ### How Many Beds?
 
@@ -180,27 +160,11 @@ There is space for 48 beds (24 Bunks) in the house if we were to _maximise_ it,
 but our purpose is to make it _comfortable_ for everyone
 so our plan is to `limit` it to **32 bunk beds** (16 bunks);
 4 bunks per large room.
+This number is consistent with other Hostels we have stayed in
+and will ensure that people have ample space.
 
-
-### A Well-Defined Weekly Schedule
-
-We have tried "_self-organising_" (_AKA "chaos"_)
-and while the _end result_
-
-### Lights Out Sleep Time: 22:00
-
-No more tech after Ten PM.
-We expect people to sleep from 23:00 - 07:00 (8hrs)
-Some of us will sleep 22:00 - 05:00 because we need to be up early to
-go to the fruit+veg market.
-
-### Weekends
-
-Everyone is free to relax and do what they want on weekends.
-People who observe a specific faith should make this known
-to others after joining so everyone `else` can respect
-their days/times of worship.
-
+> _**Note**: the **objective** is to make **affordable living** & **co-working**
+available to people in **comfortable minimalism** not 5-Star Luxury_.
 
 ### Hostel Requirements and Considerations
 
@@ -224,28 +188,22 @@ and what the grounds are for membership (_and the revocation thereof_)
 e.g: knowingly breaking any local law will lead to membership termination
 because each member is an ambassador/representative of the entire org/team.
 
-
 ## 2. Workspace
 
 Our plan is to create _ideal_ ("***deep***") working conditions
-for the **24 people** staying with us.
+for the **32 people** staying with us.
 
 Considering that we currently have 26+ people
 working in the **140m**<sup>2</sup> at Palmer's road,
 we expect people to be a **lot more _comfortable_**
 with **300m**<sup>2</sup>.
 
-People will be able to work their choice of creative/technology projects.
-We will give preferential residence/access to people who work with/for dwyl.
-
-
-
-
 ### Desks
 
-We will make **24 sit/stand desks** available for people to use.
-The desks will be primarily in the "**Main Office**"
-which will have **20 desks**.
+We will make **32 sit/stand desks** available for people to use.
+The desks will be primarily in the "**Main WorkSpace**"
+which will have **18 desks**.
+The remaining desks will be
 
 ### Dimensions
 
@@ -265,17 +223,6 @@ and "deep work" (_everyone facing the walls to avoid distraction_)
 or "team work" (_where desks are clustered to promote collaboration_).
 
 
-### Well-defined Work Day: 08:00 - 16:00
-
-We will _encourage_ people to work have _consistent_ working hours
-from 08:00 - 16:00. The "Main Room" is available for
-co-working during these hours.
- people should take a break for lunch,
-go for a walks (_outside_) and take naps (_upstairs_) as required.
-
-If people prefer to work earlier or later than this
-that is fine! We will simply ask that they do so from a _different_ room.
-
 ### Day Visitors
 
 Once we are _well established_ we will encourage other people
@@ -288,7 +235,7 @@ Similar to "Google Campus" where _anyone_ can show up and work.
 People who are _members_ of dwyl can come and work in the house/gardens
 and use free WiFi.
 
-### No Working in the Kitchen Dining Room
+### No Working in the Kitchen or Dining Room during meal time(s)
 
 No laptops are allowed in the Kitchen/Dining room;
 these are areas for eating and casual conversations, not staring at screens.
@@ -370,3 +317,149 @@ The "dwyl network" membership will cost €6/month if we have 200 members.
 
 The purpose of Braga is ***not*** to _live_ in Braga "_for ever_"
 in the same way that the purposes of **MDC** was to live in SE5 for _ever_!
+
+
+# tl;dr - thoughts on how to ...
+
+
+
+### Well-Defined Routine/Schedule
+
+We think people work best when there is a clearly defined routine.
+see: https://medium.com/swlh/habits-maketh-the-man-32fd07037a6
+
+#### Well-defined Work Day: 08:00 - 16:00
+
+We will _encourage_ people to work have _consistent_ working hours
+from **08:00 - 16:00**. The "Main Room" is available for
+co-working during these hours.
+ people should take a break for lunch,
+go for a walks (_outside_) and take naps (_upstairs_) as required.
+
+If people prefer to work earlier or later than this
+that is fine! We will simply ask that they do so from a _different_ room.
+
+Proposed Daily Schedule:
+
+|Start - End    | Description |
+|---------------|-------|
+| 05:00 - 06:00 | Healthy food preparation (_kitchen area_) |
+| 06:00 - 07:00 | Self-guided Yoga / Pilates / Mindfulness (Basement/Garden); Reading or Quiet work 1<sup>st</sup> & 2<sup>nd</sup> floor |
+| 07:00 - 08:00 | "Early" Focus Time for reading & coding (_absolute silence please this is when we get our best "deep" work done_) |
+| 08:00 - 10:00 | Morning Focus Time (_silence please this is when we get our best "deep" work done_) |
+| 10:00 - 10:30 | Morning break (_moderate chat/noise acceptable. get outside!_) |
+| 10:30 - 12:30 | Pre-Lunch Focus Time (_please whisper or use "instant messaging" to communicate when pairing._) |
+| 12:30 - 13:30 | Lunch Break (_moderate chat/noise in dining room. No noise on 1<sup>st</sup> in case people are napping._) |
+| 13:30 - 15:00 | Afternoon Focus Time (_please whisper or use "instant messaging" to communicate_) |
+| 15:00 - 15:30 | Finish, "push" and/or summarize/update your work/task/issue ahead of standup (_please whisper or use "instant messaging" to communicate_) |
+| 15:30 - 16:00 | Daily Standup Time: take turns to record your daily progress update in the meeting room. (_moderate chat/noise acceptable_) |
+| 16:00 - 19:00 | "Self Directed Learning" or "Specific Topic" learning (_in the main rooms_) |
+| 19:00 - 19:30 | "Show & Tell", "Get Help", "Q&A", "Decompress Time" |
+| 19:30 - 21:00 | Personal time. Meetup, Event or Evening Training (_see events calendar_) |
+| 21:00 - 22:00 | "Wind Down Time"(_Upstairs please whisper or use IM to communicate_) |
+| 22:00 - 06:00 | Sleep! |
+
+
+#### Breakfast
+
+We have ***deliberately excluded*** "_Breakfast_" because we _don't_
+want to encourage/force people to think that they _have/need_ to eat
+anything in the morning.
+
+While the "_common knowledge_" is (_was_) that
+"_**breakfast** is the **most important meal** of the day_"
+there is substantial evidence that
+
+If people chose to use the power of intermittent fasting
+e.g: fasting for 16-18h/day and only eating during a 6-8h "time window",
+then having a pre-defined "_lunch time_" works well.
+If people prefer to only eat once per day i.e:
+[fasting for 23 hour each day](https://www.instagram.com/rumdumdum/)
+you could still have your daily meal at "lunch time".
+
+See: https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting
+
+#### Lunch Time 12:30 - 13:30
+
+Rules:
++ No eating at desks or in bedrooms
+(_keep crumbs to a single place for easier cleaning_)
++ When you have **finished eating** get up, clean your dishes go for a walk.
+(_**don't linger** in the dining room as others need the space_)
+
+#### Fasting for Religious or Health Reasons?
+
+If you are observing a religious fasting or on a specific diet
+please make this known to your housemates so people know not to expect
+you for lunch.
+
+#### Daily Standup Time: 15:30 - 16:00
+
+People working on a project should meet daily to discuss their progress on current tasks,
+the next task they will work on and (_where applicable_) any impediments.
+We hold our standup(s) via video chat, record the update and post it on YouTube.
+
+If you are not working on a specific project then your update is like
+a [_video diary_](https://youtu.be/_3pyYFkeMn8) of your learning progress.
+
+> See:
+https://pm.stackexchange.com/questions/14240/should-daily-scrum-meetings-be-held-in-the-morning-or-the-afternoon
+
+#### Lights Out Sleep Time: 22:00
+
+No more tech after Ten PM.
+We expect people to **sleep** from 22:00 - 06:00 (8hrs)
+Some of us will sleep 22:00 - 05:00 because we need to be up early to
+go to do food prep, exercise, reading etc.
+
+#### Weekends
+
+Everyone is free to relax and do what they want on weekends.
+People who observe a specific faith should make this known
+to others after joining so everyone `else` can respect
+their days/times of worship.
+
+
+### What is a _Creative Technologist_ ?
+
+A "Creative Technologist" is a _general_ term to signify a person
+that uses
+[creative technology](https://en.wikipedia.org/wiki/Creative_technology)
+for their work.
+
+We do not "_pigeon hole_" people by what technology they use
+or whether they are a "coder", "graphic designer" or videographer.
+Everyone is welcome the only requirements are that
++ their use of technology creates value to someone else
++ their work/output is beneficial to society
++ demonstrate pursuit of "_mastery_" in their skill/craft through
+[deliberate practice](https://goo.gl/Qrf13X).
++ willing to share their knowledge/skills with others
+
+
+### What is a "Digital Nomad" ("_DiNo_")?
+
+A "Digital Nomad" (_or_ "_DiNo_" _for short_)
+is a person who is "***location-independent***".
+A DiNo's does not require visiting a traditional "_office_".
+They can ***work from anywhere***
+with nothing more than a **Laptop Computer & Internet Connection**.
+
+Much of the "**Knowledge Economy**" work can be done _remotely_.
+This lowers the costs to the person doing the work
+because they don't have to pay _exhorbitant_ "_Metropolis_" rents/prices
+(_e.g. London, New York, San Jose, Oslo, Tokyo, etc._)
+
+We @dwyl have _embraced_ remote working from the beginning because we know
+that as long as people have a quiet place to focus on their work,
+it can be done from _anywhere_.
+
+Quite a few (_existing_) dwyl team members have worked remotely over the past
+couple of years from interesting places such as Bali, Japan, Mexico, Columbia,
+Spain, France, Scotland, Portugal, USA, Canada, Jamaica, New Zealand, etc
+(_the list goes on!_).
+But until now we haven't been able to _provide_ the destination for people
+to go and live & work remotely.
+And while "Braga" might not be a "beach in Thailand" it does have
+certain _other_ advantages (detailed below) which will
+make it attractive to DiNos.
