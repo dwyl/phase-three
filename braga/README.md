@@ -1,9 +1,3 @@
-> I don't know if this is the "_right_" place/repository
-to include this idea/plan, so please feel free to _move it_
-to somewhere more appropriate. (_I won't be offended!_)
-please discuss in the issue `before` moving:
-https://github.com/dwyl/phase-two/issues/54
-
 ![green-seedling-growing](https://cloud.githubusercontent.com/assets/194400/25162588/cca26648-24bb-11e7-8323-42ab19f68be0.jpg)
 
 
@@ -30,16 +24,16 @@ still need to pay London rents, transport and living expenses.
 The rent for premises in London is the tip of the cost iceberg!
 By _far_ the biggest "_space_" cost is the ***cumulative rent***
 all the people _attending_ Founders & Coders pay.
-The average **rent** for a _room_ in London
-is **£620/month** (_including bills_),
+The _average **rent**_ for a _room_ in London
+is **£630/month** (_including bills_),
 for those who use _public transport_
 a **travel pass** costs a ***minimum*** of
-[**£100/month**](http://content.tfl.gov.uk/adult-fares-2017.pdf)
-If people eat _frugally_ by prepare meals in bulk
-and limit alcohol intake / eating out
-they can survive on £5/day for **food** so ***£150/month***.
+[**£120/month**](http://content.tfl.gov.uk/adult-fares-2017.pdf) <br />
+If people eat _frugally_ by preparing meals in bulk/advance,
+limit alcohol intake and eating out
+they can survive on £4/day for **food** so ***£120/month***.
 
-The _bare minimum_ total for living in London is ***£770/month***. <br />
+The _bare minimum_ total for living in London is ***£870/month***. <br />
 This does not factor the wasted _time_ people have commuting
 to-from mile end each day (_average 1.5h each day!_)
 
@@ -55,12 +49,21 @@ by ***Two Thirds*** and give everyone more time to learn, create and live!
 `Braga House` is a **hub** for creative technology learning,
 healthy and sustainable living.
 
+Our mission is to give people a comfortable
+yet cost-effective place to live while they are
+learning the skills to work in (_or start_)
+the top technology companies.
+
+
+### Why _Braga_?
+
 While Braga is not (_yet_) on the "Digital Map" the way Lisbon or Porto are,
-there are _several_ factors that make it a good candidate for development:
+there are _several_ factors that make it a good candidate for investment/development:
 
 + General availability of ***high-speed internet***
 + Considerably ***cheaper living costs*** and **_far_ less crowded**
 than bigger European cities; fewer tourists means great food is still cheap!
++ Technology-focussed University based in the city.
 + All major supermarkets, clothing stores and facilities are available
 + Good (_modern_) hospital and other medical
 facilities e.g: dentists and eye specialists (_we recently updated our glasses
@@ -75,18 +78,50 @@ facilities e.g: dentists and eye specialists (_we recently updated our glasses
 
 ## _Who?_
 
-We will give preferential residence/access to people who work with/for dwyl.
-People will be able to work their choice of creative/technology projects.
+The _objective_ of `Braga House` is _not_
+to create a "Hostel" for the "_general public_". <br />
+The _objective_ is to surround ourselves with people who are
+interesting, creative, optimistic and ambitious! <br />
+This criteria _automatically exculdes_ 95% of the population
+who prefer to sit around watching TV and _complain_ <br />
+that there are "***no jobs***";
+when in _fact_ there's a
+["_skills gap_"](https://hbr.org/2014/08/employers-arent-just-whining-the-skills-gap-is-real)
+where there is a ***huge shortage*** of
+people with specific technical and creative skills.
+We want to _attract_ people who are pursuing/practicing these skills.
 
-Two groups of people:
+![dont-need-an-alarm-clock](https://cloud.githubusercontent.com/assets/194400/25293342/63989f6e-26d2-11e7-938c-576b0f2f86c1.png)
 
-### Residents
 
-### Guests
+`Braga House` will be available to **two groups** of people:
 
-Guests are people who are staying with us temporarily.
+### Residents (_Long Term_)
+
+People who (_temporarily_) ***live*** in the house.
+The _amount_ of time a person will _live_ in `Braga House` will
+range from **1-6 Months**
+(_we don't `expect` people to stay longer than
+a few months but we won't forbid anyone
+from staying for as long as they like!_)
+
+We will give preferential residence/access to people who (_already_)
+work with/for dwyl.
+
+### Guests (_Short Term_)
+
+Guests are people who are staying with us _temporarily_ (1 night - 1 week).
 We _love_ having guests because they bring new ideas/perspective
 and tell us how we can improve.
+
+Guests will need to fill in a brief "_application_" form
+to come and stay with us.
+(_we aren't focussing on guests for the first 6 months,
+guest form will only be created later._)
+
+Guests will be able to work their choice of creative/technology projects,
+collaborate with other people in the house on one of the existing projects
+or simply relax and absorb the atmosphere.
 
 
 
@@ -407,10 +442,12 @@ https://pm.stackexchange.com/questions/14240/should-daily-scrum-meetings-be-held
 
 #### Lights Out Sleep Time: 22:00
 
-No more tech after Ten PM.
+No more tech after 22:00. Switch off and give your brain/eyes a rest!!
 We expect people to **sleep** from 22:00 - 06:00 (8hrs)
 Some of us will sleep 22:00 - 05:00 because we need to be up early to
 go to do food prep, exercise, reading etc.
+Others may sleep 23:00 - 07:00.
+either way "***tech off***" @ 22:00 (_for your own good!_)
 
 #### Weekends
 
@@ -463,3 +500,10 @@ to go and live & work remotely.
 And while "Braga" might not be a "beach in Thailand" it does have
 certain _other_ advantages (detailed below) which will
 make it attractive to DiNos.
+
+
+> P.S: I don't know if this is the "_right_" place/repository
+to include this idea/plan, so please feel free to _move it_
+to somewhere more appropriate. (_I won't be offended!_)
+please discuss in the issue `before` moving:
+https://github.com/dwyl/phase-two/issues/54
