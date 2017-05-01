@@ -7,7 +7,7 @@ One of the ***biggest*** "***challenges***" we faced in **London**
 with **Founders & Coders** was finding ***premises***. <br />
 We have been paying (_burning money on_) "_commercial rates_"
 **£3600/month** (_including "business rates"_) for **140m<sup>2</sup>** <br />
-@ **14 Palmers Road** for the past 27 months.
+@ **14 Palmers Road** since January 2015.
 see:
 [Fixed Overhead Breakdown](https://github.com/dwyl/quietspace/tree/58eb654e522b9974c1f83f12b5e79925d0132f3b#fixed-overheads-costs-we-have-to-cover) <br />
 > The amount we pay for 14 Palmers Road is actually _quite reasonable_
@@ -21,9 +21,12 @@ still need to pay London rents, transport and living expenses.
 
 ### Cost of Living in London
 
-The rent for premises in London is the tip of the cost iceberg! <br />
+The **rent** for **premises** in London
+is the _**tip** of the **cost iceberg**_! <br />
 By _far_ the biggest "_space_" cost is the ***cumulative rent***
-all the people _attending_ Founders & Coders (_and subsequently working for @dwyl_) pay to live in the city.
+all the people _attending_ <br />
+Founders & Coders (_and subsequently working for @dwyl_)
+pay to _live_ in the city.
 
 + The _average **rent**_ for a _room_ in London
 is **£630/month** (_including bills_).
@@ -31,12 +34,12 @@ is **£630/month** (_including bills_).
 a **travel pass** costs a ***minimum*** of
 [**£120/month**](http://content.tfl.gov.uk/adult-fares-2017.pdf) <br />
 + If people eat _frugally_ by preparing meals in bulk/advance,
-limit alcohol intake and eating out
-they can survive on £4/day for **food** so ***£120/month***.
+_limit alcohol intake_ and "_eating out_"
+they can survive on **£4/day** for **food** so ***£120/month***.
 
 > The _**bare minimum**_ total living cost in London is ***£870/month***. <br />
-This does not factor the wasted _time_ people have commuting
-to-from mile end each day (_average 1.5h each day!_)
+This does not factor the wasted _time_ people have commuting <br />
+to-from Mile End each day (_average 1.5h per day!_)
 
 > TODO: @iteles _please_ Insert **Cost of Living Questionnaire** Data/Summary `here` ... https://github.com/dwyl/phase-two/issues/57
 
@@ -59,39 +62,58 @@ by ***Two Thirds*** and give _everyone_ more time to learn, create and live!
 The ***Total Cost*** of living in the `Braga House`
 will be _**€256 per Month**_.
 
+This price is "_fair_" based on our research of the market
+and considering all the benefits people will get.
+
+#### _Financially Sustainable_ But _Not For Profit_
+
+At €256/person/month the `Braga House` will cover all costs
+and make a _**small surplus**_ which will be
+***re-invested*** into the house & community.
+
 #### _What's Included_?
 
 + A **single bed**<sup>1</sup> in a ***shared room***<sup>2</sup> with:
   + an orthopedic memory foam mattress (_or alternative of your choice up to €200_)
-  + your **choice** of **pillow** (_because pillows are a v. personal thing and makes **all** the difference to sleep quality!_)
-  + bed linen is changed weekly by housekeeper.
+  + your **choice** of **pillow** (_because pillows are a v. personal thing and make **all** the difference to sleep quality!_)
+  + **bed linen** (_highest quality_) is **changed weekly** by housekeeper.
   (_if you prefer a higher frequency inform the "house parent"_)
-+ State-of the Art Kitchen with every appliance, utensil and
-you could need to unleash your culinary creativity if choose to.
++ State-of the Art Kitchen with every appliance/gadget, utensil and utility
+you could _ever_ need to unleash your culinary creativity if choose to.
+  + 3 Fridges So Everyone Has
 + ***Unlimited*** Healthy Vegan Soup (_freshly made each day_)
-+ ***Unlimited*** Fresh Fruit & Vegetables (_personal use only, don't start your own restaurant with the House's "free" ingredients!_)
++ ***Unlimited*** Fresh Fruit & Vegetables (_personal use only, please don't start a restaurant with the House's "free" ingredients!_)
 + ***Unlimited*** Healthy Beverages:
   + Filtered water (_carefully controlled and high mineral content_)
   + Tea (_any type/flavour_)
   + Coffee (_"barista-style" coffee machine for you "**flat white**" lovers_)
   + Healthy Smoothies (_made with **the best** "Quiet One" VitaMix **blender**_)
 + _**All Bills** Included_:
-  + Cleaning service (_daily_)
-  + Laundry service (_)
+  + **Cleaning service** (_daily_)
+  + **Laundry service** (_each person will have their own laundry bag,
+    when yours is full simply drop it off in the utility room in the morning
+    and your fresh & folded laundry will be available for collection the next day_)
   + ***Unlimited*** 100Mb Fibre Internet (_**Two** "Paired" Low-latency Fibre-to-the-House **Connections** and the highest speed routers available_)
-  + 100% Renewable Electricity
-  + Zero Fossil Fuels
-  + Eco Cleaning Products used.
-+ **Library** with ***ALL*** the books you could _ever_ want to read about:
+  + 100% Renewable Electricity (_Zero Fossil Fuels_)
+  + Eco Cleaning Products used (_good for people who have allergies or who care about the environment_)
++ ***Library*** with ***ALL*** the books you could _ever_ want to read about:
   + Creativity
   + Coding
-  + Productivity
+  + Productivity & Personal Effectiveness
   + Business
   + Leadership
   + (_Postive_) Psychology
-  + All other "Traditional Academic Subjects".
-+ State-of-the-Art Multi-Media Creative Suite / Recording Studio
-+ Games Room with Pingpong, Foosball and ALL Consoles.
+  + All other "Traditional Academic Subjects"
++ **Garden** where you can grow your own food if you want to!
++ State-of-the-Art **Multi-Media Creative Suite** / **Recording Studio**:
+  + Sound Proof
+  + Instruments available
+  + Complete recording equipment
+  + Dedicated Mixing/Editing computers
++ Games Room with:
+  + Pingpong
+  + Foosball
+  + ALL Consoles and Latest Games (_with the **hard rule** that we **only non-violent** "**multi-player**" games and limited to **1h per week per person** if there is a "queue"_)
 + Home Cinema (_weekly film night. flick picked by members_)
 + _Am I missing anything here...?_
 
@@ -107,7 +129,7 @@ to **drastically reduce** their **living expenses**.
 members **choose** to **experience** living in an a Health-focussed "**Creativity Accelerator**" <br />
 and save a **ton** of money in the process, they are **very welcome**!_
 
-<small>
+
 <sup>1</sup>_Beds are all **individual**.
 it's **not** for "**couples**" who want to share a double bed.
 No Exceptions. Sorry. <br />
@@ -115,7 +137,7 @@ No Exceptions. Sorry. <br />
   this not a "love shack", Sorry.) <br />
 <sup>2</sup>If you **don't like** the idea of **sharing** a room
 with other interesting people, this is **not for you**. Sorry._
-</small>
+
 
 
 ### Why _Braga_?
@@ -150,9 +172,10 @@ who prefer to sit around watching TV and _complain_ <br />
 that there are "***no jobs***";
 when in _fact_ there's a
 ["_skills gap_"](https://hbr.org/2014/08/employers-arent-just-whining-the-skills-gap-is-real)
-where there is a ***huge shortage*** of
+i.e: ***huge shortage*** of
 people with specific technical and creative skills.
-We want to _attract_ people who are pursuing/practicing these skills.
+We want to _attract_ people who are pursuing/practicing these skills
+and help them _flourish_!
 
 
 <!-- ![dont-need-an-alarm-clock](https://cloud.githubusercontent.com/assets/194400/25293342/63989f6e-26d2-11e7-938c-576b0f2f86c1.png) -->
@@ -248,21 +271,24 @@ A _haven_ for people who _already_ consider themselves a "***Digital Nomad***"
 and/or those who _want_ to _learn_ how to be ***Creative Technologists***.
 
 Initially the house will be "_invite-only_"
-(_because we want to be **selective** to establish the culture_)
+(_because we want to be **selective** to establish the culture_) <br />
 but once we are up-and-running
 we will have an ***application process*** for people joining.
 
 ### How Many Beds?
 
-There is space for 48 beds (24 Bunks) in the house if we were to _maximise_ it,
+Let's start by making one thing clear: the `Braga House` is _not "small"_.
+
+There is space for 64 beds (32 Bunks) in the house if we were to _maximise_ it,
 but our purpose is to make it _comfortable_ for everyone
-so our plan is to `limit` it to **32 bunk beds** (16 bunks);
-4 bunks per large room.
-This number is consistent with other Hostels we have stayed in
-and will ensure that people have ample space.
+so our plan is to `limit` it to **32 beds** (16 bunks);
+4 bunks per large room. <br />
+We have carefully measured the amount of space in the large rooms
+and confirmed the space is consistent with other (_high rated_)
+Hostels we have stayed in and will ensure that people have ***ample space***.
 
 > _**Note**: the **objective** is to make **affordable living** & **co-working**
-available to people in **comfortable minimalism** not 5-Star Luxury_.
+available to people in **comfortable minimalism** not "5-Star Luxury"_.
 
 ### Hostel Requirements and Considerations
 
@@ -375,9 +401,9 @@ do with the Braga House. (_if you have questions, please ask in issues(s)_!)
 
 Buying the house will cost **€280k** (_+ Taxes TBD_). <br />
 This figure may sound like a "_bargain_" by "_big city_" standards ...
-a **7 bedroom**, 3 bathroom, 2 office/study house with a generous kitchen,
+a **8 bedroom**, 4 bathroom, 2 office/study house with a generous kitchen,
 separate dining room, a garden and garage for
-_**less than** a **studio flat** in **London**_!
+_**less than** a **studio flat** in central **London**_!
 
 > We think this is an "_unmissable_" opportunity because the total cost
 of living is less than **1/3** of **London** which means
@@ -388,33 +414,72 @@ that _all_ our members can achieve "***financial freedom***" much earlier!
 _One_ of the reasons why the house is so "_cheap_" is that it requires a _lot_ of renovation ... it's been _empty_ for the past 2 years and needs
 quite a lot of work to be "_nice_" again).
 
-The total projected renovation cost is €230k including project management.
-Please see spreadsheet for complete breakdown.
-> _insert screenshots from spreadsheet_
+The total projected renovation cost is €252k (_including project management_).
+Please see **spreadsheet** for complete breakdown:
+https://docs.google.com/a/dwyl.io/spreadsheets/d/1P9O-wV2ssWqkBZlMx3uTMZC2ErNQW7wx5rYai0ZFAr8
 
-### Monthly Running Costs
+![rennovation-costs-1of2](https://cloud.githubusercontent.com/assets/194400/25578109/7c683782-2e63-11e7-94bf-22d1c0d38938.png)
 
-We estimate total monthly running costs of €2,000
-Please see spreadsheet for detailed breakdown.
-> _insert screenshots from spreadsheet_
+![rennovation-costs-2of2](https://cloud.githubusercontent.com/assets/194400/25578156/d84655ac-2e63-11e7-83ef-6b60b31aa8fe.png)
+
+
+### Monthly Running Costs €2,500
+
+We estimate total monthly running costs of **€2,500**.
+
+#### Cleaning
+
+Housekeeping is our single biggest cost.
+
+![cleaning-budget](https://cloud.githubusercontent.com/assets/194400/25578411/5d67014e-2e66-11e7-9ec8-04192bfded27.png)
+
+**Note**: We expect "_economies of scale_" at full capacity
+where we will be able to hire a (well compensated)
+full-time housekeeper with part-time weekend cover.
+
+#### Variable Overheads
+
+![variable-overheads](https://cloud.githubusercontent.com/assets/194400/25578483/0acda3e2-2e67-11e7-9114-1a9fecc6c5b3.png)
+
+Please see spreadsheet for calculations.
 
 ### Revenue
 
 For the purposes of this plan we are assuming that "The Braga House"
-is a independent entity with a single source of Revenue.
+is a _independent entity_ with a _single_ source of Revenue.
 
-In reality the revenue will be higher because we expect to have
-membership of 200+ people  @ €6/month in Braga who will
-attend Weekend Creative/Technology Workshops.
+Revenue will range from €5k - €8k depending on occupancy.
+
+![revenue-projection](https://cloud.githubusercontent.com/assets/194400/25578606/47209bdc-2e68-11e7-86c7-ae1afffcb821.png)
+
+Any surplus will be re-invested in the house/community.
+
+In _reality_ the revenue will be higher because we expect to have
+membership of **200+ people** @ **€6/month** in Braga/Porto who will
+attend Evening + Weekend Creative/Technology Workshops, Meetups & Events.
 
 The "dwyl network" membership will cost €6/month if we have 200 members.
+We think this is a very _fair_ price for the value people will get.
 
+
+
+### Total Cost of Project: _€532K_
+
+### Expected Financial Return
+
+"Adequately Meets Cost-of-Capital Requirements" <br />
+(_ask Inês for the "Bank Loan Business Plan" if you are curious_)
+
+### Expected Social Return
+
++ Hundreds of People's Lives Improved Each Year!
++ Health, Creativity & Technology Training for the wider community <br />
+(_we expect to reach tens of thousands of people per year!_)
++ Many innovative products/services will flourish here
+with a **social focus**.
 
 
 <br /><br />
-
-The purpose of Braga is ***not*** to _live_ in Braga "_for ever_"
-in the same way that the purposes of **MDC** was to live in SE5 for _ever_!
 
 
 # tl;dr - thoughts on how to ...
@@ -506,7 +571,9 @@ https://pm.stackexchange.com/questions/14240/should-daily-scrum-meetings-be-held
 #### Lights Out Sleep Time: 22:00
 
 No more tech after 22:00. Switch off and give your brain/eyes a rest!!
-We expect people to **sleep** from 22:00 - 06:00 (8hrs)
+(_there is substantial academic/empirical /medical/psychological
+  research that indicates that using screens before bed - or in bed! - adversely affects sleep quality, we want to help people rest well!_)
+We `expect` people to **sleep** from 22:00 - 06:00 (8hrs)
 Some of us will sleep 22:00 - 05:00 because we need to be up early to
 go to do food prep, exercise, reading etc.
 Others may sleep 23:00 - 07:00.
