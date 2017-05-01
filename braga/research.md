@@ -31,3 +31,10 @@ http://www.hse.gov.uk/contact/faqs/toilets.htm
 http://creativeskillset.org/job_roles/4242_creative_technologist
 
 Bunk Beds
+
+
+### Therapy/Swim Pool Depth
+
+![image](https://cloud.githubusercontent.com/assets/194400/25308000/4efd0104-27a3-11e7-92d4-2daaeaefab98.png)
+
+Lots more detail: https://www.ewacmedical.com/files/5738jidwx.pdf

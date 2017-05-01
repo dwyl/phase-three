@@ -21,38 +21,101 @@ still need to pay London rents, transport and living expenses.
 
 ### Cost of Living in London
 
-The rent for premises in London is the tip of the cost iceberg!
+The rent for premises in London is the tip of the cost iceberg! <br />
 By _far_ the biggest "_space_" cost is the ***cumulative rent***
-all the people _attending_ Founders & Coders pay.
-The _average **rent**_ for a _room_ in London
-is **£630/month** (_including bills_),
-for those who use _public transport_
+all the people _attending_ Founders & Coders (_and subsequently working for @dwyl_) pay to live in the city.
+
++ The _average **rent**_ for a _room_ in London
+is **£630/month** (_including bills_).
++ For those who use _public transport_
 a **travel pass** costs a ***minimum*** of
 [**£120/month**](http://content.tfl.gov.uk/adult-fares-2017.pdf) <br />
-If people eat _frugally_ by preparing meals in bulk/advance,
++ If people eat _frugally_ by preparing meals in bulk/advance,
 limit alcohol intake and eating out
 they can survive on £4/day for **food** so ***£120/month***.
 
-The _bare minimum_ total for living in London is ***£870/month***. <br />
+> The _**bare minimum**_ total living cost in London is ***£870/month***. <br />
 This does not factor the wasted _time_ people have commuting
 to-from mile end each day (_average 1.5h each day!_)
 
-### Saving _Everyone_ Money/Time
-
-By setting up `Braga House` we can cut down on London living expenses
-by ***Two Thirds*** and give everyone more time to learn, create and live!
-
-> Insert **Cost of Living Questionnaire** Data/Summary here ...
+> TODO: @iteles _please_ Insert **Cost of Living Questionnaire** Data/Summary `here` ... https://github.com/dwyl/phase-two/issues/57
 
 ## What?
 
 `Braga House` is a **hub** for creative technology learning,
 healthy and sustainable living.
 
-Our mission is to give people a comfortable
-yet cost-effective place to live while they are
+Our `mission` is to give people a comfortable
+yet **_highly_ cost-effective** place to live while they are
 learning the skills to work in (_or start_)
-the top technology companies.
+the top creative technology companies.
+
+
+### Saving _Everyone_ Money/Time
+
+Setting up `Braga House` will cut down on _London_ living expenses
+by ***Two Thirds*** and give _everyone_ more time to learn, create and live!
+
+The ***Total Cost*** of living in the `Braga House`
+will be _**€256 per Month**_.
+
+#### _What's Included_?
+
++ A **single bed**<sup>1</sup> in a ***shared room***<sup>2</sup> with:
+  + an orthopedic memory foam mattress (_or alternative of your choice up to €200_)
+  + your **choice** of **pillow** (_because pillows are a v. personal thing and makes **all** the difference to sleep quality!_)
+  + bed linen is changed weekly by housekeeper.
+  (_if you prefer a higher frequency inform the "house parent"_)
++ State-of the Art Kitchen with every appliance, utensil and
+you could need to unleash your culinary creativity if choose to.
++ ***Unlimited*** Healthy Vegan Soup (_freshly made each day_)
++ ***Unlimited*** Fresh Fruit & Vegetables (_personal use only, don't start your own restaurant with the House's "free" ingredients!_)
++ ***Unlimited*** Healthy Beverages:
+  + Filtered water (_carefully controlled and high mineral content_)
+  + Tea (_any type/flavour_)
+  + Coffee (_"barista-style" coffee machine for you "**flat white**" lovers_)
+  + Healthy Smoothies (_made with **the best** "Quiet One" VitaMix **blender**_)
++ _**All Bills** Included_:
+  + Cleaning service (_daily_)
+  + Laundry service (_)
+  + ***Unlimited*** 100Mb Fibre Internet (_**Two** "Paired" Low-latency Fibre-to-the-House **Connections** and the highest speed routers available_)
+  + 100% Renewable Electricity
+  + Zero Fossil Fuels
+  + Eco Cleaning Products used.
++ **Library** with ***ALL*** the books you could _ever_ want to read about:
+  + Creativity
+  + Coding
+  + Productivity
+  + Business
+  + Leadership
+  + (_Postive_) Psychology
+  + All other "Traditional Academic Subjects".
++ State-of-the-Art Multi-Media Creative Suite / Recording Studio
++ Games Room with Pingpong, Foosball and ALL Consoles.
++ Home Cinema (_weekly film night. flick picked by members_)
++ _Am I missing anything here...?_
+
+> _**Note**: I'm **absolutely not** suggesting that
+anyone **currently** working for @dwyl <br />
+(or doing F&C) and living in London will be **expected**
+to "**move to Portugal**"! <br />
+The purpose of `Braga House`
+is to make it **possible**
+for **future team members** <br />
+to **drastically reduce** their **living expenses**.
+`if` any of our **existing** community/team <br />
+members **choose** to **experience** living in an a Health-focussed "**Creativity Accelerator**" <br />
+and save a **ton** of money in the process, they are **very welcome**!_
+
+<small>
+<sup>1</sup>_Beds are all **individual**.
+it's **not** for "**couples**" who want to share a double bed.
+No Exceptions. Sorry. <br />
+(couples are welcome but expect to sleep in separate rooms
+  this not a "love shack", Sorry.) <br />
+<sup>2</sup>If you **don't like** the idea of **sharing** a room
+with other interesting people, this is **not for you**. Sorry._
+</small>
 
 
 ### Why _Braga_?
@@ -73,7 +136,7 @@ facilities e.g: dentists and eye specialists (_we recently updated our glasses
 + Parks, Out-door Gyms, Mountain Biking Trails
 + Excellent transport links (_Buses/Trains to the rest of Portugal_)
   > _Direct_ Bus to Porto Airport is **€8** and takes **50 mins**
-  via [GetBus](http://www.getbus.eu) <br />
+  via [GetBus](https://getbus.eu/en/braga-airport-braga) <br />
   > Bus stop _in front_ of the house: [Braga House Street View](https://www.google.pt/maps/@41.547696,-8.4145142,3a,75y,90h,90t/data=!3m6!1e1!3m4!1s1nlC6YYTE91Q2njoTZhVmg!2e0!7i13312!8i6656)
 
 ## _Who?_
@@ -91,8 +154,8 @@ where there is a ***huge shortage*** of
 people with specific technical and creative skills.
 We want to _attract_ people who are pursuing/practicing these skills.
 
-![dont-need-an-alarm-clock](https://cloud.githubusercontent.com/assets/194400/25293342/63989f6e-26d2-11e7-938c-576b0f2f86c1.png)
 
+<!-- ![dont-need-an-alarm-clock](https://cloud.githubusercontent.com/assets/194400/25293342/63989f6e-26d2-11e7-938c-576b0f2f86c1.png) -->
 
 `Braga House` will be available to **two groups** of people:
 
@@ -110,7 +173,7 @@ work with/for dwyl.
 
 ### Guests (_Short Term_)
 
-Guests are people who are staying with us _temporarily_ (1 night - 1 week).
+Guests are people who are visiting for a short period (1 night - 1 week).
 We _love_ having guests because they bring new ideas/perspective
 and tell us how we can improve.
 
