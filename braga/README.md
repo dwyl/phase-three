@@ -60,8 +60,8 @@ Setting up `Braga House` will cut down on
 _London_ living expenses by ***Two Thirds*** <br />
 and give _everyone_ ***more time*** to learn, create and enjoy life!
 
-The ***Total Cost*** of living in the `Braga House`
-will be _**€256 per Month**_ (_per person_).
+The ***Cost*** of living in the `Braga House`
+will be around _**€260 per Month**_ (_per person_).
 
 This price is _exceptionally good value-for-money_
 based on our (_extensive_) market research
@@ -76,21 +76,23 @@ and make a _**small surplus**_ which will be
 #### _What's Included_?
 
 + A **single bed**<sup>1</sup> in a ***shared room***<sup>2</sup> with:
-  + an orthopedic memory foam mattress (_or alternative of your choice up to €200_)
+  + an orthopaedic memory foam mattress (_Founding Members will have their choice
+    of mattress up to €200_)
   + your **choice** of **pillow** (_because pillows are a v. personal thing and make **all** the difference to sleep quality!_)
   + **bed linen** (_highest quality_) is **changed weekly** by housekeeper.
   (_if you prefer a higher frequency inform the "house parent"_)
-+ **State-of the Art Kitchen** with every appliance/gadget, utensil and utility
-you could _ever_ need to unleash your ***culinary creativity** if choose to.
++ **State-of the Art Kitchen** with the necessary appliances, utensils and utilities
+required for you to unleash your ***culinary creativity*** if choose to.
   + **3 Large Fridges** so everyone has space for their food.
   + **3 Dishwashers** so nobody has to wash crockery!
-+ ***Unlimited*** Healthy Vegan Soup (_freshly made each day_)
-+ ***Unlimited*** Fresh Fruit & Vegetables (_personal use only, please don't start a restaurant with the House's "free" ingredients!_)
-+ ***Unlimited*** Healthy Beverages:
-  + Filtered water (_carefully controlled and high mineral content_)
-  + Tea (_any type/flavour_)
-  + Coffee (_"barista-style" coffee machine for you "**flat white**" lovers_)
-  + Healthy Smoothies (_made with **the best** "Quiet One" VitaMix **blender**_)
++ We will gradually be introducing:
+  + ***Unlimited*** Healthy Vegan Soup (_freshly made each day_)
+  + ***Unlimited*** Fresh Fruit & Vegetables (_personal use only, please don't start a restaurant with the House's "free" ingredients!_)
+  + ***Unlimited*** Healthy Beverages:
+    + Filtered water (_carefully controlled and high mineral content_)
+    + Tea (_any type/flavour_)
+    + Coffee (_"barista-style" coffee machine for you "**flat white**" lovers_)
+    + Healthy Smoothies (_made with **the best** "Quiet One" VitaMix **blender**_)
 + _**All Bills** Included_:
   + **Cleaning service** (_daily_)
   + **Laundry service** (_each person will have their own laundry bag,
@@ -105,7 +107,7 @@ you could _ever_ need to unleash your ***culinary creativity** if choose to.
   + Productivity & Personal Effectiveness
   + Business
   + Leadership
-  + (_Postive_) Psychology
+  + (_Positive_) Psychology
   + All other "Traditional Academic Subjects"
 + **Garden** where you can grow your own food if you want to!
 + State-of-the-Art **Multi-Media Creative Suite** / **Recording Studio**:
@@ -116,7 +118,7 @@ you could _ever_ need to unleash your ***culinary creativity** if choose to.
 + Games Room with:
   + Pingpong
   + Foosball
-  + ALL Consoles and Latest Games (_with the **hard rule** that we **only non-violent** "**multi-player**" games and limited to **1h per week per person** if there is a "queue"_)
+  + Games console and hand-picked games (_with the **hard rule** that we **only non-violent** "**multi-player**" games and limited to **1h per week per person** if there is a "queue"_)
 + Home Cinema (_weekly film night. flick picked by members_)
 + _Am I missing anything here...?_
 
@@ -134,12 +136,12 @@ and save a **ton** of money in the process, they are **very welcome**!_
 
 
 <sup>1</sup>_Beds are all **individual**.
-it's **not** for "**couples**" who want to share a double bed.
-No Exceptions. Sorry. <br />
+We can't accommodate "**couples**" who want to share a double bed.
+No Exceptions.<br />
 (couples are welcome but expect to sleep in separate rooms
   this not a "love shack", Sorry.) <br />
 <sup>2</sup>If you **don't like** the idea of **sharing** a room
-with other interesting people, this is **not for you**. Sorry._
+with other interesting people, this is probably **not for you**._
 
 
 
@@ -228,7 +230,8 @@ The house is comprised of 3 floors:
     + Yoga Mats
   + 2 Medium Sized ("double") rooms:
     + **Multi-media recording/editing studio** for video/podcast production
-    + "**Art Room**" for design, crafts & other arts.
+    + "**Art Room**/Classroom" for design, crafts & other arts as well as a daytime
+    classroom for anyone who wants to learn/teach (away from the main working area).
   + 1 Small ("single") room (_was previously used as a study_)
     we intend to use this as our Laundry, utilities and linen room.
   + Bathroom w/ Shower (_big enough for an accessible/wheelchair facility
@@ -268,7 +271,7 @@ The house is comprised of 3 floors:
 
 
 `Braga House` is a place for people to live, learn and work
-with _Creative Technology_.
+with [_Creative Technology_]( #what-is-a-creative-technologist-).
 
 A _haven_ for people who _already_ consider themselves a "***Digital Nomad***"
 and/or those who _want_ to _learn_ how to be ***Creative Technologists***.
@@ -329,14 +332,14 @@ with **300m**<sup>2</sup>.
 
 We will make **32 sit/stand desks** available for people to use.
 The desks will be primarily in the "**Main WorkSpace**"
-which will have **18 desks**.
-The remaining desks will be
+which will have **20 desks**.
+The remaining desks will be in the basement work areas.
 
 ### Dimensions
 
 Each desk will measure 100 x 70cm
 (_this is **compact** but **comfortable** for a Laptop,
-  Gas-lift mounted Screen, notepad and other personal afects_)
+  Gas-lift mounted Screen, notepad and other personal effects_)
 
 ### Sit/Stand
 
@@ -377,7 +380,7 @@ but people should not sit at the table messaging or watching videos.
 
 The purpose of `CTRL+W` is to develop and share creative/technology knowledge.
 
-Between **16:00 - 19:00** we will hold _**daily**
+Between **16:00 - 19:00** we will build up to holding _**daily**
 Creative Technology **Workshops** for **dwyl members**_.
 
 We intend to share our learning _material_ both in written form
