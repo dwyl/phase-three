@@ -49,21 +49,23 @@ to-from Mile End each day (_average 1.5h per day!_)
 healthy and sustainable living.
 
 Our `mission` is to give people a comfortable
-yet **_highly_ cost-effective** place to live while they are
-learning the skills to work in (_or start_)
+yet **_highly_ cost-effective** place to live <br />
+while they are learning the skills to work in (_or start_)
 the top creative technology companies.
 
 
 ### Saving _Everyone_ Money/Time
 
-Setting up `Braga House` will cut down on _London_ living expenses
-by ***Two Thirds*** and give _everyone_ more time to learn, create and live!
+Setting up `Braga House` will cut down on
+_London_ living expenses by ***Two Thirds*** <br />
+and give _everyone_ ***more time*** to learn, create and enjoy life!
 
 The ***Total Cost*** of living in the `Braga House`
-will be _**€256 per Month**_.
+will be _**€256 per Month**_ (_per person_).
 
-This price is "_fair_" based on our research of the market
-and considering all the benefits people will get.
+This price is _exceptionally good value-for-money_
+based on our (_extensive_) market research
+and considering all the benefits people will get (_see below for "what's included"_).
 
 #### _Financially Sustainable_ But _Not For Profit_
 
@@ -78,9 +80,10 @@ and make a _**small surplus**_ which will be
   + your **choice** of **pillow** (_because pillows are a v. personal thing and make **all** the difference to sleep quality!_)
   + **bed linen** (_highest quality_) is **changed weekly** by housekeeper.
   (_if you prefer a higher frequency inform the "house parent"_)
-+ State-of the Art Kitchen with every appliance/gadget, utensil and utility
-you could _ever_ need to unleash your culinary creativity if choose to.
-  + 3 Fridges So Everyone Has
++ **State-of the Art Kitchen** with every appliance/gadget, utensil and utility
+you could _ever_ need to unleash your ***culinary creativity** if choose to.
+  + **3 Large Fridges** so everyone has space for their food.
+  + **3 Dishwashers** so nobody has to wash crockery!
 + ***Unlimited*** Healthy Vegan Soup (_freshly made each day_)
 + ***Unlimited*** Fresh Fruit & Vegetables (_personal use only, please don't start a restaurant with the House's "free" ingredients!_)
 + ***Unlimited*** Healthy Beverages:
@@ -370,7 +373,7 @@ and for checking recipes in the kitchen
 but people should not sit at the table messaging or watching videos.
 
 
-## 3. Creative Technology Resource & Learning Workshops (`CTRL+W`)
+## 3. Creative Technology Rapid Learning Workshops (`CTRL+W`)
 
 The purpose of `CTRL+W` is to develop and share creative/technology knowledge.
 
@@ -408,6 +411,7 @@ _**less than** a **studio flat** in central **London**_!
 > We think this is an "_unmissable_" opportunity because the total cost
 of living is less than **1/3** of **London** which means
 that _all_ our members can achieve "***financial freedom***" much earlier!
+
 
 ### Renovations
 
@@ -478,6 +482,18 @@ We think this is a very _fair_ price for the value people will get.
 + Many innovative products/services will flourish here
 with a **social focus**.
 
+#### Market Value of House _Post-Refurbishment_
+
+We expect the house to be worth around €650k once refurbished.
+This is based on _current_ valuations for _smaller_ properties
+in _worse_ areas of Braga.
+see: https://github.com/dwyl/phase-two/issues/54#issuecomment-298320811
+
+Given that we expect to invest €532, we _could_ make €100k if we sell.
+But that's _definitely_ not the point of the project!!
+
+But it's re-assuring to know that we could make a 20% financial ROI
+if we _wanted_ to, and that's what the Bank will be looking at.
 
 <br /><br />
 
