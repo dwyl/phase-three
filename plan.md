@@ -13,13 +13,14 @@ you may have noticed that dwyl does many things:
 we build open source 
 [Apps](https://github.com/dwyl/app), 
 websites and 
-[modules](https://github.com/dwyl/auth),
-we build them for ourselves and for clients, 
-we write tutorials, 
+[modules](https://github.com/dwyl/auth).
+We build for ourselves 
+and for many clients.
+We write tutorials, 
 promote open source,
 provide technology training, 
-get involved in accessibility 
-and women in tech initiatives.
+and get involved in accessibility 
+& women in tech initiatives.
 
 It didn't start out like this.
 
@@ -28,25 +29,15 @@ We began with
 then in order to support 
 [Founders & Coders](foundersandcoders.com) 
 and ensure the lights
-could be kept on at this organi`ation 
+could be kept on at this organization 
 that dwyl's co-founders were heavily involved
 in building, 
-we [started to take on client projects](https://github.com/dwyl/ateam-proposal) (again)
-whilst building our learning community by sharing the knowledge as we went.
+we 
+[started to take on client projects](https://github.com/dwyl/ateam-proposal) 
+(again)
+whilst building our learning community 
+by sharing the knowledge as we went.
 
-This plan lays out **how dwyl aims to achieve its goals**, 
-_clarifying_ the many hats
-dwyl wears and how they _work together_.
-
-## Contents Guide
-For the time being, we are putting everything into this one .md file, to be split
-out once reviewed from its rough draft form. We'll need a way to navigate!
-+ [Context](#context)
-+ [Branches](#branches) > discuss naming: https://github.com/dwyl/phase-two/issues/51
-  + [Product](#product)
-  + [Services](#services)
-  + [Training](#training)
-  + [Co-working](#co-working)
 
 
 ## Context
@@ -59,12 +50,19 @@ own, neat groupings of activities**, the various _branches_ of dwyl.
 > Each **branch** will have it's own mission, detailed goals and timelines,
 feeding directly into dwyl's overall goal.
 
-dwylers will work within one branch for at least 50% of their time, but _will
-contribute to more than one_ depending on personal preferences and dwyl's needs.
-For example, a developer working mostly on product could spend some time doing QA
-on a _services_ project and also film a introductory video tutorial for a new technology they've learned.
+**`dwylers`** will work within one area 
+for at least 50% of their time, 
+but _will contribute to more than one_ 
+depending on personal preferences 
+and dwyl's priorities.
+For example, an engineer working mostly on product 
+could spend some time doing QA
+on a _services_ project 
+and also produce an introductory video tutorial 
+for a new technology they've learned.
 
 ## Branches
+
 All branches **must contribute to our fixed overheads** and/or contribute to our
 credibility as experts in a given field.
 
@@ -73,6 +71,7 @@ which will be refined over time to serve as it's _decision making framework_.
 
 
 ### Product
+
 Building products is how we serve the _most_ people.
 
 Our intention has always been to be a 'products company'.  
@@ -84,6 +83,7 @@ Market research will be carried out and a business case will be put together for
 the creation of each of our products.
 
 #### Goals
+
 + Do we use/reach for the product _every day_?
 + Further goals to be set:
   + Date for MVP

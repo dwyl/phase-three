@@ -11,10 +11,8 @@ http://www.theaccessibleplanet.com/leisure/activities/door-width-for-wheelchair-
 
 ### Braga
 
-The cheapest hostel in Braga is €9/night for a dorm
+The cheapest hostel in Braga is €9/night for a dorm.
 We need to visit it to observe their facilities ...
-
-
 
 
 ### Regulations

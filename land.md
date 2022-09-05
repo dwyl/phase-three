@@ -27,8 +27,8 @@ and thus _do nothing_ about it.
 ![heads-in-the-sand](https://cloud.githubusercontent.com/assets/194400/19840787/273ffe7c-9ef6-11e6-891e-6fb38dcf1f62.jpg)
 
 But I _urge_ you to watch the 
-**National Geographic Documentary** "***Before the Flood***":
-[search_query=before+the+flood](https://www.youtube.com/results?search_query=before+the+flood)
+**National Geographic Documentary** 
+[***Before the Flood***](https://www.youtube.com/results?search_query=before+the+flood)
 
 [![national-geographic-before-the-flood](https://cloud.githubusercontent.com/assets/194400/19840913/29f1d354-9ef9-11e6-9ed5-637e1b3109a6.png)](https://www.youtube.com/results?search_query=before+the+flood)
 

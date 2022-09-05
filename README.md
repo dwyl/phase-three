@@ -1,9 +1,12 @@
+<div align="center">
+
 # Phase Three
 
+</div>
 
 
-If you are the kind of person 
-who likes thinking _long-term_ and _high-impact_
+If you like thinking 
+_long-term_ and _high-impact_
 this repo is for you!
 
 **D**o **W**hat **Y**ou **L**ove is _not_ a stepping-stone, 
@@ -27,7 +30,8 @@ into measurable goals:
   [**#42**](https://github.com/dwyl/phase-two/issues/42)
 + Life-long learning
 + Health https://github.com/dwyl/health
-+ Sustainable agriculture https://github.com/dwyl/aquaponics
++ Sustainable symbiotic agriculture: 
+  [dwyl/learn-**aquaponics**](https://github.com/dwyl/learn-aquaponics/issues)
 + Living with purpose and ethics 
   [#155](https://github.com/dwyl/hq/issues/155)
 + Deal with today's constant distraction and information overload
@@ -37,9 +41,9 @@ into measurable goals:
 
 Our 
 [manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md) 
-does a good job of transmitting our beliefs (although a 
-[tidy-up is needed](https://github.com/dwyl/start-here/issues/80)!) 
-so a quick re-iteration of the key points:
+does a good job of transmitting our beliefs 
+so we won't duplicate it here.
+A quick re-iteration of the key points:
 
 + People-centric (UX-focussed)
 + Life-long learning community
@@ -68,9 +72,21 @@ products, services, experiences
 and environments 
 that enrich lives.
 
-
 We _very much_ want to hear your thoughts on this 
 so if you have _time_
 _please_ read and _comment_ on the 
 [issues](https://github.com/dwyl/phase-three/issues)
 
+
+## Name? 
+
+The name "**Phase _Three_**"
+refers to the third phase 
+of our lives 
+that we all hope to reach some day.
+[**`#Third_age`**](https://en.wikipedia.org/wiki/Old_age#Third_age)
+
+We must all embrace and plan for this phase
+by proactively taking steps while we are young.
+
+That is the purpose of this repository.
