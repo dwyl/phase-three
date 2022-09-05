@@ -69,8 +69,8 @@ and environments
 that enrich lives.
 
 
-We _very much_ want to hear your thoughts on this s
-o if you have _time_
+We _very much_ want to hear your thoughts on this 
+so if you have _time_
 _please_ read and _comment_ on the 
 [issues](https://github.com/dwyl/phase-three/issues)
 
