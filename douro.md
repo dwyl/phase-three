@@ -2,27 +2,56 @@
 
 # Douro Riverside Family & Friends Food Forest Farmstead<sup>*</sup>
 
-<sup>*</sup> We're going to need a shorter name. 
+<sup>*</sup> We're going to need a shorter name. 💭
+
+
+
+After 
+[_years_](https://github.com/dwyl/phase-three/issues/3) 
+of searching 🔍<br />
+we think we have found an _amazing_ spot. 😍
+It ticks _all_ the boxes 
+to build our vision. 🌱
 
 </div>
-
-After _years_ of searching 
-we think we have found an _amazing_ spot.
-It ticks _all_ the boxes 
-to build our vision. 😍
 
 > Note: Extended discussion of the land is contained in the issue thread:
 [#116](https://github.com/dwyl/phase-three/issues/116) 💬
 
 This document is meant to serve as a _proposal_ 
-and answer as many of our questions as possible.
+and answer as many of our questions as possible. <br />
 If you have still have questions after reading it,
 please comment on the issue/thread: 
-[#116](https://github.com/dwyl/phase-three/issues/116) 🙏 
+[#116](https://github.com/dwyl/phase-three/issues/116) 🙏 <br />
 Or if you think of something new e.g. a "gotcha" or idea,
 please open a **`new`** issue to capture it. 
 
 Thanks! 
+
+
+- [Douro Riverside Family & Friends Food Forest Farmstead<sup>*</sup>](#douro-riverside-family--friends-food-forest-farmsteadsupsup)
+- [Why?](#why)
+- [What?](#what)
+  - [_Golden_](#golden)
+  - [UNESCO World Heritage Site](#unesco-world-heritage-site)
+- [Where?](#where)
+  - [Souselo](#souselo)
+- [Who?](#who)
+- [How?](#how)
+  - [How _Much_?](#how-much)
+  - [Help Wanted!](#help-wanted)
+- [Why We Need our Own Land?](#why-we-need-our-own-land)
+  - [_Access_ to Land `!==` Freedom to Grow Food](#access-to-land--freedom-to-grow-food)
+  - [Space to Grow!](#space-to-grow)
+  - [Food Forrest 🌳](#food-forrest-)
+  - [Botanical Garden 🏡](#botanical-garden-)
+    - [Geodesic Greenhouse 🌱](#geodesic-greenhouse-)
+  - [Forest Farm _School_](#forest-farm-school)
+  - [Bees 🐝](#bees-)
+    - [Organic Honey 🍯 and Wax 🕯️](#organic-honey--and-wax-️)
+  - [Aquaponics 🐟 + 🌱](#aquaponics---)
+- [Relevant Reading + Research](#relevant-reading--research)
+  - [Douro Cruises](#douro-cruises)
 
 # Why?
 
@@ -30,28 +59,6 @@ We aren't getting any younger.
 We have to proactively think about our own "third age"
 and plan for the retirement of our parents.
 
-
-## _Where_ to Live?
-
-Having recently been blessed with a child 
-and with another "on the way",
-it's brought the "_where to spend our time?_" question 
-into sharp focus.
-
-Living in the city 
-is good for all the modern conveniences
-like easy access to shops, 
-healthcare and government services.
-Braga is a fantastic little city 
-with _most_ of the things
-a young family or older folks can wish for; 
-good schools, 
-organic food shops
-and good activities.
-However it's still a city.
-There is road noise/pollution, 
-limited access to nature
-and little space for growing our own food.
 
 # What?
 
@@ -97,7 +104,30 @@ https://en.wikipedia.org/wiki/Douro_DOC
 Everywhere you look is a postcard.
 
 
-# What?
+# Where?
+
+Having recently been blessed with a child 
+and with another "on the way",
+it's brought the "_where to spend our time?_" question 
+into sharp focus.
+
+Living in the city 
+is good for all the modern conveniences
+like easy access to shops, 
+healthcare and government services.
+Braga is a fantastic little city 
+with _most_ of the things
+a young family or older folks can wish for; 
+good schools, 
+organic food shops
+and good activities.
+However it's still a city.
+There is road noise/pollution, 
+limited access to nature
+and little space for growing our own food.
+
+## Souselo
+
 
 
 
@@ -106,6 +136,10 @@ Everywhere you look is a postcard.
 
 
 # How?
+
+## How _Much_?
+
+
 
 ## Help Wanted!
 
@@ -175,8 +209,20 @@ during the winter months.
 
 ![geodesic-greenhouse](https://user-images.githubusercontent.com/194400/188852607-cfa886a7-6a78-4000-a055-8125be45abad.png)
 
+See: 
+[**`#122`**](https://github.com/dwyl/phase-three/issues/122)
 
-## Bees 🐝
+## Forest Farm _School_
+
+We are _huge_ fans of the idea 
+of outdoor learning for our children.
+This concept is 
+
+There are already a couple of forest(ish) schools in Portugal
+but they are on the outskirts of cities 
+and _ridiculously_ over-priced. 
+
+## Bees 🐝 
 
 Sadly, one person in Inês' family is allergic to bee stings,
 so having a bee hive is out-of-the-question on their family-owned land.
@@ -184,28 +230,51 @@ It's a total misconception that bees sting people without good reason.
 I did a bee-keeping course 
 and have been around hives a lot without ever being stung.
 
-We will 100% be installing bee hives on _our_ land 
+We will 100% be installing
+[**_transparent_ bee hives**](https://youtu.be/9ItlOFLTUAs) 
+on _our_ land 
 at the furthest edge from the main house.
 There will be prominent warning signs
 and we will have a first aid station
 with the necessary treatment options.
+
+### Organic Honey 🍯 and Wax 🕯️
 
 For maximizing crop yields keeping bees is a no-brainer.
 And since most of us also like honey, 
 and there will be plenty of wax,
 we will have two _useful_ and "free" byproducts.
 
+There are _many_ applications for both honey and wax
+that aren't consuming it in tea or making candles.
+See: 
+[**`#89`**](https://github.com/dwyl/phase-three/issues/89#issuecomment-1239227456)
 
 ## Aquaponics 🐟 + 🌱
 
+We plan to build our own water tanks at the highest point 
+on the land to store water for gravity-fed irrigation. 
+In those tanks we will place several species of fish.
+The fish will eat 
 
-## Forest School
+
 
 
 
 <br />
 
 # Relevant Reading + Research
+
+## Nearest Full-service Hospital
+
+The nearest hospital with full-service (Radiology, Operating Theatre, etc.)
+is **`23km`** away. 
+The estimated journey time is **`28 minutes`**:
+
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/194400/188856534-7aa455e7-0c95-4977-b136-62b8928e21d7.png">
+
+In an emergency we would probably drive our [TimeMachine]() 
+
 
 ## Douro Cruises
 

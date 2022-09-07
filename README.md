@@ -28,8 +28,9 @@ into measurable goals:
 + Living a happy and fulfilling life
 + Financial sustainability 
   [**#42**](https://github.com/dwyl/phase-two/issues/42)
-+ Life-long learning
-+ Health https://github.com/dwyl/health
++ Life-long learning: 
+  [?q=learn](https://github.com/orgs/dwyl/repositories?language=&q=learn&sort=&type=all)
++ Health: [dwyl/health](https://github.com/dwyl/health)
 + Sustainable symbiotic agriculture: 
   [dwyl/learn-**aquaponics**](https://github.com/dwyl/learn-aquaponics/issues)
 + Living with purpose and ethics 
