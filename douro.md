@@ -2,20 +2,20 @@
 
 # Douro Riverside Family & Friends Food Forest Farmstead<sup>*</sup>
 
-<sup>*</sup> We're going to need a shorter name. 💭
+<sup>*</sup> _We're going to need a shorter name_ ... **`#HelpWanted`** 💭
 
 
 
 After 
 [_years_](https://github.com/dwyl/phase-three/issues/3) 
-of searching 🔍<br />
-we think we have found an _amazing_ spot. 😍
+of searching ... 🔍<br />
+we think we have found an _amazing_ spot. 😍 <br />
 It ticks _all_ the boxes 
 to build our vision. 🌱
 
 </div>
 
-> Note: Extended discussion of the land is contained in the issue thread:
+> **Note**: Extended discussion of the land is contained in the issue thread:
 [#116](https://github.com/dwyl/phase-three/issues/116) 💬
 
 This document is meant to serve as a _proposal_ 
@@ -38,8 +38,14 @@ Thanks!
   - [Souselo](#souselo)
 - [Who?](#who)
 - [How?](#how)
-  - [How _Much_?](#how-much)
+  - [How _Much_? 💰](#how-much-)
+  - [Renovating the Main House](#renovating-the-main-house)
+  - [Renovating the 2 Smaller "Cottages"](#renovating-the-2-smaller-cottages)
+    - [Caretaker Cottage](#caretaker-cottage)
   - [Help Wanted!](#help-wanted)
+    - [Part-time Paid Cleaning Person](#part-time-paid-cleaning-person)
+    - [Workaway](#workaway)
+- [Revenue](#revenue)
 - [Why We Need our Own Land?](#why-we-need-our-own-land)
   - [_Access_ to Land `!==` Freedom to Grow Food](#access-to-land--freedom-to-grow-food)
   - [Space to Grow!](#space-to-grow)
@@ -56,7 +62,7 @@ Thanks!
 # Why?
 
 We aren't getting any younger.
-We have to proactively think about our own "third age"
+We must proactively think about our own "third age"
 and plan for the retirement of our parents.
 
 
@@ -104,11 +110,14 @@ https://en.wikipedia.org/wiki/Douro_DOC
 Everywhere you look is a postcard.
 
 
+
+
 # Where?
 
 Having recently been blessed with a child 
 and with another "on the way",
-it's brought the "_where to spend our time?_" question 
+it's brought the question 
+"_**where** to spend our time?_" 
 into sharp focus.
 
 Living in the city 
@@ -128,21 +137,60 @@ and little space for growing our own food.
 
 ## Souselo
 
+The land is based in **`Souselo`**: 
+[wikipedia.org/wiki/Souselo](https://pt.wikipedia.org/wiki/Souselo)
 
+[google.com/maps/@41.0600253,-8.2457732](https://www.google.com/maps/@41.0600253,-8.2457732,283a,35y,3.29t/data=!3m1!1e3)
+
+<img width="1633" alt="land-topology-map" src="https://user-images.githubusercontent.com/194400/189042105-f433a989-b675-457c-b9a4-1bb411c48b07.png">
 
 
 
 # Who?
 
+The land will be run as a Food Forest Farm as a "Family & Friends".
+One of the cottages will be renovated and serve as the "**Caretaker Cottage**" (see below).
+
 
 # How?
 
-## How _Much_?
+The first step in determining the feasibility
+of this project is to look at the finances/projections.
+
+## How _Much_? 💰
+
+The up-front cost of the land is **`€270,000`** 
+[**`£234,495`**](https://github.com/dwyl/phase-three/issues/116#issuecomment-1240250648).
+There will be additional legal fees
+and paperwork from the council [tbd].
+We estimate that will be another **`€2k`**.
+So all-in the cost to purchase will be **`€272k`**.
+
+That is where the costs _start_! 💸
+
+## Renovating the Main House
+
+
+
+## Renovating the 2 Smaller "Cottages"
+
+
+### Caretaker Cottage
+
+
 
 
 
 ## Help Wanted!
 
+### Part-time Paid Cleaning Person
+
+
+
+### Workaway
+
+
+# Revenue
 
 
 
