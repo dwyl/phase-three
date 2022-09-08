@@ -1,19 +1,23 @@
 <div align="center">
 
-# Douro Riverside Family & Friends Food Forest Farmstead<sup>*</sup>
+# Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>
 
 <sup>*</sup> _We're going to need a shorter name_ ... **`#HelpWanted`** 💭
 
 
 
 After 
-[_years_](https://github.com/dwyl/phase-three/issues/3) 
-of searching ... 🔍<br />
-we think we have found an _amazing_ spot. 😍 <br />
+[***years***](https://github.com/dwyl/phase-three/issues/3) 
+of **searching** ... 🔍<br />
+we think we have found an **_amazing_ spot**. 😍 <br />
 It ticks _all_ the boxes 
-to build our vision. 🌱
+to build our vision: 🌱
 
 </div>
+
++ [x] Abundant/Unlimited Water [#21](https://github.com/dwyl/phase-three/issues/21) 🚰
++ [x] Excellent air quality == longevity [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
++ [ ] Unobstructed sunlight for plants  and solar panels [**`#7`**]()
 
 > **Note**: Extended discussion of the land is contained in the issue thread:
 [#116](https://github.com/dwyl/phase-three/issues/116) 💬
@@ -29,14 +33,19 @@ please open a **`new`** issue to capture it.
 Thanks! 
 
 
-- [Douro Riverside Family & Friends Food Forest Farmstead<sup>*</sup>](#douro-riverside-family--friends-food-forest-farmsteadsupsup)
+- [Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>](#douro-riverside-family--friends-food-forest-farm-tiny-home-villagesupsup)
 - [Why?](#why)
 - [What?](#what)
   - [_Golden_](#golden)
   - [UNESCO World Heritage Site](#unesco-world-heritage-site)
 - [Where?](#where)
   - [Souselo](#souselo)
+    - [Vila Meã](#vila-meã)
+    - [Existing Local Housing](#existing-local-housing)
 - [Who?](#who)
+  - [Farm Manager (part-time)](#farm-manager-part-time)
+  - [Cleaning Person](#cleaning-person)
+  - [Volunteer Visitors](#volunteer-visitors)
 - [How?](#how)
   - [How _Much_? 💰](#how-much-)
   - [Renovating the Main House](#renovating-the-main-house)
@@ -46,17 +55,20 @@ Thanks!
     - [Part-time Paid Cleaning Person](#part-time-paid-cleaning-person)
     - [Workaway](#workaway)
 - [Revenue](#revenue)
-- [Why We Need our Own Land?](#why-we-need-our-own-land)
+- [Why We Need Our _Own_ Land?](#why-we-need-our-own-land)
   - [_Access_ to Land `!==` Freedom to Grow Food](#access-to-land--freedom-to-grow-food)
   - [Space to Grow!](#space-to-grow)
   - [Food Forrest 🌳](#food-forrest-)
   - [Botanical Garden 🏡](#botanical-garden-)
     - [Geodesic Greenhouse 🌱](#geodesic-greenhouse-)
-  - [Forest Farm _School_](#forest-farm-school)
-  - [Bees 🐝](#bees-)
-    - [Organic Honey 🍯 and Wax 🕯️](#organic-honey--and-wax-️)
-  - [Aquaponics 🐟 + 🌱](#aquaponics---)
-- [Relevant Reading + Research](#relevant-reading--research)
+  - [Pedagogical Forest Farm _School_](#pedagogical-forest-farm-school)
+    - [Farm Animals](#farm-animals)
+    - [Ducks](#ducks)
+    - [Bees 🐝](#bees-)
+      - [Organic Honey 🍯 and Wax 🕯️](#organic-honey--and-wax-️)
+    - [Aquaponics 🐟 + 🌱](#aquaponics---)
+- [Relevant Reading + Research 🔍](#relevant-reading--research-)
+    - [On-site First Aid Center ⚕️](#on-site-first-aid-center-️)
   - [Douro Cruises](#douro-cruises)
 
 # Why?
@@ -107,9 +119,9 @@ is a World Heritage Site.
 Read the Wiki page for more info:
 https://en.wikipedia.org/wiki/Douro_DOC
 
-Everywhere you look is a postcard.
+Everywhere you look is a postcard of epic landscapes:
 
-
+![image](https://user-images.githubusercontent.com/194400/189114089-a5134ef7-7dae-47e2-be85-d37a2d0dcecb.png)
 
 
 # Where?
@@ -124,32 +136,137 @@ Living in the city
 is good for all the modern conveniences
 like easy access to shops, 
 healthcare and government services.
-Braga is a fantastic little city 
+Braga is a fantastic small city 
 with _most_ of the things
-a young family or older folks can wish for; 
+a young family 
+or older folks 
+can wish for; 
 good schools, 
-organic food shops
+organic food shops,
+great restaurants,
 and good activities.
 However it's still a city.
-There is road noise/pollution, 
+Even though it has comparatively
+_good_ air quality,
+there is road noise/pollution, 
 limited access to nature
 and little space for growing our own food.
 
+We need _space_ to grow our own food and imagination!
+
 ## Souselo
 
-The land is based in **`Souselo`**: 
+The land we are considering is based in **`Souselo`**: 
 [wikipedia.org/wiki/Souselo](https://pt.wikipedia.org/wiki/Souselo)
 
 [google.com/maps/@41.0600253,-8.2457732](https://www.google.com/maps/@41.0600253,-8.2457732,283a,35y,3.29t/data=!3m1!1e3)
 
 <img width="1633" alt="land-topology-map" src="https://user-images.githubusercontent.com/194400/189042105-f433a989-b675-457c-b9a4-1bb411c48b07.png">
 
+### Vila Meã
+
+The nearest village is Vila Meã. 
+It's tiny. 
+Has only a handful of houses and no shops/services.
+Map of the area 
+featuring several sightseeing stops 
+and existing accommodation: 
+
+<img width="1666" alt="image" src="https://user-images.githubusercontent.com/194400/189066783-82d785bf-c498-4893-8096-fd440864f104.png">
+
+### Existing Local Housing
+
+There are already 15 guest houses 
+in the local area within a 1 km radius
+listed on Booking.com:
+[https://www.booking.com/searchresults.en-gb.html](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAsouwFCHWNhc2EtZGEtaWxoYS1jYXN0ZWxvLWRlLXBhaXZhSDNYBGi7AYgBAZgBCbgBB8gBDNgBAegBAfgBC4gCAagCA7gCgsPmmAbAAgHSAiQ1YjVhZmNkMi0wNjlhLTQ1NTEtYjg3NS1mODkwNzZmZDI1MDHYAgbgAgE&sid=7b47415b9fa49b9dbd60ee24312ebc86&aid=304142&sb=1&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fcasa-da-ilha-castelo-de-paiva.en-gb.html%3Flabel%3Dgen173nr-1FCAsouwFCHWNhc2EtZGEtaWxoYS1jYXN0ZWxvLWRlLXBhaXZhSDNYBGi7AYgBAZgBCbgBB8gBDNgBAegBAfgBC4gCAagCA7gCgsPmmAbAAgHSAiQ1YjVhZmNkMi0wNjlhLTQ1NTEtYjg3NS1mODkwNzZmZDI1MDHYAgbgAgE%26sid%3D7b47415b9fa49b9dbd60ee24312ebc86%26room1%3DA%252CA%3Bsb_price_type%3Dtotal%3Btype%3Dtotal%26%26&highlighted_hotels=5014883&hp_sbox=1&dest_id=900050875&dest_type=city&origin=hp&hp_avform=1&do_availability_check=on&no_redirect_check=1&checkin_year=2022&checkin_month=9&checkin_monthday=30&checkout_year=2022&checkout_month=10&checkout_monthday=2&group_adults=2&group_children=1&no_rooms=1&age=1&b_h4u_keep_filters=&from_sf=1&order=review_score_and_price)
+
+<img width="1107" alt="image" src="https://user-images.githubusercontent.com/194400/189114838-f31bb861-b1a7-44dd-b778-bfe979f9449e.png">
+
+We've gone through each one 
+and taken screenshots [`#116`](https://github.com/dwyl/phase-three/issues/116#issuecomment-1240391427)
+
+The _cheapest_ option in the area
+is **`€120/night`** for 2 adults and 1 child:
+**Solar Guesthouse Olival da Vinha**: https://www.booking.com/hotel/pt/solar-guest-house-olival-da-vinha.en-gb.html
+
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/194400/189115923-647ce3fe-fb4c-499a-a24a-ff26dc86366e.png">
+
+It has nice decor and a good location 
+**`400m`** from the centre of Castelo de Paiva.
+But it's quite far from the river (no access), 
+doesn't have a pool or other amenities.
+
+This is the view from the guest house:
+
+<img width="1252" alt="image" src="https://user-images.githubusercontent.com/194400/189116647-5d707ba7-101b-491f-b21e-fb4a07b6c59e.png">
+
+A bit "meh" IMO ...
+
+Then they have a bunch of pictures of the surrounding area:
+
+<img width="1252" alt="image" src="https://user-images.githubusercontent.com/194400/189116582-c7537416-8a2e-4f4f-a86e-2d6c7682a1c1.png">
+
+![image](https://user-images.githubusercontent.com/194400/189116436-b7d63055-2241-48d9-843e-b65f4a0e8ad8.png)
+
+Again, we think this is a _really_ good sign.
+It shows that there is demand at the higher price point.
+More on this later. 
 
 
 # Who?
 
-The land will be run as a Food Forest Farm as a "Family & Friends".
-One of the cottages will be renovated and serve as the "**Caretaker Cottage**" (see below).
+The land will be run as a 
+Food Forest Farm for "Family & Friends".
+
+The Main House will be renovated and serve as a Family home.
+But rather than having a "weekend home" 
+that we use a handful of times per year,
+it will be listed on booking.com, AirBnb, etc.
+Thus families up to 10 peole 
+from both PT and abroad
+will be able to rent it 
+and enjoy the organic permaculture lifestyle.  
+
+One of the smaller cottages will be renovated 
+and serve as the "**Caretaker Cottage**" (see below).
+
+
+## Farm Manager (part-time)
+
+This will be inhabited by [**`@carolrmc`**]
+who will take on the part-time role of Farm Manager.
+Carol will be responsible 
+for managing/tracking the work that needs to be done
+
+## Cleaning Person
+
+The cleaning person will be hired from the local area.
+We expect to pay **`€6/h`** and for them to work **`3h/day`**
+i.e. 3h x 5days x €6 x 52 weeks = €4,680/year
+
+Task will include:
++ [x] Cleaning the main house & cottages
++ [x] Laundry and linen changes
++ [x] Turning over the Tiny Homes as we build them
++ [x] Food prep e.g. retrieving ingredients from the veg garden or fruit trees
++ [x] General light yard work such as collecting fallen leaves
+
+Once we ramp up the number of Tiny Homes in the Village,
+we will move to employing cleaning people full-time year-round.
+
+
+## Volunteer Visitors
+
+We intend to list the farm on several 
+work-for-room+board websites
+so that people who want to visit
+the farm and do **`4h/day`** of work 
+in exchange for room & board.
+They will learn Portugese (or English!)
+and lots about permaculture and sustainable living.
+
+See [Workaway](#workaway) section below.
 
 
 # How?
@@ -172,6 +289,7 @@ That is where the costs _start_! 💸
 
 
 
+
 ## Renovating the 2 Smaller "Cottages"
 
 
@@ -190,13 +308,15 @@ That is where the costs _start_! 💸
 ### Workaway
 
 
+
+
 # Revenue
 
 
 
 <br />
 
-# Why We Need our Own Land?
+# Why We Need Our _Own_ Land?
 
 As you will see from reading the next section,
 to 
@@ -248,8 +368,8 @@ to visit and learn about the plants and ecosystems.
 ### Geodesic Greenhouse 🌱
 
 In addition to the open-air food forest,
-we will have a decent size [tbd]
-geodesic greenhouse structure
+we will have a decent size [tbd](https://github.com/dwyl/phase-three/issues/122)
+geodesic dome greenhouse structure
 that will allow us to grow tropical plants
 that need specific temperatures to thrive.
 This will be an especially great place to be
@@ -260,17 +380,55 @@ during the winter months.
 See: 
 [**`#122`**](https://github.com/dwyl/phase-three/issues/122)
 
-## Forest Farm _School_
+## Pedagogical Forest Farm _School_
 
 We are _huge_ fans of the idea 
 of outdoor learning for our children.
-This concept is 
+This concept is well-established
+in the Nordic countries:
+https://en.wikipedia.org/wiki/Forest_school_(learning_style)
+
+Children as young as 3 spend _most_ of their day
+outdoors learning in nature.
+They explore their surroundings,
+discover flora, fauna and how to make things.
 
 There are already a couple of forest(ish) schools in Portugal
-but they are on the outskirts of cities 
-and _ridiculously_ over-priced. 
+but none of the come _close_ 
+to what is _possible_ with the land we are considering.
 
-## Bees 🐝 
+### Farm Animals
+
+One of our son's favorite places to visit in Braga
+is the **Braga Pedagogical Farm**:
+https://en.wikipedia.org/wiki/Braga_Pedagogical_Farm
+
+<img width="989" alt="image" src="https://user-images.githubusercontent.com/194400/189090045-437279ba-75ed-4ffb-a57c-5fc93b2c1557.png">
+
+They have several farm animals 
+kept in relatively small enclosures.
+The visitors are not allowed to feed or touch the animals
+(_for obvious reasons, 
+most children would hit the lamb 
+if it tried to nibble their hand while feeding ..._).
+
+We will allow our kids (under supervision)
+to _interact_ with the animals.
+
+We think that having contact with animals
+will help our children (and farm friends)
+better understand the animals
+and think harder about _eating_ them. 💭
+
+### Ducks
+
+Being water-front property,
+it's _ideal_ for keeping ducks.
+We've done a decent amount of research into this:
+
+
+
+### Bees 🐝 
 
 Sadly, one person in Inês' family is allergic to bee stings,
 so having a bee hive is out-of-the-question on their family-owned land.
@@ -286,7 +444,7 @@ There will be prominent warning signs
 and we will have a first aid station
 with the necessary treatment options.
 
-### Organic Honey 🍯 and Wax 🕯️
+#### Organic Honey 🍯 and Wax 🕯️
 
 For maximizing crop yields keeping bees is a no-brainer.
 And since most of us also like honey, 
@@ -298,7 +456,7 @@ that aren't consuming it in tea or making candles.
 See: 
 [**`#89`**](https://github.com/dwyl/phase-three/issues/89#issuecomment-1239227456)
 
-## Aquaponics 🐟 + 🌱
+### Aquaponics 🐟 + 🌱
 
 We plan to build our own water tanks at the highest point 
 on the land to store water for gravity-fed irrigation. 
@@ -311,9 +469,14 @@ The fish will eat
 
 <br />
 
-# Relevant Reading + Research
+# Relevant Reading + Research 🔍
 
-## Nearest Full-service Hospital
+
+
+
+One of the obvious considerations/concerns 
+
+## Nearest Full-service Hospital 🏥
 
 The nearest hospital with full-service (Radiology, Operating Theatre, etc.)
 is **`23km`** away. 
@@ -321,11 +484,23 @@ The estimated journey time is **`28 minutes`**:
 
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/194400/188856534-7aa455e7-0c95-4977-b136-62b8928e21d7.png">
 
-In an emergency we would probably drive our [TimeMachine]() 
+In an emergency we would drive our [TimeMachine]() 
+and cut this journey time down baring safety in-mind.
+
+### On-site First Aid Center ⚕️
+
+We will do everything we can to minimize risk to health & safety,
+by having well-defined systems,
+but we know accidents happen 
+and they need to be addressed swiftly.
+Having a dedicated first aid center (adjoining the reception)
+at the entrance/exit of the property will be a high priority.
+
 
 
 ## Douro Cruises
 
+There is _thriving_ river cruise, vinyard tour and culinary experience tourism industry in the Douro area:
 https://www.cruzeiros-douro.pt
 <img width="1112" alt="image" src="https://user-images.githubusercontent.com/194400/188457987-19ba54ba-58b2-4f0c-b507-f48bef9d6043.png">
 
