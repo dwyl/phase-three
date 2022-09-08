@@ -1,10 +1,12 @@
 <div align="center">
 
+[![tiny-house-village](https://user-images.githubusercontent.com/194400/189148356-1d6a8d22-c95d-42dc-8e46-0199a9eb9fd1.jpeg "image credit: https://www.countryliving.com/life/travel/g3595/tour-tiny-house-village")](https://github.com/dwyl/phase-three/issues/116#issuecomment-1240795630)
+
 # Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>
 
 <sup>*</sup> _We're going to need a shorter name_ ... **`#HelpWanted`** 💭
 
-
+</div>
 
 After 
 [***years***](https://github.com/dwyl/phase-three/issues/3) 
@@ -13,11 +15,23 @@ we think we have found an **_amazing_ spot**. 😍 <br />
 It ticks _all_ the boxes 
 to build our vision: 🌱
 
-</div>
-
-+ [x] Abundant/Unlimited Water [#21](https://github.com/dwyl/phase-three/issues/21) 🚰
-+ [x] Excellent air quality == longevity [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
-+ [ ] Unobstructed sunlight for plants  and solar panels [**`#7`**]()
++ [x] Abundant/Unlimited Water 
+  [**`#21`**](https://github.com/dwyl/phase-three/issues/21) 🚰
+  + [x] Access to a year-round _navegable_ river 
++ [x] Excellent air quality == longevity 
+  [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
++ [x] Unobstructed sunlight for plants  and solar panels 
+  [**`#7`**](https://github.com/dwyl/phase-three/issues/7) ☀️
++ [x] Superb soil fertility for growing organic food 
+  [**`#87`**](https://github.com/dwyl/phase-three/issues/87) 🥦
+  [**`#90`**](https://github.com/dwyl/phase-three/issues/90) 🫐
++ [x] Relative seclusion (low noise) for a more peaceful life. 
++ [x] Existing/established trees (ideally a forest!) 
+  [**`#6`**](https://github.com/dwyl/phase-three/issues/6) 🌳
++ [x] Ruins to rebuild.  
+  Much faster than getting planning permission to build from scratch.
+  Still means we get to pick all the fixtures/fittings. 🏡
++ [x] 
 
 > **Note**: Extended discussion of the land is contained in the issue thread:
 [#116](https://github.com/dwyl/phase-three/issues/116) 💬
@@ -41,7 +55,6 @@ Thanks!
 - [Where?](#where)
   - [Souselo](#souselo)
     - [Vila Meã](#vila-meã)
-    - [Existing Local Housing](#existing-local-housing)
 - [Who?](#who)
   - [Farm Manager (part-time)](#farm-manager-part-time)
   - [Cleaning Person](#cleaning-person)
@@ -52,7 +65,7 @@ Thanks!
   - [Renovating the 2 Smaller "Cottages"](#renovating-the-2-smaller-cottages)
     - [Caretaker Cottage](#caretaker-cottage)
   - [Help Wanted!](#help-wanted)
-    - [Part-time Paid Cleaning Person](#part-time-paid-cleaning-person)
+    - [Part-time Paid Cleaning Person 🧹](#part-time-paid-cleaning-person-)
     - [Workaway](#workaway)
 - [Revenue](#revenue)
 - [Why We Need Our _Own_ Land?](#why-we-need-our-own-land)
@@ -67,15 +80,20 @@ Thanks!
     - [Bees 🐝](#bees-)
       - [Organic Honey 🍯 and Wax 🕯️](#organic-honey--and-wax-️)
     - [Aquaponics 🐟 + 🌱](#aquaponics---)
+  - [Energy / Power](#energy--power)
+    - [Solar Panels](#solar-panels)
+    - [Pumped-storage Hydroelectricity](#pumped-storage-hydroelectricity)
 - [Relevant Reading + Research 🔍](#relevant-reading--research-)
+  - [Hospital 🏥](#hospital-)
     - [On-site First Aid Center ⚕️](#on-site-first-aid-center-️)
   - [Douro Cruises](#douro-cruises)
+  - [_Existing_ Local Guest Houses](#existing-local-guest-houses)
 
 # Why?
 
-We aren't getting any younger.
-We must proactively think about our own "third age"
-and plan for the retirement of our parents.
+We aren't getting any younger. <br />
+We must _proactively_ think about our own "third age" _long_ before we _need_ to <br />
+and plan for the imminent retirement of our parents.
 
 
 # What?
@@ -83,6 +101,8 @@ and plan for the retirement of our parents.
 Our idea is to purchase 
 a very _specific_ piece of land 
 in the Douro Region of northern Portugal.
+
+
 
 
 ## _Golden_
@@ -123,6 +143,8 @@ Everywhere you look is a postcard of epic landscapes:
 
 ![image](https://user-images.githubusercontent.com/194400/189114089-a5134ef7-7dae-47e2-be85-d37a2d0dcecb.png)
 
+
+![douro-river-postcard](https://user-images.githubusercontent.com/194400/189154546-4e79f6b1-8f61-4b4c-b9aa-413e23c53676.jpeg)
 
 # Where?
 
@@ -174,44 +196,7 @@ and existing accommodation:
 
 <img width="1666" alt="image" src="https://user-images.githubusercontent.com/194400/189066783-82d785bf-c498-4893-8096-fd440864f104.png">
 
-### Existing Local Housing
 
-There are already 15 guest houses 
-in the local area within a 1 km radius
-listed on Booking.com:
-[https://www.booking.com/searchresults.en-gb.html](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAsouwFCHWNhc2EtZGEtaWxoYS1jYXN0ZWxvLWRlLXBhaXZhSDNYBGi7AYgBAZgBCbgBB8gBDNgBAegBAfgBC4gCAagCA7gCgsPmmAbAAgHSAiQ1YjVhZmNkMi0wNjlhLTQ1NTEtYjg3NS1mODkwNzZmZDI1MDHYAgbgAgE&sid=7b47415b9fa49b9dbd60ee24312ebc86&aid=304142&sb=1&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fcasa-da-ilha-castelo-de-paiva.en-gb.html%3Flabel%3Dgen173nr-1FCAsouwFCHWNhc2EtZGEtaWxoYS1jYXN0ZWxvLWRlLXBhaXZhSDNYBGi7AYgBAZgBCbgBB8gBDNgBAegBAfgBC4gCAagCA7gCgsPmmAbAAgHSAiQ1YjVhZmNkMi0wNjlhLTQ1NTEtYjg3NS1mODkwNzZmZDI1MDHYAgbgAgE%26sid%3D7b47415b9fa49b9dbd60ee24312ebc86%26room1%3DA%252CA%3Bsb_price_type%3Dtotal%3Btype%3Dtotal%26%26&highlighted_hotels=5014883&hp_sbox=1&dest_id=900050875&dest_type=city&origin=hp&hp_avform=1&do_availability_check=on&no_redirect_check=1&checkin_year=2022&checkin_month=9&checkin_monthday=30&checkout_year=2022&checkout_month=10&checkout_monthday=2&group_adults=2&group_children=1&no_rooms=1&age=1&b_h4u_keep_filters=&from_sf=1&order=review_score_and_price)
-
-<img width="1107" alt="image" src="https://user-images.githubusercontent.com/194400/189114838-f31bb861-b1a7-44dd-b778-bfe979f9449e.png">
-
-We've gone through each one 
-and taken screenshots [`#116`](https://github.com/dwyl/phase-three/issues/116#issuecomment-1240391427)
-
-The _cheapest_ option in the area
-is **`€120/night`** for 2 adults and 1 child:
-**Solar Guesthouse Olival da Vinha**: https://www.booking.com/hotel/pt/solar-guest-house-olival-da-vinha.en-gb.html
-
-<img width="1270" alt="image" src="https://user-images.githubusercontent.com/194400/189115923-647ce3fe-fb4c-499a-a24a-ff26dc86366e.png">
-
-It has nice decor and a good location 
-**`400m`** from the centre of Castelo de Paiva.
-But it's quite far from the river (no access), 
-doesn't have a pool or other amenities.
-
-This is the view from the guest house:
-
-<img width="1252" alt="image" src="https://user-images.githubusercontent.com/194400/189116647-5d707ba7-101b-491f-b21e-fb4a07b6c59e.png">
-
-A bit "meh" IMO ...
-
-Then they have a bunch of pictures of the surrounding area:
-
-<img width="1252" alt="image" src="https://user-images.githubusercontent.com/194400/189116582-c7537416-8a2e-4f4f-a86e-2d6c7682a1c1.png">
-
-![image](https://user-images.githubusercontent.com/194400/189116436-b7d63055-2241-48d9-843e-b65f4a0e8ad8.png)
-
-Again, we think this is a _really_ good sign.
-It shows that there is demand at the higher price point.
-More on this later. 
 
 
 # Who?
@@ -290,10 +275,13 @@ That is where the costs _start_! 💸
 
 
 
+
 ## Renovating the 2 Smaller "Cottages"
 
 
-### Caretaker Cottage
+
+
+### Caretaker Cottage 
 
 
 
@@ -301,7 +289,7 @@ That is where the costs _start_! 💸
 
 ## Help Wanted!
 
-### Part-time Paid Cleaning Person
+### Part-time Paid Cleaning Person 🧹
 
 
 
@@ -310,7 +298,7 @@ That is where the costs _start_! 💸
 
 
 
-# Revenue
+# Revenue 
 
 
 
@@ -463,6 +451,14 @@ on the land to store water for gravity-fed irrigation.
 In those tanks we will place several species of fish.
 The fish will eat 
 
+## Energy / Power
+
+
+
+### Solar Panels
+
+### Pumped-storage Hydroelectricity
+
 
 
 
@@ -476,9 +472,10 @@ The fish will eat
 
 One of the obvious considerations/concerns 
 
-## Nearest Full-service Hospital 🏥
+## Hospital 🏥
 
-The nearest hospital with full-service (Radiology, Operating Theatre, etc.)
+The nearest hospital with full-service 
+(Radiology, Operating Theatre, etc.)
 is **`23km`** away. 
 The estimated journey time is **`28 minutes`**:
 
@@ -511,3 +508,42 @@ Portugal's Douro River flows like liquid gold:
 https://edition.cnn.com/travel/article/portugal-douro/index.html
 
 <img width="1590" alt="douro-flows-gold" src="https://user-images.githubusercontent.com/194400/188491129-c13622d9-b278-4a3c-abcc-121490525369.png">
+
+## _Existing_ Local Guest Houses
+
+There are already 15 guest houses 
+in the local area within a 1 km radius
+listed on Booking.com:
+[https://www.booking.com/searchresults.en-gb.html](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAsouwFCHWNhc2EtZGEtaWxoYS1jYXN0ZWxvLWRlLXBhaXZhSDNYBGi7AYgBAZgBCbgBB8gBDNgBAegBAfgBC4gCAagCA7gCgsPmmAbAAgHSAiQ1YjVhZmNkMi0wNjlhLTQ1NTEtYjg3NS1mODkwNzZmZDI1MDHYAgbgAgE&sid=7b47415b9fa49b9dbd60ee24312ebc86&aid=304142&sb=1&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fcasa-da-ilha-castelo-de-paiva.en-gb.html%3Flabel%3Dgen173nr-1FCAsouwFCHWNhc2EtZGEtaWxoYS1jYXN0ZWxvLWRlLXBhaXZhSDNYBGi7AYgBAZgBCbgBB8gBDNgBAegBAfgBC4gCAagCA7gCgsPmmAbAAgHSAiQ1YjVhZmNkMi0wNjlhLTQ1NTEtYjg3NS1mODkwNzZmZDI1MDHYAgbgAgE%26sid%3D7b47415b9fa49b9dbd60ee24312ebc86%26room1%3DA%252CA%3Bsb_price_type%3Dtotal%3Btype%3Dtotal%26%26&highlighted_hotels=5014883&hp_sbox=1&dest_id=900050875&dest_type=city&origin=hp&hp_avform=1&do_availability_check=on&no_redirect_check=1&checkin_year=2022&checkin_month=9&checkin_monthday=30&checkout_year=2022&checkout_month=10&checkout_monthday=2&group_adults=2&group_children=1&no_rooms=1&age=1&b_h4u_keep_filters=&from_sf=1&order=review_score_and_price)
+
+<img width="1107" alt="image" src="https://user-images.githubusercontent.com/194400/189114838-f31bb861-b1a7-44dd-b778-bfe979f9449e.png">
+
+We've gone through each one 
+and taken screenshots [`#116`](https://github.com/dwyl/phase-three/issues/116#issuecomment-1240391427)
+
+The _cheapest_ option in the area
+is **`€120/night`** for 2 adults and 1 child:
+**Solar Guesthouse Olival da Vinha**: https://www.booking.com/hotel/pt/solar-guest-house-olival-da-vinha.en-gb.html
+
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/194400/189115923-647ce3fe-fb4c-499a-a24a-ff26dc86366e.png">
+
+It has nice decor and a good location 
+**`400m`** from the centre of Castelo de Paiva.
+But it's quite far from the river (no access), 
+doesn't have a pool or other amenities.
+
+This is the view from the guest house:
+
+<img width="1252" alt="image" src="https://user-images.githubusercontent.com/194400/189116647-5d707ba7-101b-491f-b21e-fb4a07b6c59e.png">
+
+A bit "meh" IMO ...
+
+Then they have a bunch of pictures of the surrounding area:
+
+<img width="1252" alt="image" src="https://user-images.githubusercontent.com/194400/189116582-c7537416-8a2e-4f4f-a86e-2d6c7682a1c1.png">
+
+![image](https://user-images.githubusercontent.com/194400/189116436-b7d63055-2241-48d9-843e-b65f4a0e8ad8.png)
+
+Again, we think this is a _really_ good sign.
+It shows that there is demand at the higher price point.
+More on this later. 
