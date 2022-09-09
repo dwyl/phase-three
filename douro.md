@@ -17,7 +17,7 @@ to build our vision: 🌱
 
 + [x] Abundant/Unlimited Water 
   [**`#21`**](https://github.com/dwyl/phase-three/issues/21) 🚰
-  + [x] Access to a year-round _navegable_ river 
+  + [x] Access to a year-round _navegable_ river ⛵
 + [x] Excellent air quality == longevity 
   [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
 + [x] Unobstructed sunlight for plants  and solar panels 
@@ -26,17 +26,18 @@ to build our vision: 🌱
   [**`#87`**](https://github.com/dwyl/phase-three/issues/87) 🥦
   [**`#90`**](https://github.com/dwyl/phase-three/issues/90) 🫐
 + [x] Relative seclusion (low noise) for a more peaceful life. 
+  [**`#2`**](https://github.com/dwyl/stars/issues/2) 🧘 🤩
 + [x] Existing/established trees (ideally a forest!) 
   [**`#6`**](https://github.com/dwyl/phase-three/issues/6) 🌳
-+ [x] Ruins to rebuild.  
-  Much faster than getting planning permission to build from scratch.
-  Still means we get to pick all the fixtures/fittings. 🏡
++ [x] Ruins to rebuild;
+  _Much_ faster than planning permission to build from scratch
+  and we can pick all fixtures/fittings. 🏡
 + [x] 
 
 > **Note**: Extended discussion of the land is contained in the issue thread:
 [#116](https://github.com/dwyl/phase-three/issues/116) 💬
 
-This document is meant to serve as a _proposal_ 
+This document is meant to serve as a summary _proposal_ 
 and answer as many of our questions as possible. <br />
 If you have still have questions after reading it,
 please comment on the issue/thread: 
@@ -50,11 +51,14 @@ Thanks!
 - [Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>](#douro-riverside-family--friends-food-forest-farm-tiny-home-villagesupsup)
 - [Why?](#why)
 - [What?](#what)
+  - [Listing](#listing)
+    - [Fully Fenced](#fully-fenced)
   - [_Golden_](#golden)
   - [UNESCO World Heritage Site](#unesco-world-heritage-site)
 - [Where?](#where)
   - [Souselo](#souselo)
     - [Vila Meã](#vila-meã)
+    - [River Frontage](#river-frontage)
 - [Who?](#who)
   - [Farm Manager (part-time)](#farm-manager-part-time)
   - [Cleaning Person](#cleaning-person)
@@ -68,10 +72,12 @@ Thanks!
     - [Part-time Paid Cleaning Person 🧹](#part-time-paid-cleaning-person-)
     - [Workaway](#workaway)
 - [Revenue](#revenue)
-- [Why We Need Our _Own_ Land?](#why-we-need-our-own-land)
-  - [_Access_ to Land `!==` Freedom to Grow Food](#access-to-land--freedom-to-grow-food)
+  - [Main House](#main-house)
+  - [YouTube Channel](#youtube-channel)
+  - [Tiny House(s)](#tiny-houses)
+    - [Specification](#specification)
   - [Space to Grow!](#space-to-grow)
-  - [Food Forrest 🌳](#food-forrest-)
+  - [Permaculture Food Forest 🌳](#permaculture-food-forest-)
   - [Botanical Garden 🏡](#botanical-garden-)
     - [Geodesic Greenhouse 🌱](#geodesic-greenhouse-)
   - [Pedagogical Forest Farm _School_](#pedagogical-forest-farm-school)
@@ -102,6 +108,22 @@ Our idea is to purchase
 a very _specific_ piece of land 
 in the Douro Region of northern Portugal.
 
+
+## Listing
+
+
+
+
+
+### Fully Fenced
+
+This is the view of the land from the main road:
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189234785-d0b321b6-63fe-4fee-94de-64ba3cc14abc.png">
+
+The current owners of the land appear to have a Land Rover Freelander v1:
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189235364-8a085106-6542-46d6-9f50-e2b025ec64a0.png">
 
 
 
@@ -196,19 +218,30 @@ and existing accommodation:
 
 <img width="1666" alt="image" src="https://user-images.githubusercontent.com/194400/189066783-82d785bf-c498-4893-8096-fd440864f104.png">
 
+### River Frontage
 
+This rotated view allows you to see how wide the river is:
 
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189235651-b5376bd7-432a-4cf5-97b7-dc2a1951f746.png">
+
+Roughly **`20m`** at the point on the edge of the property where there is a ramp down to the water.
+
+The river is **`~5m`** deep directly in front of the land.
 
 # Who?
 
 The land will be run as a 
 Food Forest Farm for "Family & Friends".
 
+Both our direct family and our **`@dwyl`** "family".
+That is anyone who _currently_ (_or previously_)
+worked for **`@dwyl`**.
+
 The Main House will be renovated and serve as a Family home.
-But rather than having a "weekend home" 
+But rather than having a _personal_ "weekend home" 
 that we use a handful of times per year,
 it will be listed on booking.com, AirBnb, etc.
-Thus families up to 10 peole 
+Thus families up to 10 people 
 from both PT and abroad
 will be able to rent it 
 and enjoy the organic permaculture lifestyle.  
@@ -219,10 +252,15 @@ and serve as the "**Caretaker Cottage**" (see below).
 
 ## Farm Manager (part-time)
 
-This will be inhabited by [**`@carolrmc`**]
-who will take on the part-time role of Farm Manager.
+[**`@carolrmc`**](https://github.com/carolrmc)
+will take on the part-time role of Farm Manager.
 Carol will be responsible 
-for managing/tracking the work that needs to be done
+for managing/tracking the work that needs to be done.
+
+Luckily, Carol grew up on a farm [of similar size] 
+and has performed all the jobs that need to be done.
+This is the _perfect_ retirement activity for her.
+
 
 ## Cleaning Person
 
@@ -270,6 +308,13 @@ So all-in the cost to purchase will be **`€272k`**.
 
 That is where the costs _start_! 💸
 
+Even though we are well aware of the fact 
+that this project is going to require 
+_large_ sums of cash,
+we also know that we don't need it all _up-front_.
+We only need enough to get _started_.
+
+
 ## Renovating the Main House
 
 
@@ -295,19 +340,90 @@ That is where the costs _start_! 💸
 
 ### Workaway
 
+Workaway is a community + website
+that allows "hosts" to list their 
+place to stay.
 
+Guests or "workawayers"
+are people 
+
+See: 
+[**`#119`**](https://github.com/dwyl/phase-three/issues/119)
 
 
 # Revenue 
 
+There are _many_ streams of revenue for a small holding farm.
+The single most effective/lucrative one is temporary accommodation.
+
+## Main House
+
+_Initially_ we will rent out the "main house" 
+whenever we are not there
+to bring as much startup revenue as possible
+and start to prove the concept.
+
+Once we have established the rest of the plan,
+and can _afford_ to not rent the main house
+we will have just for "Friends & Family" guests.
+i.e. not listed _publicly_ on the website 
+(or 3<sup>rd</sup> party booking sites).
+
+
+## YouTube Channel
+
+We need to create/publish regular videos.
+These will serve both as educational videos for ourselves,
+our guests and the wider community.
+
+Sample topics:
++ **Permaculture**: from seed to producing plant/tree. 
+  There are at least 500 videos just here!
++ **_Healthy_ Food**: Cooking with the ingredients we grow.
++ **Off-grid Science/Technology**: Solar/Hydro Power, irrigation systems, outdoor cooking.
++ **Tiny Homes**: research, planning, construction, pricing, maintenance, integrating guest feedback.
++ **Local tours**: tours of the surrounding area; if we go somewhere, capture it!
++ **Mental Health**: ASMR "day in the life" videos e.g: 
+  + walks through the food forest in the various seasons; just the sound of nature.
+    captions/subtitles for detail where required.
++ **Making Stuff**: making useful things using materials from the land e.g. wood, bamboo, grasses, stone, etc.
++ **Arts & Crafts**: more traditional arts & crafts such as painting, tapestry.
+
+This list is by no means exhaustive.
+Feel free to add to it.
+Point is: there are _many_ topics we can cover.
+There is easily enough for _daily_ videos!
+But we will start with just "regular updates" (e.g. monthly),
+this will be our single best form of "marketing"
+and will be the source of people for our next stream of revenue.
+
+## Tiny House(s)
+
+
+
+### Specification
+
+
+Each tiny house will be purpose-built to accommodate
+2 adults and up to 4 children.
+We know that the _average_ number of children per family
+
+
++ [ ] 1 Double bed
++ [ ] 2 fold-down beds
++ [ ] 1 sofa bed (sleeps 2)
 
 
 <br />
 
+<!--
 # Why We Need Our _Own_ Land?
 
 As you will see from reading the next section,
-to 
+we want to plant _many_ varieties 
+of trees, annual and perennial plants
+so we need a decent amount of space. 
+
 
 ## _Access_ to Land `!==` Freedom to Grow Food
 
@@ -320,7 +436,7 @@ we have to constantly ask for
 
 What we want is land we own outright
 that we can grow _anything_ we want.
-
+-->
 
 ## Space to Grow!
 
@@ -328,18 +444,30 @@ As noted in the
 [issues](https://github.com/dwyl/phase-three/issues)
 we plan to grow a _wide_ variety of fruit trees.
 Our [**`list of fruit trees`**](https://github.com/dwyl/phase-three/issues/6) 
-currently has **`34`** fruits
+currently has **`37`** fruits
 and we plan to plant **several _varieties_** in each type.
 So we won't just have _one_ Apple Tree,
 we'll have at **_least_ 10**.
 
-## Food Forrest 🌳
+We plan to grow a wide variety of annual edible plants;
+fruits, vegetables, flowers and other ground cover.
+see: 
+[**`#87`**](https://github.com/dwyl/phase-three/issues/87)
+(please add to the list!)
 
-In addition to all the fruit trees we want to plant,
-we will follow the 
+## Permaculture Food Forest 🌳
+
+We will follow the 
 [permaculture food forest](https://github.com/dwyl/phase-three/issues/77#issuecomment-1239168081)
 method to foster a lush wilderness
-with _hundreds_ of edible plant spices.
+with _hundreds_ of edible plant spices
+water capture/storage, 
+and biodiversity (friendly insects).
+
+> **Note**: the reason we will focus on _edible_ plants
+> is that we want the garden/forest to be friendly 
+> to children who are just starting to walk
+> and still exploring by putting _everything_ in their mouthes.
 
 ## Botanical Garden 🏡
 
