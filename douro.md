@@ -76,6 +76,12 @@ Thanks!
   - [YouTube Channel](#youtube-channel)
   - [Tiny House(s)](#tiny-houses)
     - [Specification](#specification)
+      - [Beds](#beds)
+      - [Bathroom](#bathroom)
+      - [Kitchen](#kitchen)
+      - [Water](#water)
+      - [Heating, Ventilation and Air Conditioning (HVAC)](#heating-ventilation-and-air-conditioning-hvac)
+      - [Electricity, Batteries and Grid Connection](#electricity-batteries-and-grid-connection)
   - [Space to Grow!](#space-to-grow)
   - [Permaculture Food Forest 🌳](#permaculture-food-forest-)
   - [Botanical Garden 🏡](#botanical-garden-)
@@ -211,8 +217,8 @@ The land we are considering is based in **`Souselo`**:
 
 The nearest village is Vila Meã. 
 It's tiny. 
-Has only a handful of houses and no shops/services.
-Map of the area 
+Has only a handful of houses and no shops/services. <br />
+A map of the area 
 featuring several sightseeing stops 
 and existing accommodation: 
 
@@ -399,19 +405,68 @@ and will be the source of people for our next stream of revenue.
 
 ## Tiny House(s)
 
+The (_hopefully_) main source of revenue
+will be hiring Tiny Houses to families
+and couples.
 
+We have done _considerable_ 
 
 ### Specification
 
+#### Beds
 
-Each tiny house will be purpose-built to accommodate
-2 adults and up to 4 children.
-We know that the _average_ number of children per family
+Each Tiny House will be purpose-built to accommodate
+**`2 adults`** and up to **4 children**.
+We know that the _average_ number 
+of children per family in Europe 
+is 
+[**`1.6`**](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Fertility_statistics)
+but we are working with the edge-case.
+And will _encourage_ families 
+to bring their child's  friend(s) 
+for the week/weekend.
+
++ [x] 1 Double bed
++ [x] 2 fold-down beds
++ [x] 1 _comfortable_ sofa bed (sleeps 2)
+
+Both the sofa bed and fold-down beds 
+will be **`80cm`** wide and **`190cm`** long;
+so perfectly big enough for 98% of adults.
+So if a group of adult friends 
+wanted to rent the cabin for a week/weekend
+they could squeeze in.
+
+#### Bathroom
+
+The bathroom will be deliberately "basic"
+but fully functional. 
 
 
-+ [ ] 1 Double bed
-+ [ ] 2 fold-down beds
-+ [ ] 1 sofa bed (sleeps 2)
+#### Kitchen
+
+Rather than having a "_full_" kitchen 
+each Tiny House will have a "mini" kitchen 
+with basic amenities:
+
+
+
+#### Water
+
+The Tiny House will have a _removable_
+**`100 litre`** 
+
+#### Heating, Ventilation and Air Conditioning (HVAC)
+
+Each tiny home will have 
+
+
+To comply with weight restrictions for road legality
+
+
+#### Electricity, Batteries and Grid Connection
+
+
 
 
 <br />
