@@ -5,16 +5,47 @@
 </div>
 
 
-If you like thinking 
+If you are the kind of person
+that thinks 
 _long-term_ and _high-impact_
 this repo is for you!
 
-**D**o **W**hat **Y**ou **L**ove is _not_ a stepping-stone, 
-we're in it for the long-haul. <br />
-We are making sure that the direction 
-we're heading in is clear to everyone who wants to know.
+
+# Why?
+
+**D**o **W**hat **Y**ou **L**ove 
+is _not_ a stepping-stone, 
+it's our 
+[life's work](https://www.britannica.com/dictionary/life%27s-work). <br />
+
+Like an artist
+or musician,
+our aim is to do 
+[**creative technology**](https://en.wikipedia.org/wiki/Creative_technology)
+work for the rest of our lives.
+We _love_ doing it
+and will continue
+until we are no longer able.
+We fully expect to be writing code, 
+learning tools
+and making/sharing notes on the experience
+into our 80's. 
+A _lot_ is going to 
+[change](https://github.com/nelsonic/nelsonic.github.io/issues/733)
+in the next 50 years. 
+We need _all_ need to embrace
+[lifelong learnering](https://en.wikipedia.org/wiki/Lifelong_learning)
+and 
+[_capture_](https://github.com/dwyl/product-roadmap/blob/main/capture.md)
+as _much_ of that learning as possible.
+
+# What?
+
+
 
 ## Our Goal/Mission
+
+Our goal, 
 
 > Empower people to 
 > sustainably unlock their potential 

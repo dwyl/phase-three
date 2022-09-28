@@ -15,37 +15,41 @@ we think we have found an **_amazing_ spot**. 😍 <br />
 It ticks _all_ the boxes 
 to build our vision: 🌱
 
-+ [x] Abundant/Unlimited Water 
++ [x] **Abundant/Unlimited Water**
   [**`#21`**](https://github.com/dwyl/phase-three/issues/21) 🚰
-  + [x] Access to a year-round _navegable_ river ⛵
-+ [x] Excellent air quality == longevity 
+  + [x] Access to a year-round **_navegable_ river** ⛵
++ [x] **Excellent air quality** == longevity 
   [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
-+ [x] Unobstructed sunlight for plants  and solar panels 
++ [x] **Unobstructed sunlight** (south-facing) 
+  for plants and solar panels 
   [**`#7`**](https://github.com/dwyl/phase-three/issues/7) ☀️
-+ [x] Superb soil fertility for growing organic food 
++ [x] Superb **soil fertility** for growing organic food 
   [**`#87`**](https://github.com/dwyl/phase-three/issues/87) 🥦
   [**`#90`**](https://github.com/dwyl/phase-three/issues/90) 🫐
-+ [x] Relative seclusion (low noise) for a more peaceful life. 
++ [x] **_Relative_ seclusion** (low noise) for a more peaceful life. 
   [**`#2`**](https://github.com/dwyl/stars/issues/2) 🧘 🤩
++ [x] **Relative _proximity_** to a major international airport 
++ [ ] (45mins drive to OPO) 
 + [x] Existing/established trees (ideally a forest!) 
   [**`#6`**](https://github.com/dwyl/phase-three/issues/6) 🌳
-+ [x] Ruins to rebuild;
-  _Much_ faster than planning permission to build from scratch
-  and we can pick all fixtures/fittings. 🏡
-+ [x] 
++ [x] **Ruins to _rebuild_**;
+  **_Much_ faster** than planning permission 
+  to build from scratch
+  and we can pick all finish/fixtures/fittings. 🏡
 
-> **Note**: Extended discussion of the land is contained in the issue thread:
-[#116](https://github.com/dwyl/phase-three/issues/116) 💬
+> **Note**: Extended discussion of the land with photos
+> in the issue thread:
+> [#116](https://github.com/dwyl/phase-three/issues/116) 💬
 
 This document is meant to serve as a summary _proposal_ 
-and answer as many of our questions as possible. <br />
+and answer as many of our questions as possible. ❓<br />
 If you have still have questions after reading it,
 please comment on the issue/thread: 
 [#116](https://github.com/dwyl/phase-three/issues/116) 🙏 <br />
 Or if you think of something new e.g. a "gotcha" or idea,
-please open a **`new`** issue to capture it. 
+please open a **`new`** issue to capture it. 💡
 
-Thanks! 
+Thanks! 🌻
 
 
 - [Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>](#douro-riverside-family--friends-food-forest-farm-tiny-home-villagesupsup)
@@ -104,8 +108,11 @@ Thanks!
 # Why?
 
 We aren't getting any younger. <br />
-We must _proactively_ think about our own "third age" _long_ before we _need_ to <br />
+We must _proactively_ think 
+about our own "third age" 
+_long_ before we _need_ to <br />
 and plan for the imminent retirement of our parents.
+
 
 
 # What?
