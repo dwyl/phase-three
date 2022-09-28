@@ -29,7 +29,8 @@ to build our vision: 🌱
 + [x] **_Relative_ seclusion** (low noise) for a more peaceful life. 
   [**`#2`**](https://github.com/dwyl/stars/issues/2) 🧘 🤩
 + [x] **Relative _proximity_** to a major international airport 
-+ [ ] (45mins drive to OPO) 
+  + [x] **51mins drive** to **`OPO` Airport**: 
+  [**`116`**](https://github.com/dwyl/phase-three/issues/116#issuecomment-1261513053)
 + [x] Existing/established trees (ideally a forest!) 
   [**`#6`**](https://github.com/dwyl/phase-three/issues/6) 🌳
 + [x] **Ruins to _rebuild_**;
@@ -39,7 +40,7 @@ to build our vision: 🌱
 
 > **Note**: Extended discussion of the land with photos
 > in the issue thread:
-> [#116](https://github.com/dwyl/phase-three/issues/116) 💬
+> [**`#116`**](https://github.com/dwyl/phase-three/issues/116) 💬
 
 This document is meant to serve as a summary _proposal_ 
 and answer as many of our questions as possible. ❓<br />
