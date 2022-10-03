@@ -17,7 +17,7 @@ to build our vision: 🌱
 
 + [x] **Abundant/Unlimited Water**
   [**`#21`**](https://github.com/dwyl/phase-three/issues/21) 🚰
-  + [x] **Bonus**: Access to a year-round **_navegable_ river** ⛵
+  + [x] **Bonus**: access to a year-round **pristine _navegable_ river** ⛵
 + [x] **Excellent air quality** == longevity 
   [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
 + [x] **Unobstructed sunlight** (south-facing) 
@@ -28,7 +28,7 @@ to build our vision: 🌱
   [**`#90`**](https://github.com/dwyl/phase-three/issues/90) 🫐
 + [x] **_Relative_ seclusion** (low noise) for a more peaceful life. 
   [**`#2`**](https://github.com/dwyl/stars/issues/2) 🧘 🤩
-+ [x] **Relative _proximity_** to a major international airport 
++ [x] **Relative _proximity_** to a major international airport ✈️
   + [x] **51mins drive** to **`OPO` Airport**: 
   [**`116`**](https://github.com/dwyl/phase-three/issues/116#issuecomment-1261513053)
 + [x] Existing/established trees (ideally a forest!) 
@@ -62,14 +62,14 @@ Thanks! 🌻
   - [Listing](#listing)
     - [Fully Fenced](#fully-fenced)
   - [_Golden_](#golden)
-  - [UNESCO World Heritage Site](#unesco-world-heritage-site)
+  - [UNESCO World Heritage Site 😍](#unesco-world-heritage-site-)
 - [Where?](#where)
   - [Souselo](#souselo)
     - [Vila Meã](#vila-meã)
     - [River Frontage](#river-frontage)
+    - [Crestuma–Lever Dam](#crestumalever-dam)
 - [Who?](#who)
   - [Farm Manager (part-time)](#farm-manager-part-time)
-  - [Cleaning Person](#cleaning-person)
   - [Volunteer Visitors](#volunteer-visitors)
 - [How?](#how)
   - [How _Much_? 💰](#how-much-)
@@ -124,34 +124,38 @@ Having recently been blessed with a **child** 👶
 and expecting another soon,
 we are acutely aware of our time pressures.
 
-Living in the **city**
-is mega convenient for shops,
+Living in the 
+[**city**](https://www.idealista.pt/en/news/lifestyle-in-portugal/2020/11/05/782-braga-portugals-happiest-city-and-one-of-the-best-cities-in-europe-to-live-in)
+is convenient for shops,
 healthcare,
-"safe" parks and amenities
-is great.
+"safe" parks 
+and all amenities.
 However the road noise, 
 pollution, 
 litter _everywhere_
 limited access to [real] nature
 and near-zero food growing space
-has us re-considering our options.
+has us re-considering our options. 💭
 
 There will _never_ be a "good time"
 to buy a farm or small piece of land
 to plant trees, grow our own food
 and build a "country" lifestyle.
 
-But if we keep putting it off
-until the "right time",
+If we keep putting it off
+until the "**_right_ time**",
 we will all be too old 
 to do the work
-or worse too old to enjoy it!
+or worse 
+**_too old_ to _enjoy_ it**!  
 
 
 ## Why _Not_?
 
 For me, the _only_ reason _not_ to do this _now_
-is the _huge_ sums of cash required.
+is the _huge_ sums of **cash** required
+and the investment of **time**
+when we have so many other things to do ...
 
 Thankfully, 
 having worked for a few years consulting 
@@ -159,13 +163,31 @@ for a couple of well-funded FinTech Startups,
 saving/investing diligently
 and living frugally,
 we have accumulated enough savings
-to consider this project. 
+to consider this project.
+
+![late-rabbit](https://user-images.githubusercontent.com/194400/194275223-0ad767e5-a13f-4e4e-a245-7241e09a2ef9.png)
+
+As for the **time**, 
+again, we all need to come to terms 
+with the fact that there will _never_ be a
+time in our lives where we have "spare" time.
+We're _always_ going to be 
+[time-poor](https://www.bbc.com/worklife/article/20220201-the-time-poverty-that-robs-parents-of-success).
+That's why we are building an 
+[**`App`**](https://github.com/dwyl/app)
+that helps us **_maximize_** our **available time**
+and not squander any of it.
+
 
 ## Regrets?
 
 By _far_ my biggest regret in life 
 is not being born into a wealthy family
-with inherited land. 🙄
+with _inherited_ land. 🙄
+
+Why couldn't I just be _born_ into the 
+[**1%**](https://en.wikipedia.org/wiki/Distribution_of_wealth#Wealth_inequality)
+instead of having to work **20 years** to get there? ⏳
 
 I intend to _fix_ that for my children
 by buying them a farm they can grow up on.
@@ -178,29 +200,32 @@ In 20 years time I want to look back on
 today and thank myself 
 for investing this effort.
 
+i.e. _not_ have regrets!
 
 # What?
 
-Our idea is to purchase 
+The idea is to purchase 
 a very _specific_ piece of land 
-in the Douro Region of northern Portugal.
-
+in the Douro Region of northern Portugal
+and transform it into something _magical_!
 
 ## Listing
 
-Details of the listing are captures in the issue:
+Details of the listing are captured in the issue:
 [**`#116`**](https://github.com/dwyl/phase-three/issues/116)
 
 But these are the highlights:
 
-1. **2.3 Hectares** of fertile terraced land in Norther Portugal.
-2. **150 metres** of river frontage with two accesses one ramp one stairs. 
-   We could _easily_ have kayaks, paddle boards and eventually our own boat!
-3. **`€270k`** asking price.
-4. **4 Ruins** to rebuild. These could be: 1. "main house", 1 "granny flat" and 2 guest cottages.
-5. **50 minute** drive from `OPO` Porto International Airport
-6. 
-
+1. **2.3 Hectares** of fertile terraced land in the Douro region of Portugal; 🌳 <br />
+   a UNESCO World Heritage site of "outstanding beauty". 😍
+2. **150 metres** of [navegable] river frontage teaming with fish 🎣<br />
+   The property has two accesses to the river one ramp one stairs. 2️⃣
+   The **Paiva** river feeds into the **Douro** **`800m`** downstream;
+   We could _easily_ have kayaks, paddle boards and eventually our own boat! ⛵ <br />
+   There is _already_ a mini private beach; we could make an _epic_ one! 🏖️
+3. **4 Ruins** to rebuild. These could be: 1. "main house", 1 "granny flat" and 2 guest cottages. 🏡
+4. **50 minute** drive from `OPO` Porto International Airport 🛩️ 
+5. **`€270k`** asking price. 💰
 
 
 ### Fully Fenced
@@ -209,10 +234,14 @@ This is the view of the land from the main road:
 
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189234785-d0b321b6-63fe-4fee-94de-64ba3cc14abc.png">
 
+The land is fully fenced but the fence is only shoulder-height.
+This is more of an animal barrier than a human security fence.
+But it's a good starting point.
+
+<!--
 The current owners of the land appear to have a Land Rover Freelander v1:
-
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189235364-8a085106-6542-46d6-9f50-e2b025ec64a0.png">
-
+-->
 
 
 ## _Golden_
@@ -242,10 +271,13 @@ is _considerably_ better than Gold
 as it has an "annual dividend" of fresh produce
 while still benefiting from capital appreciation.
 
-## UNESCO World Heritage Site
+## UNESCO World Heritage Site 😍
 
-The surrounding area where the land [under consideration] 
-is a World Heritage Site. 
+The surrounding area where the land 
+is a World Heritage Site; 
+a "cultural landscape of outstanding beauty".
+https://whc.unesco.org/en/list/1046/
+
 Read the Wiki page for more info:
 https://en.wikipedia.org/wiki/Douro_DOC
 
@@ -318,6 +350,42 @@ The river is **`~5m`** deep directly in front of the land.
 The valley has been carved out by _millions_ of years of water flow.
 The river **`Paiva`** flows into the douro 
 
+### Crestuma–Lever Dam
+
+The river is dammed down-stream by the Crestuma–Lever Dam,
+which creates a **strategic water reservoir** 
+for the Douro region:
+https://en.wikipedia.org/wiki/Crestuma%E2%80%93Lever_Dam
+
+There is a hydroelectric power plant that creates energy
+for the Porto district and therefore having the water level 
+reasonably constant is required.
+
+There are many river cruise boats on this area
+so it is _highly_ unlikely that navigability will be lost
+any time soon.
+
+### Atlantic Ocean Access 🌍 
+
+The dam has a lock system that allows boats (up to 83m length!)
+to descend the from the reservoir to Douro River estuary
+and then on to the Atlantic Ocean. ⛵
+
+Passage through the lock must be booked the day before
+and costs **`€30`**. 
+This is the final dam/lock before
+reaching the Atlantic so pretty straightforward.
+
+One of the biggest issues with owning a sail boat 
+are the year-round docking/marina fees (e.g. €500/month!)
+
+Given the (min) 5m draft directly in front of the land,
+we could build a dock for a sail boat 
+and use it as the base for our round-the-world sailing! 💭
+
+
+
+
 # Who?
 
 The land will be run as a 
@@ -350,23 +418,6 @@ for managing/tracking the work that needs to be done.
 Luckily, Carol grew up on a farm [of similar size] 
 and has performed all the jobs that need to be done.
 This is the _perfect_ retirement activity for her.
-
-
-## Cleaning Person
-
-The cleaning person will be hired from the local area.
-We expect to pay **`€6/h`** and for them to work **`3h/day`**
-i.e. 3h x 5days x €6 x 52 weeks = €4,680/year
-
-Task will include:
-+ [x] Cleaning the main house & cottages
-+ [x] Laundry and linen changes
-+ [x] Turning over the Tiny Homes as we build them
-+ [x] Food prep e.g. retrieving ingredients from the veg garden or fruit trees
-+ [x] General light yard work such as collecting fallen leaves
-
-Once we ramp up the number of Tiny Homes in the Village,
-we will move to employing cleaning people full-time year-round.
 
 
 ## Volunteer Visitors
@@ -407,6 +458,9 @@ We only need enough to get _started_.
 
 ## Renovating the Main House
 
+The "main" building 
+ 
+![image](https://user-images.githubusercontent.com/194400/194281055-918656e8-6795-44dd-8972-f5d05e99dee1.png)
 
 
 
@@ -425,6 +479,22 @@ We only need enough to get _started_.
 ## Help Wanted!
 
 ### Part-time Paid Cleaning Person 🧹
+
+The cleaning person will be hired 
+from the local area; **`#JobCreation`** <br />
+We expect to pay **`€6/h`** 
+and for them to work **`3h/day`** <br />
+i.e. 3h x 5days x €6 x 52 weeks = **`€4,680/year`**
+
+Task will include:
++ [x] Cleaning the main house & cottages
++ [x] Laundry and linen changes
++ [x] Turning over the Tiny Homes as we build them
++ [x] Food prep e.g. retrieving ingredients from the veg garden or fruit trees
++ [x] General light yard work such as collecting fallen leaves
+
+Once we ramp up the number of Tiny Homes in the Village,
+we will move to employing cleaning people full-time year-round.
 
 
 
