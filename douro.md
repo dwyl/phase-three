@@ -17,7 +17,7 @@ to build our vision: 🌱
 
 + [x] **Abundant/Unlimited Water**
   [**`#21`**](https://github.com/dwyl/phase-three/issues/21) 🚰
-  + [x] Access to a year-round **_navegable_ river** ⛵
+  + [x] **Bonus**: Access to a year-round **_navegable_ river** ⛵
 + [x] **Excellent air quality** == longevity 
   [**`#103`**](https://github.com/dwyl/phase-three/issues/103) 🌬️
 + [x] **Unobstructed sunlight** (south-facing) 
@@ -46,7 +46,7 @@ This document is meant to serve as a summary _proposal_
 and answer as many of our questions as possible. ❓<br />
 If you have still have questions after reading it,
 please comment on the issue/thread: 
-[#116](https://github.com/dwyl/phase-three/issues/116) 🙏 <br />
+[**`#116`**](https://github.com/dwyl/phase-three/issues/116) 🙏 <br />
 Or if you think of something new e.g. a "gotcha" or idea,
 please open a **`new`** issue to capture it. 💡
 
@@ -55,6 +55,9 @@ Thanks! 🌻
 
 - [Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>](#douro-riverside-family--friends-food-forest-farm-tiny-home-villagesupsup)
 - [Why?](#why)
+  - [Why _Now_?](#why-now)
+  - [Why _Not_?](#why-not)
+  - [Regrets?](#regrets)
 - [What?](#what)
   - [Listing](#listing)
     - [Fully Fenced](#fully-fenced)
@@ -115,6 +118,66 @@ _long_ before we _need_ to <br />
 and plan for the imminent retirement of our parents.
 
 
+## Why _Now_?
+
+Having recently been blessed with a **child** 👶
+and expecting another soon,
+we are acutely aware of our time pressures.
+
+Living in the **city**
+is mega convenient for shops,
+healthcare,
+"safe" parks and amenities
+is great.
+However the road noise, 
+pollution, 
+litter _everywhere_
+limited access to [real] nature
+and near-zero food growing space
+has us re-considering our options.
+
+There will _never_ be a "good time"
+to buy a farm or small piece of land
+to plant trees, grow our own food
+and build a "country" lifestyle.
+
+But if we keep putting it off
+until the "right time",
+we will all be too old 
+to do the work
+or worse too old to enjoy it!
+
+
+## Why _Not_?
+
+For me, the _only_ reason _not_ to do this _now_
+is the _huge_ sums of cash required.
+
+Thankfully, 
+having worked for a few years consulting 
+for a couple of well-funded FinTech Startups,
+saving/investing diligently
+and living frugally,
+we have accumulated enough savings
+to consider this project. 
+
+## Regrets?
+
+By _far_ my biggest regret in life 
+is not being born into a wealthy family
+with inherited land. 🙄
+
+I intend to _fix_ that for my children
+by buying them a farm they can grow up on.
+
+All joking aside,
+having river (or beach) access
+land is what I always wanted as a child.
+
+In 20 years time I want to look back on 
+today and thank myself 
+for investing this effort.
+
 
 # What?
 
@@ -125,7 +188,18 @@ in the Douro Region of northern Portugal.
 
 ## Listing
 
+Details of the listing are captures in the issue:
+[**`#116`**](https://github.com/dwyl/phase-three/issues/116)
 
+But these are the highlights:
+
+1. **2.3 Hectares** of fertile terraced land in Norther Portugal.
+2. **150 metres** of river frontage with two accesses one ramp one stairs. 
+   We could _easily_ have kayaks, paddle boards and eventually our own boat!
+3. **`€270k`** asking price.
+4. **4 Ruins** to rebuild. These could be: 1. "main house", 1 "granny flat" and 2 guest cottages.
+5. **50 minute** drive from `OPO` Porto International Airport
+6. 
 
 
 
@@ -241,6 +315,8 @@ This rotated view allows you to see how wide the river is:
 Roughly **`20m`** at the point on the edge of the property where there is a ramp down to the water.
 
 The river is **`~5m`** deep directly in front of the land.
+The valley has been carved out by _millions_ of years of water flow.
+The river **`Paiva`** flows into the douro 
 
 # Who?
 
