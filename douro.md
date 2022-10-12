@@ -73,7 +73,8 @@ Thanks! 🌻
   - [Volunteer Visitors](#volunteer-visitors)
 - [How?](#how)
   - [How _Much_? 💰](#how-much-)
-  - [Renovating the Main House](#renovating-the-main-house)
+    - [Renovations?](#renovations)
+      - [Newest Building](#newest-building)
   - [Renovating the 2 Smaller "Cottages"](#renovating-the-2-smaller-cottages)
     - [Caretaker Cottage](#caretaker-cottage)
   - [Help Wanted!](#help-wanted)
@@ -456,12 +457,42 @@ we also know that we don't need it all _up-front_.
 We only need enough to get _started_.
 
 
-## Renovating the Main House
+### Renovations?
 
-The "main" building 
- 
+#### Newest Building
+
+The newest building as it currently stands is a granite walled shell 
+with a concrete slab poured on top:
+
+![image](https://user-images.githubusercontent.com/194400/194820733-63fe8aa5-511d-493a-b09f-295097ea12fe.png)
+
+The internal dimensions are decent:
 ![image](https://user-images.githubusercontent.com/194400/194281055-918656e8-6795-44dd-8972-f5d05e99dee1.png)
 
+I don't think we would "finish" this building 
+as the windows are all weird; 
+the "face" of the front of the house is this:
+
+![image](https://user-images.githubusercontent.com/194400/194821617-c251c5ae-a04f-4178-88a6-d80f6927ce88.png)
+
+
+and the basement, currently occupied by chickens:
+
+![low-basement](https://user-images.githubusercontent.com/194400/194821214-88127ed1-c4d9-48e4-acf0-1045b71ffcfb.png)
+![chickens](https://user-images.githubusercontent.com/194400/194821277-5d495f2d-3a88-4869-abbf-4f5b203e2d23.png)
+
+It's a no-go for me.
+I would keep it as a support building 
+for storing supplies during our _actual_ build
+and then dismantle it and re-use the stones
+for something better. 
+
+The dimensions are good and currently stores all their agricultural machines:
+
+Yes, it's a "shame" to waste the effort/money someone has put into building it,
+but there's no point being "suck" with someone else's poor design choices.
+It will cost us €3k to "un-do" this structure.
+We will put off the work (and expense!) until all other buildings are _finished_.
 
 
 
