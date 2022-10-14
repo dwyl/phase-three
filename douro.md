@@ -74,6 +74,8 @@ Thanks! 🌻
   - [Volunteer Visitors](#volunteer-visitors)
 - [How?](#how)
   - [How _Much_? 💰](#how-much-)
+- [Revenue](#revenue)
+  - [Permanent Guest Cottage(s)](#permanent-guest-cottages)
     - [Renovations?](#renovations)
       - [Newest Building](#newest-building)
   - [Renovating the 2 Smaller "Cottages"](#renovating-the-2-smaller-cottages)
@@ -81,7 +83,6 @@ Thanks! 🌻
   - [Help Wanted!](#help-wanted)
     - [Part-time Paid Cleaning Person 🧹](#part-time-paid-cleaning-person-)
     - [Workaway](#workaway)
-- [Revenue](#revenue)
   - [Main House](#main-house)
   - [YouTube Channel](#youtube-channel)
     - [Sample topics:](#sample-topics)
@@ -222,11 +223,17 @@ But these are the highlights:
 1. **2.3 Hectares** of fertile terraced land in the Douro region of Portugal; 🌳 <br />
    a UNESCO World Heritage site of "outstanding beauty". 😍
 2. **150 metres** of [navegable] river frontage teaming with fish 🎣<br />
-   The property has two accesses to the river one ramp one stairs. 2️⃣
+   The property has two accesses to the river one ramp one stairs. 2️⃣ <br />
    The **Paiva** river feeds into the **Douro** **`800m`** downstream;
-   We could _easily_ have kayaks, paddle boards and eventually our own boat! ⛵ <br />
-   There is _already_ a mini private beach; we could make an _epic_ one! 🏖️
-3. **4 Ruins** to rebuild. These could be: 1. "main house", 1 "granny flat" and 2 guest cottages. 🏡
+   We could _easily_ have kayaks, paddle boards and eventually our own 
+   [boat](https://github.com/dwyl/tiny-house/issues/34)! ⛵ <br />
+   There is _already_ a **mini `private` beach**; 
+   we could make an _epic_ one! 🏖️
+3. **4 Ruins** to rebuild. 
+   These could be: 
+   a "main house", 
+   a "caretaker flat" 
+   and **2 guest cottages**. 🏡 `#SustainableRevenue`
 4. **50 minute** drive from `OPO` Porto International Airport 🛩️ 
 5. **`€270k`** asking price. 💰
 
@@ -378,15 +385,17 @@ to descend the from the reservoir to Douro River estuary
 and then on to the Atlantic Ocean. ⛵
 
 Passage through the lock must be booked the day before
-and costs **`€30`**. 
+and costs **`€30`**. <br />
 This is the final dam/lock before
 reaching the Atlantic so pretty straightforward.
 
 One of the biggest issues with owning a sail boat 
-are the year-round docking/marina fees (e.g. €500/month!)
+are the year-round docking/marina fees 
+(e.g. €500/month! )
 
 Given the (min) 5m draft directly in front of the land,
-we could build a dock for a sail boat 
+we could build a dock for a 
+[sail boat]((https://github.com/dwyl/tiny-house/issues/34))
 and use it as the base for our round-the-world sailing! 💭
 
 
@@ -465,6 +474,25 @@ _large_ sums of cash,
 we also know that we don't need it all _up-front_.
 We only need enough to get _started_.
 
+# Revenue 
+
+There are **_multiple_ streams** of **revenue** 
+for a small holding farm.
+The most effective/lucrative one 
+is _temporary_ guest accommodation.
+
+## Permanent Guest Cottage(s)
+
+Our research suggests a guest cottage in the Douro Region 
+rents for a _minimum_ of **`€120/night`**.
+We will charge a "***market-clearing***" lower price of **`€80/night`**
+while we are establishing the rest of the business. 
+
+TODO: insert revenue table!
+
+
+
+
 
 ### Renovations?
 
@@ -521,6 +549,28 @@ Attempting to refurbish these structures.
 
 ### Caretaker Cottage 
 
+The caretaker cottage will be 
+one of the permanent "urban" structures.
+The configuration will be:
++ Ground Floor: reduced mobility studio flat with 
+  + Discrete 
+  + Small kitchenette with
+    + Sink
+    + Kettle
+    + Nespresso machine
+    + 
+  + Compact but accessible toilet and shower.
++ Second Floor: spacious bedroom with: 
+  + Large windows that maximise natural light
+  + Double Bed 
+  + built-in wardrobe
+
+The design of the caretaker cottage 
+will integrate into the landscaping
+such that the second floor will be wheelchair accessible 
+via the "upper walkway". 
+Therefore the cottage will have **_two_ external doors**
+and be prepared for _comprehensive_ access.
 
 
 
@@ -568,11 +618,6 @@ We will list our project on Workaway
 as soon as we have our plan clearly layed out
 and somewhere for the people to stay.
 
-
-# Revenue 
-
-There are **_multiple_ streams** of **revenue** for a small holding farm.
-The most effective/lucrative one is temporary accommodation.
 
 ## Main House
 
