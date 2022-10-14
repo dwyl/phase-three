@@ -68,6 +68,7 @@ Thanks! 🌻
     - [Vila Meã](#vila-meã)
     - [River Frontage](#river-frontage)
     - [Crestuma–Lever Dam](#crestumalever-dam)
+    - [Atlantic Ocean _Access_ 🌍](#atlantic-ocean-access-)
 - [Who?](#who)
   - [Farm Manager (part-time)](#farm-manager-part-time)
   - [Volunteer Visitors](#volunteer-visitors)
@@ -83,6 +84,7 @@ Thanks! 🌻
 - [Revenue](#revenue)
   - [Main House](#main-house)
   - [YouTube Channel](#youtube-channel)
+    - [Sample topics:](#sample-topics)
   - [Tiny House(s)](#tiny-houses)
     - [Specification](#specification)
       - [Beds](#beds)
@@ -366,9 +368,12 @@ There are many river cruise boats on this area
 so it is _highly_ unlikely that navigability will be lost
 any time soon.
 
-### Atlantic Ocean Access 🌍 
+### Atlantic Ocean _Access_ 🌍 
 
-The dam has a lock system that allows boats (up to 83m length!)
+The dam has a lock system that allows boats (up to `83m` length!)
+
+![BarragemCrestumaLever-4](https://user-images.githubusercontent.com/194400/195786179-01408d1b-8ca6-4664-a035-c13b5f5c80f4.jpg)
+
 to descend the from the reservoir to Douro River estuary
 and then on to the Atlantic Ocean. ⛵
 
@@ -394,9 +399,11 @@ Food Forest Farm for "Family & Friends".
 
 Both our direct family and our **`@dwyl`** "family".
 That is anyone who _currently_ (_or previously_)
-worked for **`@dwyl`**.
+worked for **`@dwyl`** 
+and _future_ members of the community. 
 
-The Main House will be renovated and serve as a Family home.
+The Main House will be renovated 
+and serve as a Family home.
 But rather than having a _personal_ "weekend home" 
 that we use a handful of times per year,
 it will be listed on booking.com, AirBnb, etc.
@@ -406,8 +413,9 @@ will be able to rent it
 and enjoy the organic permaculture lifestyle.  
 
 One of the smaller cottages will be renovated 
-and serve as the "**Caretaker Cottage**" (see below).
-
+and serve as the "**Caretaker Cottage**" (see below)
+so the person who manages the farm/business 
+has a 2-bed residence as part of their "deal".
 
 ## Farm Manager (part-time)
 
@@ -418,7 +426,8 @@ for managing/tracking the work that needs to be done.
 
 Luckily, Carol grew up on a farm [of similar size] 
 and has performed all the jobs that need to be done.
-This is the _perfect_ retirement activity for her.
+This is the **_perfect_ retirement activity** for her
+as their is a _lot_ to be explored! 
 
 
 ## Volunteer Visitors
@@ -459,6 +468,9 @@ We only need enough to get _started_.
 
 ### Renovations?
 
+The land has 4 "urban" buildings 
+that can be renovated (or re-built).
+
 #### Newest Building
 
 The newest building as it currently stands is a granite walled shell 
@@ -498,7 +510,13 @@ We will put off the work (and expense!) until all other buildings are _finished_
 
 ## Renovating the 2 Smaller "Cottages"
 
+The two smaller dwellings on the first terrace
+appear to be agricultural buildings:
 
+
+
+
+Attempting to refurbish these structures. 
 
 
 ### Caretaker Cottage 
@@ -525,7 +543,7 @@ Task will include:
 + [x] General light yard work such as collecting fallen leaves
 
 Once we ramp up the number of Tiny Homes in the Village,
-we will move to employing cleaning people full-time year-round.
+we will move to employing cleaning people **_full_-time year-round**.
 
 
 
@@ -536,16 +554,25 @@ that allows "hosts" to list their
 place to stay.
 
 Guests or "workawayers"
-are people 
+are people that want to travel, explore and learn
+on a limited budget.
+Workawayers typically do **`25 hours`** 
+of light work per week 
+in exchange for a bed and meals.
 
 See: 
 [**`#119`**](https://github.com/dwyl/phase-three/issues/119)
 
+We will list our project on Workaway 
+[and other relevant/similar sites]
+as soon as we have our plan clearly layed out
+and somewhere for the people to stay.
+
 
 # Revenue 
 
-There are _many_ streams of revenue for a small holding farm.
-The single most effective/lucrative one is temporary accommodation.
+There are **_multiple_ streams** of **revenue** for a small holding farm.
+The most effective/lucrative one is temporary accommodation.
 
 ## Main House
 
@@ -556,22 +583,28 @@ and start to prove the concept.
 
 Once we have established the rest of the plan,
 and can _afford_ to not rent the main house
-we will have just for "Friends & Family" guests.
+we will keep it just for "Friends & Family" guests.
 i.e. not listed _publicly_ on the website 
 (or 3<sup>rd</sup> party booking sites).
 
 
 ## YouTube Channel
 
-We need to create/publish regular videos.
-These will serve both as educational videos for ourselves,
+We need to create/publish _regular_ videos.
+These will serve both as educational videos for _ourselves_,
 our guests and the wider community.
 
-Sample topics:
+### Sample topics:
+
 + **Permaculture**: from seed to producing plant/tree. 
-  There are at least 500 videos just here!
+  There are at least **500 videos** just here! (1 per week for 10 years)
+  + Seed -> Tree -> Pruning -> Pests -> Fruit for each variety of 
+  [tree](https://github.com/dwyl/phase-three/issues/6) we have planned. 
+  This is "evergreen" content that, 
+  if we have good production quality, 
+  will last for ever!
 + **_Healthy_ Food**: Cooking with the ingredients we grow.
-+ **Off-grid Science/Technology**: Solar/Hydro Power, irrigation systems, outdoor cooking.
++ **Off-grid STEM**: Solar/Hydro Power, irrigation systems, outdoor cooking.
 + **Tiny Homes**: research, planning, construction, pricing, maintenance, integrating guest feedback.
 + **Local tours**: tours of the surrounding area; if we go somewhere, capture it!
 + **Mental Health**: ASMR "day in the life" videos e.g: 
@@ -582,21 +615,36 @@ Sample topics:
 
 This list is by no means exhaustive.
 Feel free to add to it.
-Point is: there are _many_ topics we can cover.
-There is easily enough for _daily_ videos!
-But we will start with just "regular updates" (e.g. monthly),
-this will be our single best form of "marketing"
-and will be the source of people for our next stream of revenue.
+Point is: there are **_many_ topics** we can cover.
+There is easily enough for **_daily_ videos**!
+But we will start with just "regular updates" (e.g. monthly)
+to not overwhelm ourselves and set unrealistic expectations.
+Video will be our single best form of "marketing"
+and will be the source of people for our _next_ stream of revenue.
 
 ## Tiny House(s)
 
 The (_hopefully_) main source of revenue
 will be hiring Tiny Houses to families
-and couples.
+and couples 
+who want a _taste_ of "**The Good Life™**".
+People who love the _idea_ of
+self-sufficiency living off the land,
+but either don't have the resources or _time_
+to build something themselves.
 
-We have done _considerable_ 
+We have done _considerable_
+research into Tiny Houses over the years.
+
+
 
 ### Specification
+
+Our Tiny Houses will have a standard spec
+which will make them easy to clean/maintain 
+and very re-sellable if we need to unlock funds.
+
+See: [dwyl/**tiny-house**](https://github.com/dwyl/tiny-house/)
 
 #### Beds
 
@@ -625,7 +673,13 @@ they could squeeze in.
 #### Bathroom
 
 The bathroom will be deliberately "basic"
-but fully functional. 
+but fully functional with a _flushing_ toilet and shower.
+
+> **Note**: each parking spot on the land will have 
+> a mini water storage and treatment plant. 
+> This will add ~ €500 to the setup cost but will
+> allow for "modern luxury" [flushing] 
+> instead of composting toilets.
 
 
 #### Kitchen
@@ -634,23 +688,42 @@ Rather than having a "_full_" kitchen
 each Tiny House will have a "mini" kitchen 
 with basic amenities:
 
++ Kettle
++ Nespresso machine
++ Mini-fridge
++ IKEA 1-zone Induction Hob 
++ Sink for _manual_ dish-washing 
+  (unless we can find a reasonably priced 
+    [mini dishwasher](https://github.com/dwyl/tiny-house/issues/35) ...)
 
 
 #### Water
 
 The Tiny House will have a _removable_
-**`100 litre`** 
+**`200 litre`** tank for drinking water.
+
+A grey water [Kitchen Sink, Dishwasher & Shower]
+tank will collect all re-useable water.
 
 #### Heating, Ventilation and Air Conditioning (HVAC)
 
-Each tiny home will have 
+Each tiny home will have heat pump AirCon system
+with a mini-split for ultimate comfort in all weather conditions.
 
 
-To comply with weight restrictions for road legality
+To comply with weight restrictions for road legality,
+the AirCon unit will be removable.
 
 
 #### Electricity, Batteries and Grid Connection
 
+Each tiny will have a battery bank 
+which will kick in at night 
+when solar is unavailable.
+
+But will also be connected to the "mains"
+electricity [generated by the nearby Hydro dam]
+for when the sun isn't shining.
 
 
 
