@@ -1051,7 +1051,19 @@ More on this later.
 
 ## Comparable Property in the Area
 
-Through our _extensive_ research
+Through our _extensive_ research we determined
+that the Souselo land we are considering
+with its' 
+**4 ruins** to rebuild, 
+**_navegable_ river access**,
+virtually **_perfect_ sun exposure**,
+existing access to mains [EDP] electricity & telecoms
+and _prepared_ terraced land
+is a great deal at **`€270k`**!
+
+We captured a _subset_ of our research in:
+[**`116#issuecomment-1272643614`**](https://github.com/dwyl/phase-three/issues/116#issuecomment-1272643614)
+
 
 ### Luxury Modern House on `1ha` No River Access; `850 000 €`
 
