@@ -112,6 +112,9 @@ Thanks! 🌻
     - [On-site First Aid Center ⚕️](#on-site-first-aid-center-️)
   - [Douro Cruises](#douro-cruises)
   - [_Existing_ Local Guest Houses](#existing-local-guest-houses)
+- [Research](#research)
+  - [Comparable Property in the Area](#comparable-property-in-the-area)
+    - [Luxury Modern House on `1ha` No River Access; `850 000 €`](#luxury-modern-house-on-1ha-no-river-access-850-000-)
 
 # Why?
 
@@ -191,20 +194,25 @@ with _inherited_ land. 🙄
 
 Why couldn't I just be _born_ into the 
 [**1%**](https://en.wikipedia.org/wiki/Distribution_of_wealth#Wealth_inequality)
-instead of having to work **20 years** to get there? ⏳
+instead of having to work **20 years** to get there? 🤷‍♂️
 
 I intend to _fix_ that for my children
-by buying them a farm they can grow up on.
+by buying them a farm they can grow up on. 🧑‍🌾
 
 All joking aside,
 having river (or beach) access
-land is what I always wanted as a child.
+land is what I always wanted as a child. 💭
+
+The STEM, creativity 
+and _life_ skills learning opportunities
+of living on land are _significantly_
+greater than living in a city. 🧑‍🔬
 
 In 20 years time I want to look back on 
 today and thank myself 
-for investing this effort.
+for investing this effort. ⏳
 
-i.e. _not_ have regrets!
+i.e. _not_ have regrets! 
 
 # What?
 
@@ -234,7 +242,8 @@ But these are the highlights:
    a "main house", 
    a "caretaker flat" 
    and **2 guest cottages**. 🏡 `#SustainableRevenue`
-4. **50 minute** drive from `OPO` Porto International Airport 🛩️ 
+4. **50 minute** drive from 
+   [**`OPO`** Porto International Airport](https://github.com/dwyl/phase-three/issues/116#issuecomment-1261513053) 🛩️ 
 5. **`€270k`** asking price. 💰
 
 
@@ -367,13 +376,16 @@ which creates a **strategic water reservoir**
 for the Douro region:
 https://en.wikipedia.org/wiki/Crestuma%E2%80%93Lever_Dam
 
+![Barragem-de-Crestuma](https://user-images.githubusercontent.com/194400/195951078-b9d7a837-4f48-4f5f-8b66-de455aa74b94.jpg)
+
 There is a hydroelectric power plant that creates energy
 for the Porto district and therefore having the water level 
 reasonably constant is required.
 
 There are many river cruise boats on this area
 so it is _highly_ unlikely that navigability will be lost
-any time soon.
+any time soon; 
+that would _significantly_ impact local tourism/jobs!
 
 ### Atlantic Ocean _Access_ 🌍 
 
@@ -393,10 +405,10 @@ One of the biggest issues with owning a sail boat
 are the year-round docking/marina fees 
 (e.g. €500/month! )
 
-Given the (min) 5m draft directly in front of the land,
-we could build a dock for a 
+Given the (minimum) **5 meter** water depth directly in front of the land,
+we could build a simple dock for a 
 [sail boat]((https://github.com/dwyl/tiny-house/issues/34))
-and use it as the base for our round-the-world sailing! 💭
+and use it as the base for Atlantic - and eventually round-the-world - sailing! 💭
 
 
 
@@ -1033,3 +1045,46 @@ Then they have a bunch of pictures of the surrounding area:
 Again, we think this is a _really_ good sign.
 It shows that there is demand at the higher price point.
 More on this later. 
+
+
+# Research
+
+## Comparable Property in the Area
+
+Through our _extensive_ research
+
+### Luxury Modern House on `1ha` No River Access; `850 000 €`
+
+This listing for a **`1ha`** piece of land 
+with a **modern** designed **`152.9m²`** house 
+with **_small_ pool** (zero child protection!)
+_without_ river access, but with a good view of the river.
+It is _further_ from the city of Porto and `OPO` airport
+and yet is on the market for `850 000 €`.
+
+https://www.imovirtual.com/pt/anuncio/quinta-para-venda-ID195Ci.html
+
+![image](https://user-images.githubusercontent.com/194400/194784197-821ee9e5-e3a8-465a-a010-738db6b75525.png)
+
+More images captured in: 
+[`#116`](https://github.com/dwyl/phase-three/issues/116#issuecomment-1272652476)
+
+Point is this: the _luxury_ "second home" market appears to be alive and well.
+So our _worst_ case scenario with the Souselo land is:
+1. Transform the main building into a luxury weekend house with: 
+   + infinity pool overlooking the land
+   + indoor-outdoor alfresco kitchen
+     [**`#129`**](https://github.com/dwyl/phase-three/issues/129)
+   + Covered parking spaces for 4 cars with solar panels and electric chargers ⚡
+2. Prepare the land for "leisure" activities including: 
+   + mini football field with high quality lawn, goal posts and painted lines ⚽
+   + **`private`** river beach 🏖️
+   + small boat dock with electricity for speed boats 🚤
+3. Develop the smaller ruins as guest cottages for friends & family 🏡
+3. Market it to absurdly overpaid **`FCP`** footballers 
+   who want privacy and a spot in the fresh air for their families.
+
+With this "business plan" I feel we can spend **€300k`** on the development
+and sell it on for north of **`€1M`** for a **`€400k` profit**. 💰
+
+Again, I consider this the "last resort" option. 
