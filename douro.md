@@ -112,7 +112,6 @@ Thanks! 🌻
     - [On-site First Aid Center ⚕️](#on-site-first-aid-center-️)
   - [Douro Cruises](#douro-cruises)
   - [_Existing_ Local Guest Houses](#existing-local-guest-houses)
-- [Research](#research)
   - [Comparable Property in the Area](#comparable-property-in-the-area)
     - [Luxury Modern House on `1ha` No River Access; `850 000 €`](#luxury-modern-house-on-1ha-no-river-access-850-000-)
 
@@ -774,7 +773,8 @@ the AirCon unit will be removable.
 
 #### Electricity, Batteries and Grid Connection
 
-Each tiny will have a battery bank 
+Each tiny house will have a 
+[battery bank]()
 which will kick in at night 
 when solar is unavailable.
 
@@ -911,7 +911,7 @@ and think harder about _eating_ them. 💭
 Being water-front property,
 it's _ideal_ for keeping ducks.
 We've done a decent amount of research into this:
-
+[**`#109`**](https://github.com/dwyl/phase-three/issues/109)
 
 
 ### Bees 🐝 
@@ -947,26 +947,44 @@ See:
 We plan to build our own water tanks at the highest point 
 on the land to store water for gravity-fed irrigation. 
 In those tanks we will place several species of fish.
-The fish will eat 
+The fish will eat organic feed and bugs.
+Their waste, full of nitrates will be used to irrigate the trees/vines.
 
 ## Energy / Power
 
-
+The land is already connected to the grid for electricity.
+Since it has been used for agriculture, 
+the tariff is considerably lower than urban per KW/h.
 
 ### Solar Panels
 
+Much like we have in our Braga House:
+[**`home#20`**](https://github.com/dwyl/home/issues/20)
+We will install enough solar panels
+on the property to meet _all_ our energy needs.
+
+In addition to the solar panels,
+inverter and other circuitry, 
+we will buy 
+enough 
+[**`LiFePO4` batteries](https://github.com/dwyl/tiny-house/issues/31)
+to run all our essential appliances.
+
+If battery storage is prohibitively expensive
+because of global supply chain restrictions,
+we have a _backup_-backup option.
+
 ### Pumped-storage Hydroelectricity
 
-
-
+We plan to build a large water tank that 
+can be used for pumped storage hydro,
+see: 
+[**`#124`**](https://github.com/dwyl/phase-three/issues/124)
 
 
 <br />
 
 # Relevant Reading + Research 🔍
-
-
-
 
 One of the obvious considerations/concerns 
 
@@ -1047,8 +1065,6 @@ It shows that there is demand at the higher price point.
 More on this later. 
 
 
-# Research
-
 ## Comparable Property in the Area
 
 Through our _extensive_ research we determined
@@ -1056,7 +1072,7 @@ that the Souselo land we are considering
 with its' 
 **4 ruins** to rebuild, 
 **_navegable_ river access**,
-virtually **_perfect_ sun exposure**,
+virtually **_perfect_ sun exposure**,x§
 existing access to mains [EDP] electricity & telecoms
 and _prepared_ terraced land
 is a great deal at **`€270k`**!
