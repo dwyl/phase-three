@@ -20,7 +20,7 @@ We need to visit it to observe their facilities ...
 Fairly certain it will be _similar_ for Portugal.
 If someone knows or has time to investigate
 
-http://www.hse.gov.uk/contact/faqs/toilets.htm
+https://www.hse.gov.uk/contact/faqs/toilets.htm
 [Portugal-Workplace-regulations-decretolei_243_86.pdf](https://github.com/dwyl/phase-two/files/925505/Portugal-Workplace-regulations-decretolei_243_86.pdf)
 
 
