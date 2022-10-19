@@ -80,4 +80,4 @@ and
 
 <br /><br />
 
-[![HitCount](https://hits.dwyl.com/dwyl/phase-three-land.svg?style=flat-square)](http://hits.dwyl.com/dwyl/phase-three-land)
+[![HitCount](https://hits.dwyl.com/dwyl/phase-three-land.svg?style=flat-square)](https://hits.dwyl.com/dwyl/phase-three-land)

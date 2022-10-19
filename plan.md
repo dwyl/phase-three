@@ -42,7 +42,7 @@ by sharing the knowledge as we went.
 
 ## Context
 
-![tree-branches-image](http://www.m-a.org.uk/features/big/branches_main.jpg)
+![tree-branches-image](https://www.m-a.org.uk/features/big/branches_main.jpg)
 
 2017 is the year of **formalising the various types of work we do into their
 own, neat groupings of activities**, the various _branches_ of dwyl.
@@ -283,7 +283,7 @@ digital nomads (which we can learn from to help others unlock their potential in
 of our team
 + Having a space which we can provide to social impact organisations in need of
 a place to hold events
-+ Take the unnecessary financial burden off [Founders & Coders'](http://www.foundersandcoders.com/) hands
++ Take the unnecessary financial burden off [Founders & Coders'](https://www.foundersandcoders.com/) hands
  (prototype of our remote-first working culture, offering a space).
 
  #### How?
