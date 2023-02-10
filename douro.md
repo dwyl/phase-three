@@ -2,7 +2,7 @@
 
 [![tiny-house-village](https://user-images.githubusercontent.com/194400/189148356-1d6a8d22-c95d-42dc-8e46-0199a9eb9fd1.jpeg "image credit: https://www.countryliving.com/life/travel/g3595/tour-tiny-house-village")](https://github.com/dwyl/phase-three/issues/116#issuecomment-1240795630)
 
-# Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>
+# Douro Riverside Family & Friends <br />Food Forest Farm School <br /> Tiny Home/Holiday Village<sup>*</sup>
 
 <sup>*</sup> _We're going to need a shorter name_ ... **`#HelpWanted`** 💭
 
@@ -55,16 +55,17 @@ to capture it. 💡
 Thanks! 🌻
 
 
-- [Douro Riverside Family \& Friends Food Forest Farm Tiny Home Village\*](#douro-riverside-family--friends-food-forest-farm-tiny-home-village)
+- [Douro Riverside Family \& Friends Food Forest Farm School  Tiny Home/Holiday Village\*](#douro-riverside-family--friends-food-forest-farm-school--tiny-homeholiday-village)
 - [Why?](#why)
-  - [1. Planning for Older Age / Retirement](#1-planning-for-older-age--retirement)
-  - [2. An _Awesome_ Place for Our Children to Thrive!](#2-an-awesome-place-for-our-children-to-thrive)
-    - [3. A Great Way to Live Sustainably](#3-a-great-way-to-live-sustainably)
-    - [4. Meet Like-minded People](#4-meet-like-minded-people)
-    - [Fresh Air](#fresh-air)
-    - [Stars!](#stars)
-    - [Wild Life](#wild-life)
-    - [Abundant Water](#abundant-water)
+  - [1. Planning for Older Age / Retirement 🌳](#1-planning-for-older-age--retirement-)
+  - [2. An _Awesome_ Place for Our Children to Thrive! 😍](#2-an-awesome-place-for-our-children-to-thrive-)
+  - [3. A Great Way to Live Sustainably ♻️](#3-a-great-way-to-live-sustainably-️)
+  - [4. Access to Water Sports! ⛵ 🛶 🏄‍♀️](#4-access-to-water-sports---️)
+  - [5. Meet Like-minded People 👩‍🌾](#5-meet-like-minded-people-)
+    - [Fresh Air 💨](#fresh-air-)
+    - [Stars! ⭐](#stars-)
+    - [Wild Life 🦉](#wild-life-)
+    - [Abundant Water 🚰](#abundant-water-)
   - [3. Short-term Mental \& Physical Health](#3-short-term-mental--physical-health)
   - [4. Long-term Water, Food and Energy Security](#4-long-term-water-food-and-energy-security)
   - [Why _Now_?](#why-now)
@@ -85,10 +86,10 @@ Thanks! 🌻
 - [Who?](#who)
   - [Farm Manager (part-time)](#farm-manager-part-time)
   - [Volunteer Visitors](#volunteer-visitors)
-- [How?](#how)
+- [How? 🚧](#how-)
   - [How _Much_? 💰](#how-much-)
 - [Revenue](#revenue)
-  - [Permanent Guest Cottage(s)](#permanent-guest-cottages)
+  - [Guest Cottage(s)](#guest-cottages)
     - [Renovations?](#renovations)
       - [Newest Building](#newest-building)
   - [Renovating the 2 Smaller "Cottages"](#renovating-the-2-smaller-cottages)
@@ -130,9 +131,9 @@ Thanks! 🌻
 
 # Why?
 
-4 reasons:
+Top 5 Reasons:
 
-## 1. Planning for Older Age / Retirement
+## 1. Planning for Older Age / Retirement 🌳
 
 We aren't getting any younger. <br />
 We must _proactively_ think 
@@ -140,27 +141,34 @@ about our own "third age"
 _long_ before we _need_ to <br />
 and plan for the imminent retirement of our parents.
 
-## 2. An _Awesome_ Place for Our Children to Thrive!
+## 2. An _Awesome_ Place for Our Children to Thrive! 😍
 
 Having grown up in major cities
-but with friends who lived on farms,
+but with friends who lived on farms in the countryside,
 I know which I would have preferred for myself;
 **unquestionably _nature_**! 
 
-We aren't "_sacrificing_" living in the city.
-
-We will still be 10 mins from all the major 
-supermarkets and amenities.
-
-
-
-
-### 3. A Great Way to Live Sustainably
+> **Note**: We aren't "_sacrificing_" living in the city.
+As outlined below I'm proposing a "hybrid lifestyle".
+We would still spend enough time in the city.
+And the land is 10 mins from a town 
+with all the major supermarkets and amenities.
 
 
+## 3. A Great Way to Live Sustainably ♻️
+
+With space to grow **80%+** of our own food organically,
+our own on-site composting and mini-recycling
+we can live a zero-waste lifestyle.
 
 
-### 4. Meet Like-minded People
+## 4. Access to Water Sports! ⛵ 🛶 🏄‍♀️
+
+With 300m 
+
+
+
+## 5. Meet Like-minded People 👩‍🌾 
 
 Having a place that _curious_ people
 can _apply_ to visit and stay at,
@@ -169,7 +177,7 @@ people we can _learn_ with/from.
 
 
 
-### Fresh Air 
+### Fresh Air 💨
 
 It's widely known that 
 vehicle pollution 
@@ -178,7 +186,8 @@ shortens lifespan,
 and reduces quality of life.
 
 
-### Stars! 
+
+### Stars! ⭐
 
 Living in the city with 
 [light pollution](https://en.wikipedia.org/wiki/Light_pollution)
@@ -187,7 +196,12 @@ Out in the countryside
 far enough from the nearest low-density town
 on a clear night, 
 
-### Wild Life
+![star-night-milky-way](https://user-images.githubusercontent.com/194400/218063972-ee1194c7-2e38-44f3-8efb-3fdbb39d16cb.png)
+
+See:
+https://www.space.com/dark-sky-schist-villages-starlight-tourist-destination.html
+
+### Wild Life 🦉
 
 Living in a city, 
 when was the last time you saw a bird of prey
@@ -204,7 +218,7 @@ See:
 
 
 
-### Abundant Water
+### Abundant Water 🚰
 
 
 ## 3. Short-term Mental & Physical Health
@@ -323,12 +337,16 @@ by buying them a farm they can grow up on. 🧑‍🌾
 
 All joking aside,
 having river (or beach) access
-land is what I always wanted as a child. 💭
-
+land is what I always dreamed of as a child. 💭
+$$
 The STEM, creativity 
 and _life_ skills learning opportunities
 of living on land are _significantly_
 greater than living in a city. 🧑‍🔬
+
+What better way 
+to learn about ecosystems
+than _living_ in one?
 
 In 20 years time I want to look back on 
 today and thank myself 
@@ -379,6 +397,21 @@ The land is fully fenced but the fence is only shoulder-height.
 This is more of an animal barrier than a human security fence.
 But it's a good starting point.
 
+If we are able to buy the land,
+we will plant a barrier hedge
+that will serve as both privacy
+and fruit e.g: Blackberries.
+See:
+[**`#20`**](https://github.com/dwyl/learn-permaculture/issues/20)
+
+The land already has more Blackberries than we could ever hope to eat:
+[**116**#issuecomment-1233583894](https://github.com/dwyl/phase-three/issues/116#issuecomment-1233583894)
+
+![blackberries](https://user-images.githubusercontent.com/194400/187805082-0285adaf-0122-437e-b465-8bcad14493aa.png)
+
+The idea of planting them as a hedge along the road 
+is that we **_share_ the abundance** with passers-by.
+
 <!--
 The current owners of the land appear to have a Land Rover Freelander v1:
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189235364-8a085106-6542-46d6-9f50-e2b025ec64a0.png">
@@ -409,8 +442,11 @@ we can eat
 for the rest of our lives.
 I would argue that the ROI on land 
 is _considerably_ better than Gold
-as it has an "annual dividend" of fresh produce
+as it has an "**annual dividend**" of **fresh produce**
 while still benefiting from capital appreciation.
+
+
+
 
 ## UNESCO World Heritage Site 😍
 
@@ -431,11 +467,10 @@ Everywhere you look is a postcard of epic landscapes:
 
 # Where?
 
-Having recently been blessed with a child 
-and with another "on the way",
+Having recently been blessed with **_two_ children**,
 it's brought the question 
 "_**where** to spend our time?_" 
-into sharp focus.
+into sharp focus. 
 
 Living in the city 
 is good for all the modern conveniences
@@ -449,7 +484,7 @@ can wish for;
 good schools, 
 organic food shops,
 great restaurants,
-and good activities.
+and leisure activities.
 However it's still a city.
 Even though it has comparatively
 _good_ air quality,
@@ -496,12 +531,14 @@ The river **`Paiva`** flows into the douro
 The river is dammed down-stream by the Crestuma–Lever Dam,
 which creates a **strategic water reservoir** 
 for the Douro region:
-https://en.wikipedia.org/wiki/Crestuma%E2%80%93Lever_Dam
+[wikipedia.org/wiki/Crestuma-Lever_Dam](https://en.wikipedia.org/wiki/Crestuma%E2%80%93Lever_Dam)
+
 
 ![Barragem-de-Crestuma](https://user-images.githubusercontent.com/194400/195951078-b9d7a837-4f48-4f5f-8b66-de455aa74b94.jpg)
 
-There is a hydroelectric power plant that creates energy
-for the Porto district and therefore having the water level 
+There is a hydroelectric power plant that **generates energy**
+for the **Porto district** 
+and therefore having the water level 
 reasonably constant is required.
 
 There are many river cruise boats on this area
@@ -515,7 +552,7 @@ The dam has a lock system that allows boats (up to `83m` length!)
 
 ![BarragemCrestumaLever-4](https://user-images.githubusercontent.com/194400/195786179-01408d1b-8ca6-4664-a035-c13b5f5c80f4.jpg)
 
-to descend the from the reservoir to Douro River estuary
+to descend from the reservoir to Douro River estuary
 and then on to the Atlantic Ocean. ⛵
 
 Passage through the lock must be booked the day before
@@ -563,15 +600,18 @@ has a 2-bed residence as part of their "deal".
 ## Farm Manager (part-time)
 
 [**`@carolrmc`**](https://github.com/carolrmc)
-will take on the part-time role of Farm Manager.
+will take on the part-time role (**`2 hours / day`**) 
+of Farm Manager.
 Carol will be responsible 
 for managing/tracking the work that needs to be done
 according to our **`Plan`**. 
 
-Luckily, Carol grew up on a farm [of similar size] 
+Luckily, Carol grew up on a farm (of similar size)
 and has performed all the jobs that need to be done.
 This is the **_perfect_ retirement activity** for her
 as their is a _lot_ to be explored! 
+
+> **Note**: Full list of manager tasks TBD.
 
 
 ## Volunteer Visitors
@@ -584,10 +624,10 @@ in exchange for room & board.
 They will learn Portugese (or English!)
 and lots about permaculture and sustainable living.
 
-See [Workaway](#workaway) section below.
+See [Workaway](#workaway) section below. 🔗
 
 
-# How?
+# How? 🚧
 
 The first step in determining the feasibility
 of this project is to look at the finances/projections.
@@ -616,15 +656,16 @@ for a small holding farm.
 The most effective/lucrative one 
 is _temporary_ guest accommodation.
 
-## Permanent Guest Cottage(s)
+## Guest Cottage(s)
 
 Our research suggests a guest cottage in the Douro Region 
 rents for a _minimum_ of **`€120/night`**.
 We will charge a "***market-clearing***" lower price of **`€80/night`**
 while we are establishing the rest of the business. 
 
-TODO: insert revenue table!
-
+These are our _draft_ calculations:
+https://docs.google.com/spreadsheets/d/1ma5LOmK_vrSrYULjT0_WIHblgy6OU1VThYixeTUivCc
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/194400/218085388-b8b3332b-3b97-44bd-8805-5df8871d9bc6.png">
 
 
 
