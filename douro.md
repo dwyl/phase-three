@@ -34,7 +34,7 @@ to build our vision: 🌱
 + [x] Existing/established trees (ideally a forest!) 
   [**`#6`**](https://github.com/dwyl/phase-three/issues/6) 🌳
 + [x] **Ruins to _rebuild_**;
-  **_Much_ faster** than planning permission 
+  **_much_ faster** than planning permission 
   to build from scratch
   and we can pick all finish/fixtures/fittings. 🏡
 
@@ -48,14 +48,27 @@ If you have still have questions after reading it,
 please comment on the issue/thread: 
 [**`#116`**](https://github.com/dwyl/phase-three/issues/116) 🙏 <br />
 Or if you think of something new e.g. a "gotcha" or idea,
-please open a **`new`** issue to capture it. 💡
+please open a 
+[**`new`** issue](https://github.com/dwyl/phase-three/issues) 
+to capture it. 💡
 
 Thanks! 🌻
 
 
-- [Douro Riverside Family & Friends Food Forest Farm Tiny Home Village<sup>*</sup>](#douro-riverside-family--friends-food-forest-farm-tiny-home-villagesupsup)
+- [Douro Riverside Family \& Friends Food Forest Farm Tiny Home Village\*](#douro-riverside-family--friends-food-forest-farm-tiny-home-village)
 - [Why?](#why)
+  - [1. Planning for Older Age / Retirement](#1-planning-for-older-age--retirement)
+  - [2. An _Awesome_ Place for Our Children to Thrive!](#2-an-awesome-place-for-our-children-to-thrive)
+    - [3. A Great Way to Live Sustainably](#3-a-great-way-to-live-sustainably)
+    - [4. Meet Like-minded People](#4-meet-like-minded-people)
+    - [Fresh Air](#fresh-air)
+    - [Stars!](#stars)
+    - [Wild Life](#wild-life)
+    - [Abundant Water](#abundant-water)
+  - [3. Short-term Mental \& Physical Health](#3-short-term-mental--physical-health)
+  - [4. Long-term Water, Food and Energy Security](#4-long-term-water-food-and-energy-security)
   - [Why _Now_?](#why-now)
+    - [Trees Take Time](#trees-take-time)
   - [Why _Not_?](#why-not)
   - [Regrets?](#regrets)
 - [What?](#what)
@@ -117,11 +130,115 @@ Thanks! 🌻
 
 # Why?
 
+4 reasons:
+
+## 1. Planning for Older Age / Retirement
+
 We aren't getting any younger. <br />
 We must _proactively_ think 
 about our own "third age" 
 _long_ before we _need_ to <br />
 and plan for the imminent retirement of our parents.
+
+## 2. An _Awesome_ Place for Our Children to Thrive!
+
+Having grown up in major cities
+but with friends who lived on farms,
+I know which I would have preferred for myself;
+**unquestionably _nature_**! 
+
+We aren't "_sacrificing_" living in the city.
+
+We will still be 10 mins from all the major 
+supermarkets and amenities.
+
+
+
+
+### 3. A Great Way to Live Sustainably
+
+
+
+
+### 4. Meet Like-minded People
+
+Having a place that _curious_ people
+can _apply_ to visit and stay at,
+means we will _attract_ interesting 
+people we can _learn_ with/from.
+
+
+
+### Fresh Air 
+
+It's widely known that 
+vehicle pollution 
+shortens lifespan,
+[decreases intelligence](https://www.theguardian.com/environment/2018/aug/27/air-pollution-causes-huge-reduction-in-intelligence-study-reveals)
+and reduces quality of life.
+
+
+### Stars! 
+
+Living in the city with 
+[light pollution](https://en.wikipedia.org/wiki/Light_pollution)
+you barely see the moon never mind the stars!
+Out in the countryside 
+far enough from the nearest low-density town
+on a clear night, 
+
+### Wild Life
+
+Living in a city, 
+when was the last time you saw a bird of prey
+other than in a zoo or sanctuary?
+
+The land we are considering has owls in the forest!
+And given that the pristine river bordering the land
+is _teaming_ with fish,
+there are also kingfishers, 
+eagles and hawks!
+
+See: 
+[wikipedia.org/wiki/**List**_of_**birds**_of_**Portugal**](https://en.wikipedia.org/wiki/List_of_birds_of_Portugal)
+
+
+
+### Abundant Water
+
+
+## 3. Short-term Mental & Physical Health
+
+[Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)
+had 
+[Walden](https://en.wikipedia.org/wiki/Walden),
+[Jung](https://en.wikipedia.org/wiki/Carl_Jung) 
+had
+[Bollingen](https://en.wikipedia.org/wiki/Bollingen_Tower)
+[Monet](https://en.wikipedia.org/wiki/Claude_Monet)
+spent 46 years painting in his garden and surrounding 
+area of
+[Giverney](https://en.wikipedia.org/wiki/Giverny).
+
+As a teenager,
+I had the privilege of visiting Monet's gardens
+and the memory persists today;
+it's ***epic***! 
+
+If we are able to purchase the land, 
+we will make the entrance and top terrace
+(where the houses will be)
+an _epic_ garden with Koi ponds,
+integrated trees,
+wheelchair accessible path / walkway
+perfect for people of all ages and mobility to enjoy. 
+
+
+
+## 4. Long-term Water, Food and Energy Security 
+
+
+
 
 
 ## Why _Now_?
@@ -155,6 +272,12 @@ to do the work
 or worse 
 **_too old_ to _enjoy_ it**!  
 
+### Trees Take Time
+
+Trees take 10+ years to mature and bare fruit.
+If we want the abundant fruits in our **50's`**,
+we need to plant them _now_!
+
 
 ## Why _Not_?
 
@@ -169,7 +292,7 @@ for a couple of well-funded FinTech Startups,
 saving/investing diligently
 and living frugally,
 we have accumulated enough savings
-to consider this project.
+to _consider_ this project.
 
 ![late-rabbit](https://user-images.githubusercontent.com/194400/194275223-0ad767e5-a13f-4e4e-a245-7241e09a2ef9.png)
 
@@ -442,7 +565,8 @@ has a 2-bed residence as part of their "deal".
 [**`@carolrmc`**](https://github.com/carolrmc)
 will take on the part-time role of Farm Manager.
 Carol will be responsible 
-for managing/tracking the work that needs to be done.
+for managing/tracking the work that needs to be done
+according to our **`Plan`**. 
 
 Luckily, Carol grew up on a farm [of similar size] 
 and has performed all the jobs that need to be done.
