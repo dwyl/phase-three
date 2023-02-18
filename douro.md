@@ -75,6 +75,7 @@ Thanks! 🌻
 - [What?](#what)
   - [Listing](#listing)
     - [Fully Fenced](#fully-fenced)
+      - [Berry Hedge 🫐](#berry-hedge-)
   - [_Golden_](#golden)
   - [UNESCO World Heritage Site 😍](#unesco-world-heritage-site-)
 - [Where?](#where)
@@ -397,12 +398,17 @@ The land is fully fenced but the fence is only shoulder-height.
 This is more of an animal barrier than a human security fence.
 But it's a good starting point.
 
+#### Berry Hedge 🫐
+
 If we are able to buy the land,
 we will plant a barrier hedge
 that will serve as both privacy
-and fruit e.g: Blackberries.
+and fruit e.g: Blackberries, Elderberries, Juneberry or Hazelnut!
 See:
 [**`#20`**](https://github.com/dwyl/learn-permaculture/issues/20)
+
+![blackberry-hedge](https://user-images.githubusercontent.com/194400/219856094-b9d41249-f027-4bdd-87d8-fc52b4e8dcab.png)
+
 
 The land already has more Blackberries than we could ever hope to eat:
 [**116**#issuecomment-1233583894](https://github.com/dwyl/phase-three/issues/116#issuecomment-1233583894)
@@ -411,6 +417,17 @@ The land already has more Blackberries than we could ever hope to eat:
 
 The idea of planting them as a hedge along the road 
 is that we **_share_ the abundance** with passers-by.
+
+![berry-hedge](https://user-images.githubusercontent.com/194400/219856152-df4ade95-b429-458d-a04d-66d3a7b6f6bb.png)
+
+
+We would prep the land (including irrigation system) 
+and plant these _immediately_ 
+so that they have plenty of time to grow
+in the next few years.
+
+
+
 
 <!--
 The current owners of the land appear to have a Land Rover Freelander v1:
@@ -665,6 +682,7 @@ while we are establishing the rest of the business.
 
 These are our _draft_ calculations:
 https://docs.google.com/spreadsheets/d/1ma5LOmK_vrSrYULjT0_WIHblgy6OU1VThYixeTUivCc
+
 <img width="1080" alt="image" src="https://user-images.githubusercontent.com/194400/218085388-b8b3332b-3b97-44bd-8805-5df8871d9bc6.png">
 
 
