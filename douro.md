@@ -98,13 +98,13 @@ Thanks! 🌻
     - [Caretaker Cottage](#caretaker-cottage)
   - [Help Wanted! 🔰](#help-wanted-)
     - [Part-time Paid Cleaning Person 🧹](#part-time-paid-cleaning-person-)
-    - [Workaway](#workaway)
-  - [Main House](#main-house)
+    - [`Workaway` 👩‍🌾](#workaway-)
+  - [Main House 🏡](#main-house-)
   - [`YouTube` Channel](#youtube-channel)
     - [Sample topics:](#sample-topics)
-  - [Tiny House(s)](#tiny-houses)
-    - [Specification](#specification)
-      - [Beds](#beds)
+  - [Tiny House(s) 🏠](#tiny-houses-)
+    - [Specification 📝](#specification-)
+      - [Beds 🛏️](#beds-️)
       - [Bathroom](#bathroom)
       - [Kitchen](#kitchen)
       - [Water](#water)
@@ -116,20 +116,20 @@ Thanks! 🌻
     - [Geodesic Greenhouse 🌱](#geodesic-greenhouse-)
   - [Pedagogical Forest Farm _School_](#pedagogical-forest-farm-school)
     - [Farm Animals](#farm-animals)
-    - [Ducks](#ducks)
+    - [Ducks 🦆](#ducks-)
     - [Bees 🐝](#bees-)
       - [Organic Honey 🍯 and Wax 🕯️](#organic-honey--and-wax-️)
     - [Aquaponics 🐟 + 🌱](#aquaponics---)
   - [Energy / Power](#energy--power)
     - [Solar Panels](#solar-panels)
-    - [Pumped-storage Hydroelectricity](#pumped-storage-hydroelectricity)
+    - [Pumped-storage Hydroelectricity ⚡](#pumped-storage-hydroelectricity-)
 - [Relevant Reading + Research 🔍](#relevant-reading--research-)
   - [Hospital 🏥](#hospital-)
     - [On-site First Aid Center ⚕️](#on-site-first-aid-center-️)
   - [Douro Cruises](#douro-cruises)
   - [_Existing_ Local Guest Houses](#existing-local-guest-houses)
   - [Comparable Property in the Area](#comparable-property-in-the-area)
-    - [Luxury Modern House on `1ha` No River Access; `850 000 €`](#luxury-modern-house-on-1ha-no-river-access-850-000-)
+    - [Luxury Modern House on `1ha` No River Access; `850k €`](#luxury-modern-house-on-1ha-no-river-access-850k-)
 
 # Why?
 
@@ -907,15 +907,17 @@ Task will include:
 + [x] General light yard work such as collecting fallen leaves
 
 Once we ramp up the number of Tiny Homes in the Village,
-we will move to employing cleaning people **_full_-time year-round**.
+we will employ cleaning people **_full_-time year-round**.
 
 
 
-### Workaway 
+### `Workaway` 👩‍🌾
 
-Workaway is a community + website
+`Workaway` is a community + website
 that allows "hosts" to list their 
 place to stay.
+Hosts describe the expected work to be done
+in exchange for room and board.
 
 Guests or "workawayers"
 are people that want to travel, explore and learn
@@ -927,13 +929,21 @@ in exchange for a bed and meals.
 See: 
 [**`#119`**](https://github.com/dwyl/phase-three/issues/119)
 
-We will list our project on Workaway 
+We will list our project on `Workaway` 
 [and other relevant/similar sites]
 as soon as we have our plan clearly layed out
 and somewhere for the people to stay.
 
+We feel this will be an _exceptionally_ 
+mutually-beneficial arrangement.
+People that want to 
+(a) visit Portugal,
+(b) experience permaculture with awesome leisure activities and 
+(c) eliminate their living costs
+will _jump_ at this opportunity!
 
-## Main House 
+
+## Main House 🏡
 
 The main house will be built 
 on the site of the current half-finished building.
@@ -982,15 +992,15 @@ our guests and the wider community.
 This list is by no means exhaustive.
 Feel free to add to it.
 Point is: there are **_many_ topics** we can cover.
-There is easily enough for **_daily_ videos**!
+There is easily enough for **_daily_ update videos**!
 But we will start with just "regular updates" (e.g. monthly)
 to not overwhelm ourselves and set unrealistic expectations.
 Video will be our single best form of "marketing"
 and will be the source of people for our _next_ stream of revenue.
 
-## Tiny House(s)
+## Tiny House(s) 🏠
 
-The (_hopefully_) main source of revenue
+The (_hopefully_) main source of _non-virtual_ revenue
 will be hiring Tiny Houses to families
 and couples 
 who want a _taste_ of "**The Good Life™**".
@@ -1002,17 +1012,28 @@ to build something themselves.
 We have done _considerable_
 research into Tiny Houses over the years.
 
+There is _ample_ space on the land
+for 20+ tiny houses
+with plenty of privacy around each one.
+
+![tiny-house-terrace](https://user-images.githubusercontent.com/194400/219919964-29c0c56d-a4ec-41aa-85a4-506379adc743.png)
+
+We will start out with 1 tiny house
+and build up to 6 on the terrace.
 
 
-### Specification
+
+### Specification 📝
 
 Our Tiny Houses will have a standard spec
 which will make them easy to clean/maintain 
 and very re-sellable if we need to unlock funds.
 
-See: [dwyl/**tiny-house**](https://github.com/dwyl/tiny-house/)
+See: 
+[dwyl/**tiny-house**](https://github.com/dwyl/tiny-house/)
 
-#### Beds
+
+#### Beds 🛏️
 
 Each Tiny House will be purpose-built to accommodate
 **`2 adults`** and up to **4 children**.
@@ -1025,7 +1046,7 @@ And will _encourage_ families
 to bring their child's  friend(s) 
 for the week/weekend.
 
-+ [x] 1 Double bed
++ [x] 1 Double bed (loft)
 + [x] 2 fold-down beds
 + [x] 1 _comfortable_ sofa bed (sleeps 2)
 
@@ -1039,7 +1060,8 @@ they could squeeze in.
 #### Bathroom
 
 The bathroom will be deliberately "basic"
-but fully functional with a _flushing_ toilet and shower.
+but fully functional with a _flushing_ toilet and shower
+with grey water capture.
 
 > **Note**: each parking spot on the land will have 
 > a mini water storage and treatment plant. 
@@ -1135,6 +1157,12 @@ see:
 [**`#87`**](https://github.com/dwyl/phase-three/issues/87)
 (please add to the list!)
 
+The **`2.3ha`** of land 
+is _more_ than enough space
+to plant 500+ fruiting trees 
+around the periphery
+and then grow ample annual crops. 
+
 ## Permaculture Food Forest 🌳
 
 We will follow the 
@@ -1158,13 +1186,14 @@ These will be laser/CNC-cut so that
 our food forrest will be a 
 [Botanical Garden](https://github.com/dwyl/phase-three/issues/95)
 
-We will allow children/students from the local schools
+We will welcome children/students from the local schools
 to visit and learn about the plants and ecosystems.
 
 ### Geodesic Greenhouse 🌱
 
 In addition to the open-air food forest,
-we will have a decent size [tbd](https://github.com/dwyl/phase-three/issues/122)
+we will have a decent size 
+[tbd](https://github.com/dwyl/phase-three/issues/122)
 geodesic dome greenhouse structure
 that will allow us to grow tropical plants
 that need specific temperatures to thrive.
@@ -1216,7 +1245,7 @@ will help our children (and farm friends)
 better understand the animals
 and think harder about _eating_ them. 💭
 
-### Ducks
+### Ducks 🦆
 
 Being water-front property,
 it's _ideal_ for keeping ducks.
@@ -1277,19 +1306,22 @@ In addition to the solar panels,
 inverter and other circuitry, 
 we will buy 
 enough 
-[**`LiFePO4` batteries](https://github.com/dwyl/tiny-house/issues/31)
+[**`LiFePO4`** batteries](https://github.com/dwyl/tiny-house/issues/31)
 to run all our essential appliances.
 
 If battery storage is prohibitively expensive
 because of global supply chain restrictions,
 we have a _backup_-backup option.
 
-### Pumped-storage Hydroelectricity
+### Pumped-storage Hydroelectricity ⚡
 
 We plan to build a large water tank that 
 can be used for pumped storage hydro,
 see: 
 [**`#124`**](https://github.com/dwyl/phase-three/issues/124)
+With unlimited water from the river
+and excess energy from Solar Panels,
+we can have energy when it's dark.
 
 
 <br />
@@ -1303,12 +1335,22 @@ One of the obvious considerations/concerns
 The nearest hospital with full-service 
 (Radiology, Operating Theatre, etc.)
 is **`23km`** away. 
-The estimated journey time is **`28 minutes`**:
+The estimated journey time is 
+**`28 minutes`**:
 
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/194400/188856534-7aa455e7-0c95-4977-b136-62b8928e21d7.png">
 
-In an emergency we would drive our [TimeMachine]() 
-and cut this journey time down baring safety in-mind.
+In an emergency we would drive our 
+[TimeMachine]() 
+and cut this journey time down while having safety in-mind.
+
+Coincidentally,
+when we visited the land,
+a local ambulance drove past.
+We see this as reassuring
+that the land is accessible
+to emergency services.
+
 
 ### On-site First Aid Center ⚕️
 
@@ -1319,6 +1361,9 @@ and they need to be addressed swiftly.
 Having a dedicated first aid center (adjoining the reception)
 at the entrance/exit of the property will be a high priority.
 
+All staff will be first-aid trained
+and we will have well-defined
+protocols for how to triage, log and escalate injuries.-
 
 
 ## Douro Cruises
@@ -1372,7 +1417,7 @@ Then they have a bunch of pictures of the surrounding area:
 
 Again, we think this is a _really_ good sign.
 It shows that there is demand at the higher price point.
-More on this later. 
+
 
 
 ## Comparable Property in the Area
@@ -1391,14 +1436,14 @@ We captured a _subset_ of our research in:
 [**`116#issuecomment-1272643614`**](https://github.com/dwyl/phase-three/issues/116#issuecomment-1272643614)
 
 
-### Luxury Modern House on `1ha` No River Access; `850 000 €`
+### Luxury Modern House on `1ha` No River Access; `850k €`
 
 This listing for a **`1ha`** piece of land 
 with a **modern** designed **`152.9m²`** house 
 with **_small_ pool** (zero child protection!)
 _without_ river access, but with a good view of the river.
 It is _further_ from the city of Porto and `OPO` airport
-and yet is on the market for `850 000 €`.
+and yet is on the market for `850k €`.
 
 https://www.imovirtual.com/pt/anuncio/quinta-para-venda-ID195Ci.html
 
@@ -1422,7 +1467,9 @@ So our _worst_ case scenario with the Souselo land is:
 3. Market it to absurdly overpaid **`FCP`** footballers 
    who want privacy and a spot in the fresh air for their families.
 
-With this "business plan" I feel we can spend **€300k`** on the development
+With this "business plan" I feel we can spend **`€300k`** on the development
 and sell it on for north of **`€1M`** for a **`€400k` profit**. 💰
 
 Again, I consider this the "last resort" option. 
+But whenever we consider a potential investment,
+we need to know what the fallback is.
