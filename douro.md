@@ -79,27 +79,28 @@ Thanks! 🌻
   - [_Golden_](#golden)
   - [UNESCO World Heritage Site 😍](#unesco-world-heritage-site-)
 - [Where?](#where)
-  - [Souselo](#souselo)
-    - [Vila Meã](#vila-meã)
-    - [River Frontage](#river-frontage)
-    - [Crestuma–Lever Dam](#crestumalever-dam)
+  - [Souselo 📍](#souselo-)
+    - [Population Density Side-note 😮](#population-density-side-note-)
+    - [Castelo de Paiva 🏰](#castelo-de-paiva-)
+    - [River Frontage 🏖️](#river-frontage-️)
+    - [Crestuma–Lever Dam 🛥️](#crestumalever-dam-️)
     - [Atlantic Ocean _Access_ 🌍](#atlantic-ocean-access-)
-- [Who?](#who)
+- [Who? 👨‍👩‍👧‍👦](#who-)
   - [Farm Manager (part-time)](#farm-manager-part-time)
-  - [Volunteer Visitors](#volunteer-visitors)
+  - [Volunteer Visitors ✋](#volunteer-visitors-)
 - [How? 🚧](#how-)
   - [How _Much_? 💰](#how-much-)
-- [Revenue](#revenue)
-  - [Guest Cottage(s)](#guest-cottages)
-    - [Renovations?](#renovations)
-      - [Newest Building](#newest-building)
-  - [Renovating the 2 Smaller "Cottages"](#renovating-the-2-smaller-cottages)
+- [Revenue 💵](#revenue-)
+  - [Guest Cottage(s) 🏡](#guest-cottages-)
+    - [Renovations? 🏗️](#renovations-️)
+      - [Newest Building 🆕](#newest-building-)
+  - [Renovating the 2 Smaller "Cottages" ✌️](#renovating-the-2-smaller-cottages-️)
     - [Caretaker Cottage](#caretaker-cottage)
-  - [Help Wanted!](#help-wanted)
+  - [Help Wanted! 🔰](#help-wanted-)
     - [Part-time Paid Cleaning Person 🧹](#part-time-paid-cleaning-person-)
     - [Workaway](#workaway)
   - [Main House](#main-house)
-  - [YouTube Channel](#youtube-channel)
+  - [`YouTube` Channel](#youtube-channel)
     - [Sample topics:](#sample-topics)
   - [Tiny House(s)](#tiny-houses)
     - [Specification](#specification)
@@ -490,9 +491,11 @@ it's brought the question
 into sharp focus. 
 
 Living in the city 
-is good for all the modern conveniences
+is _good_ for all the modern conveniences
 like easy access to shops, 
-healthcare and government services.
+healthcare, government services
+and (city) leisure activities
+like parks, swimming pools & tennis courts. 
 Braga is a fantastic small city 
 with _most_ of the things
 a young family 
@@ -507,11 +510,12 @@ Even though it has comparatively
 _good_ air quality,
 there is road noise/pollution, 
 limited access to nature
-and little space for growing our own food.
+and little space for growing our own organic food.
 
-We need _space_ to grow our own food and imagination!
+We need _space_ to grow our own food and imaginations! 💭
 
-## Souselo
+
+## Souselo 📍
 
 The land we are considering is based in **`Souselo`**: 
 [wikipedia.org/wiki/Souselo](https://pt.wikipedia.org/wiki/Souselo)
@@ -520,34 +524,104 @@ The land we are considering is based in **`Souselo`**:
 
 <img width="1633" alt="land-topology-map" src="https://user-images.githubusercontent.com/194400/189042105-f433a989-b675-457c-b9a4-1bb411c48b07.png">
 
-### Vila Meã
 
-The nearest village is Vila Meã. 
-It's tiny. 
-Has only a handful of houses and no shops/services. <br />
+We had never _heard_ of Souselo 
+before we started researching it.
+So don't feel bad 
+if it's not familiar to you either.
+It's a **_tiny_ village** in northern Portugal 
+that borders the Douro and Paiva rivers
+and has _fewer_ than **200 registered inhabitants**;
+corresponding to a density of 349,2 hab/km².
+By comparison, our neighborhood in Braga 
+has 32,876 inhabitants;
+8 057,8 hab./km²!
+Yes, that's not a typo.
+_8 thousand_ people per square kilometer
+in our neighborhood in Braga.
+https://pt.wikipedia.org/wiki/S%C3%A3o_Victor_(Braga)
+For reference, the average population density
+in 
+[London](https://en.wikipedia.org/wiki/London) 
+is 5,598/km2
+and 
+[New York City](https://en.wikipedia.org/wiki/New_York_City)
+is
+11,313.81/km2.
+
+### Population Density Side-note 😮
+
+Just for fun, here are the mega-cities 
+with the highest population density
+in the world:
+https://www.statista.com/statistics/1237290/cities-highest-population-density/
+![high-population-density-cities](https://user-images.githubusercontent.com/194400/219906245-e26db8ef-7c9e-474a-88a5-c3d9a1934008.png)
+
+Not many of these are on my "must see" list
+much less "must live there" list. 😜
+No offense intended to anyone that lives 
+in any of these places. 
+I just (_strongly_) prefer the country-side
+to _any_ urban area. 
+
+
+### Castelo de Paiva 🏰
+
+The nearest town is is Castelo de Paiva:
+[wikipedia.org/Castelo_de_Paiva](https://en.wikipedia.org/wiki/Castelo_de_Paiva)
+
+![castelodepaiva-center](https://user-images.githubusercontent.com/194400/219906746-3d5a93df-e160-45e0-af6d-5b56b0d1c4bd.jpg)
+
+It's tiny but has  <br />
 A map of the area 
 featuring several sightseeing stops 
 and existing accommodation: 
 
 <img width="1666" alt="image" src="https://user-images.githubusercontent.com/194400/189066783-82d785bf-c498-4893-8096-fd440864f104.png">
 
-### River Frontage
+Recommended reading: 
+[vagamundos.pt/visitar-castelo-de-paiva-roteiro](https://www.vagamundos.pt/visitar-castelo-de-paiva-roteiro/)
+
+
+### River Frontage 🏖️
 
 This rotated view allows you to see how wide the river is:
 
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/194400/189235651-b5376bd7-432a-4cf5-97b7-dc2a1951f746.png">
 
-Roughly **`20m`** at the point on the edge of the property where there is a ramp down to the water.
+The _width_ of the river is roughly **`~20m`** 
+at the point on the edge of the property 
+where there is a ramp down to the water.
 
-The river is **`~5m`** deep directly in front of the land.
-The valley has been carved out by _millions_ of years of water flow.
-The river **`Paiva`** flows into the douro 
+![river-frontage-with-ines](https://user-images.githubusercontent.com/194400/219908745-45843ea8-b7a6-45f4-ba34-c1e653aa7021.png)
 
-### Crestuma–Lever Dam
+The _depth_ is **`~5m`** directly in front of the land.
+While we were viewing the land,
+a pleasure tour boat 
+from the local **5 Star hotel**
+passed by:
 
-The river is dammed down-stream by the Crestuma–Lever Dam,
+![boat-directly-in-front-of-land](https://user-images.githubusercontent.com/194400/219909098-0bb9220d-3c27-4da4-8aea-96cbfc258a00.png)
+
+Useful for visualizing the relative width of the river
+and a reminder that people _want_ to visit this area.
+
+It's difficult to see in the photos above, 
+because the water is quite deep,
+but the water is crystal clear in the shallows: 
+
+![crystal-clear-water](https://user-images.githubusercontent.com/194400/219908807-f59cc4ba-22d2-44da-a183-2787eacb95c9.png)
+
+The `Paiva` river is considered
+one of the cleanest/purest in Europe.
+
+### Crestuma–Lever Dam 🛥️
+
+The river **`Paiva`** flows into the **`Douro`**
+a few hundred metres downstream. 
+The `Douro` is dammed down-stream by the Crestuma–Lever Dam,
 which creates a **strategic water reservoir** 
-for the Douro region:
+for the region:
 [wikipedia.org/wiki/Crestuma-Lever_Dam](https://en.wikipedia.org/wiki/Crestuma%E2%80%93Lever_Dam)
 
 
@@ -565,7 +639,8 @@ that would _significantly_ impact local tourism/jobs!
 
 ### Atlantic Ocean _Access_ 🌍 
 
-The dam has a lock system that allows boats (up to `83m` length!)
+The dam has a lock system 
+that allows boats (up to `83m` length!)
 
 ![BarragemCrestumaLever-4](https://user-images.githubusercontent.com/194400/195786179-01408d1b-8ca6-4664-a035-c13b5f5c80f4.jpg)
 
@@ -589,7 +664,7 @@ and use it as the base for Atlantic - and eventually round-the-world - sailing! 
 
 
 
-# Who?
+# Who? 👨‍👩‍👧‍👦
 
 The land will be run as a 
 Food Forest Farm for "Family & Friends".
@@ -629,9 +704,11 @@ This is the **_perfect_ retirement activity** for her
 as their is a _lot_ to be explored! 
 
 > **Note**: Full list of manager tasks TBD.
+> There will be good digital systems 
+> to help keep track of everything.
 
 
-## Volunteer Visitors
+## Volunteer Visitors ✋
 
 We intend to list the farm on several 
 work-for-room+board websites
@@ -666,16 +743,19 @@ _large_ sums of cash,
 we also know that we don't need it all _up-front_.
 We only need enough to get _started_.
 
-# Revenue 
+
+# Revenue 💵
 
 There are **_multiple_ streams** of **revenue** 
 for a small holding farm.
 The most effective/lucrative one 
 is _temporary_ guest accommodation.
 
-## Guest Cottage(s)
 
-Our research suggests a guest cottage in the Douro Region 
+## Guest Cottage(s) 🏡
+
+Our research suggests 
+a guest cottage in the Douro Region 
 rents for a _minimum_ of **`€120/night`**.
 We will charge a "***market-clearing***" lower price of **`€80/night`**
 while we are establishing the rest of the business. 
@@ -683,17 +763,27 @@ while we are establishing the rest of the business.
 These are our _draft_ calculations:
 https://docs.google.com/spreadsheets/d/1ma5LOmK_vrSrYULjT0_WIHblgy6OU1VThYixeTUivCc
 
-<img width="1080" alt="image" src="https://user-images.githubusercontent.com/194400/218085388-b8b3332b-3b97-44bd-8805-5df8871d9bc6.png">
+<img width="1080" alt="cost revenue breakdown" 
+  src="https://user-images.githubusercontent.com/194400/219908377-ee21c04e-025d-4ee5-8040-4ad8bc7f8d50.png">
+
+> **Note**: very happy to discuss/break-down in more detail.
+**Please _ask_ any questions** you have. 
+
+Attempted to round-up all the costs
+and conservative on the occupancy of the cottages.
+Honestly think that in the "peak" months (May - September)
+we can get **_full_ occupancy** 
+and **_waiting_ list**
+with a good **marketing plan**. 
 
 
 
-
-### Renovations?
+### Renovations? 🏗️
 
 The land has 4 "urban" buildings 
 that can be renovated (or re-built).
 
-#### Newest Building
+#### Newest Building 🆕
 
 The newest building as it currently stands is a granite walled shell 
 with a concrete slab poured on top:
@@ -713,7 +803,8 @@ the "face" of the front of the house is this:
 and the basement, currently occupied by chickens:
 
 ![low-basement](https://user-images.githubusercontent.com/194400/194821214-88127ed1-c4d9-48e4-acf0-1045b71ffcfb.png)
-![chickens](https://user-images.githubusercontent.com/194400/194821277-5d495f2d-3a88-4869-abbf-4f5b203e2d23.png)
+![chickens](https://user-images.githubusercontent.com/194400/194821277-5d495f2d-3a88-4869-abbf-4f5b203e2d23.png 
+  "chickens in basement")
 
 It's a no-go for me.
 I would keep it as a support building 
@@ -723,6 +814,10 @@ for something better.
 
 The dimensions are good and currently stores all their agricultural machines:
 
+![agricultural-machines-inside-building](https://user-images.githubusercontent.com/194400/219909400-5ad6cb53-bbbc-4dde-8381-35776b549221.png 
+ "agricultural machines inside building")
+
+
 Yes, it's a "shame" to waste the effort/money someone has put into building it,
 but there's no point being "suck" with someone else's poor design choices.
 It will cost us €3k to "un-do" this structure.
@@ -730,15 +825,37 @@ We will put off the work (and expense!) until all other buildings are _finished_
 
 
 
-## Renovating the 2 Smaller "Cottages"
+## Renovating the 2 Smaller "Cottages" ✌️
 
 The two smaller dwellings on the first terrace
 appear to be agricultural buildings:
 
+![agricultural-buildings](https://user-images.githubusercontent.com/194400/219909475-97190d80-137a-4810-bce7-9f55c343ee26.png
+ "agricultural buildings")
 
 
+Instead of attempting to refurbish these structures
+we would contract a local architect/firm
+to draw up plans to expand each one by (up to) 30% (that's the law).
+We would build 2 compact cottages 
+that would sleep up to **6 people**.
+We would get full planning permission
+for the cottages.
 
-Attempting to refurbish these structures. 
+The _internal_ space of the cottages
+will be _maximized_ by
+having _extra_-tall ceilings
+and then "loft" style furniture.
+
+Here's an example for inspiration, care of Zoku hotel, Amsterdam:
+[livezoku.com](https://livezoku.com/)
+
+![zoku-hotel-amsterdam](https://user-images.githubusercontent.com/194400/219910375-dd44aea2-964a-403c-b2fd-f94aab1b7cc4.png)
+
+See: 
+https://www.designindaba.com/articles/creative-work/end-hotel-room-we-know-it
+
+We can do _much, much better_. 
 
 
 ### Caretaker Cottage 
@@ -747,17 +864,20 @@ The caretaker cottage will be
 one of the permanent "urban" structures.
 The configuration will be:
 + Ground Floor: reduced mobility studio flat with 
-  + Discrete 
+  + Discrete fold-away ("murphy") bed
   + Small kitchenette with
     + Sink
     + Kettle
     + Nespresso machine
-    + 
-  + Compact but accessible toilet and shower.
+    + Compact dishwasher
+    + Compact 2-zone induction hob
+    + Mini-fridge - just for essentials
+  + Compact but accessible toilet and walk-in shower.
 + Second Floor: spacious bedroom with: 
-  + Large windows that maximise natural light
+  + Large windows that maximize natural light
   + Double Bed 
-  + built-in wardrobe
+  + Built-in wardrobe
+  + Comfortable chair & desk
 
 The design of the caretaker cottage 
 will integrate into the landscaping
@@ -769,15 +889,15 @@ and be prepared for _comprehensive_ access.
 
 
 
-## Help Wanted!
+## Help Wanted! 🔰
 
 ### Part-time Paid Cleaning Person 🧹
 
 The cleaning person will be hired 
 from the local area; **`#JobCreation`** <br />
-We expect to pay **`€6/h`** 
+We expect to pay **`€7/h`** 
 and for them to work **`3h/day`** <br />
-i.e. 3h x 5days x €6 x 52 weeks = **`€4,680/year`**
+i.e. 3h x 5 days x €7 x 52 weeks = **`€5,460/year`**
 
 Task will include:
 + [x] Cleaning the main house & cottages
@@ -791,7 +911,7 @@ we will move to employing cleaning people **_full_-time year-round**.
 
 
 
-### Workaway
+### Workaway 
 
 Workaway is a community + website
 that allows "hosts" to list their 
@@ -813,7 +933,14 @@ as soon as we have our plan clearly layed out
 and somewhere for the people to stay.
 
 
-## Main House
+## Main House 
+
+The main house will be built 
+on the site of the current half-finished building.
+
+Similar to the cottages,
+it will have high ceilings
+and "loft" style beds and furniture.
 
 _Initially_ we will rent out the "main house" 
 whenever we are not there
@@ -827,7 +954,7 @@ i.e. not listed _publicly_ on the website
 (or 3<sup>rd</sup> party booking sites).
 
 
-## YouTube Channel
+## `YouTube` Channel
 
 We need to create/publish _regular_ videos.
 These will serve both as educational videos for _ourselves_,
