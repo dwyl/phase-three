@@ -166,7 +166,11 @@ we can live a zero-waste lifestyle.
 
 ## 4. Access to Water Sports! ⛵ 🛶 🏄‍♀️
 
-With 300m 
+With 200m+ of river frontage
+and plenty of space for both 
+a private river beach 
+and dock for boats
+we can have a water sports paradise!
 
 
 
@@ -221,6 +225,19 @@ See:
 
 
 ### Abundant Water 🚰
+
+Bordering a year-round river 
+and with 2 streams and 3 wells on the property,
+there is no shortage of water.
+<!--
+We intend to build several tanks 
+for housing both "ornamental" (koi carp) 
+and "food" fish. 
+See: 
+[Aquaponics 🐟 + 🌱](#aquaponics---)
+section.
+-->
+
 
 
 ## 3. Short-term Mental & Physical Health
